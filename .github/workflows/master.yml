@@ -14,3 +14,4 @@ jobs:
         server: server220.web-hosting.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        server-dir: public_html/
