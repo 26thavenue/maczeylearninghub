@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: http://maczeylearninghub.com
-        username: ${{ secrets.username }}
-        password: ${{ secrets.password }}
+        server: server220.web-hosting.com
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
