@@ -33,8 +33,8 @@ const ContactForm = () => {
   };
 
   return (
-    <div className=" max-w-3/4 mx-auto bg-white shadow-md rounded-lg p-6">
-      <h2 className="text-2xl font-bold text-center mb-4">Send us a mail</h2>
+    <div className=" w-full lg:max-w-1/2   rounded-lg p-8 mb-12">
+      <h2 className="text-2xl font-bold  mb-4">Send us a mail</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <input
           type="text"

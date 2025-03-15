@@ -1,0 +1,682 @@
+{
+  "coursesHE": [
+    {
+      "title": "Diploma in Business Studies",
+      "level": "Level 3",
+      "category": "Access to Higher Education",
+      "overview": "This is an intensive yet rewarding course which is intended to provide a qualification equivalent to three A-levels, recognised by universities as sufficient for entry to business and finance related degree courses such as accountancy, actuarial science, banking and finance, business administration, economics, financial services, insurance and international trade. Throughout the course, you will delve into an array of units that can prepare you for the business and finance career you want to work towards. From financial accounting and business financing to economics and financial markets. With a broad scope, you can use this knowledge to progress into a specified area of study in business and finance. You will also be developing a wide range of academic study skills on the course, from essay writing to using ICT, leading you towards the Independent Academic Study unit, where you will have the chance to experience what producing a dissertation will be like, once you move onto university.",
+      "courseContent": [
+        "Business Communication",
+        "Business Financial Accounting",
+        "Developing a Business Plan",
+        "Managing Human Resources for Business",
+        "Marketing Principles and Implications for Business",
+        "The Nature and Context of Business",
+        "Business Recruitment and Retention",
+        "Financial Planning in Business",
+        "IT Business Solutions",
+        "IT Systems Security",
+        "Contract Law",
+        "Independent Academic Study (Business Studies)",
+        "Giving a presentation to an audience",
+        "Skills for study: Essay writing",
+        "Skills for study: Research",
+        "Skills for study: Writing",
+        "Understanding Maths"
+      ],
+      "entryRequirements": {
+        "age": "18+ (17 if studying 100% online)",
+        "education": "Level 2 in Maths and English [GCSE at grade 4 (GCSE Grade C) or above]",
+        "language": "If your first language is not English, you need an IELTS score of 5.5 or higher."
+      },
+      "duration": {
+        "fullTimeUK": "6 months",
+        "fullTimeOnline": "9 months",
+        "partTimeOnline": "18-24 months",
+        "hybrid": "3 months online + 6 months in Reading, UK"
+      },
+      "importantNote": "To obtain the full Access to Higher Education Diploma in Business Studies, students must complete at least 50% of the course within the UK or provide a valid UK address as required by QAA. Students who are unable to travel to the UK or wish to complete the entire course outside of the UK will receive Level 3 Diploma in Business Management upon successful completion of the programme. The Level 3 Diploma is validated by Open College Network South East Region (trading as Laser Learning Awards).",
+      "imageUrl": "https://example.com/business-studies.jpg"
+    },
+    {
+      "title": "Diploma in Computing",
+      "level": "Level 3",
+      "category": "Access to Higher Education",
+      "overview": "This is an intensive yet rewarding course which is intended to provide a qualification equivalent to three A-levels, recognised by universities as sufficient for entry to computing-related degree courses such as computing, computer science, information technology and game design. Throughout the course, you will delve into an array of units that can prepare you for the IT career you want to work towards. From computer architecture and web design to cyber security and database management. With a broad scope, you can use this knowledge to progress into a specified area of computing study. You will also be developing a wide range of academic study skills on the course, from essay writing to using ICT, leading you towards the Independent Academic Study unit, where you will have the chance to experience what producing a dissertation will be like, once you move onto university.",
+      "courseContent": [
+        "Computer Architecture (3 credits)",
+        "Computer Networks and Data Communications (6 credits)",
+        "IT Systems Security (3 credits)",
+        "Creating Dynamic Responsive Websites (3 credits)",
+        "Operating Systems and System Tools (3 credits)",
+        "Introduction to Programming (6 credits)",
+        "Setting Up and Populating Tables in a Database Application (3 credits)",
+        "Business Communication (3 credits)",
+        "Leadership and Management Skills (3 credits)",
+        "The Nature and Context of Business (3 credits)",
+        "The Nature & Applications of Statistics (3 credits)",
+        "Independent Academic Study (6 credits)",
+        "Giving a presentation to an audience (3 credits)",
+        "Skills for study: Essay writing (3 credits)",
+        "Skills for study: Research (3 credits)",
+        "Skills for study: Writing (3 credits)",
+        "Understanding Maths (3 credits)"
+      ],
+      "entryRequirements": {
+        "age": "18+ (17 if studying 100% online)",
+        "education": "Level 2 in Maths and English [GCSE at grade 4 (GCSE Grade C) or above]",
+        "language": "If your first language is not English, you need an IELTS score of 5.5 or higher."
+      },
+      "duration": {
+        "fullTimeUK": "6 months",
+        "fullTimeOnline": "9 months",
+        "hybrid": "3 months online + 6 months in Reading, UK"
+      },
+      "importantNote": "To obtain the full Access to Higher Education Diploma in Computing, international students must complete at least 50% of the course within the UK or provide a valid UK address as required by QAA. Students who are unable to travel to the UK or wish to complete the entire course outside of the UK will receive Level 3 Diploma in Computer Science upon successful completion of the programme. The Level 3 Diploma is validated by Open College Network South East Region (trading as Laser Learning Awards).",
+      "imageUrl": "https://example.com/computing-diploma.jpg"
+    },
+    {
+    "title": "Diploma in Healthcare Professions",
+    "level": "Level 3",
+    "category": "Access to Higher Education",
+    "overview": "Equivalent to three A-levels, preparing students for healthcare-related degree courses.",
+    "courseContent": [
+      "Cells, Tissues and Organs",
+      "Digestion and the Liver",
+      "Homeostasis for Healthcare",
+      "The Musculoskeletal System for Healthcare",
+      "Blood, Circulation and Gaseous Exchange",
+      "Disease and Body Defence",
+      "Reproductive Biology",
+      "Independent Academic Study",
+      "Giving a Presentation to an Audience",
+      "Skills for Study: Essay Writing",
+      "Skills for Study: Research",
+      "Skills for Study: Writing",
+      "Understanding Mathematics"
+    ],
+    "entryRequirements": {
+      "age": "18+ (17 if studying 100% online)",
+      "education": "Level 2 in Maths and English [GCSE at grade 4 (GCSE Grade C) or above]",
+      "language": "If your first language is not English, you need an IELTS score of 5.5 or higher."
+    },
+    "duration": {
+      "fullTimeUK": "6 months",
+      "fullTimeOnline": "9 months",
+      "hybrid": "3 months online + 6 months in Reading, UK"
+    },
+    "imageUrl": "https://example.com/healthcare-diploma.jpg"
+  },
+   {
+    "title": "Diploma in Medicine",
+    "level": "Level 3",
+    "category": "Access to Higher Education",
+    "overview": "Equivalent to three A-levels, preparing students for medical-related degree courses.",
+    "courseContent": [
+      "Cells, Tissues and Organs",
+      "Digestion and the Liver",
+      "Homeostasis for Healthcare",
+      "Blood, Circulation and Gaseous Exchange",
+      "Medical Biochemistry",
+      "Fundamentals of Chemistry",
+      "Equilibria Acids and Buffers",
+      "Reaction Kinetics and Energetics",
+      "Separation and Analysis",
+      "Medical Chemistry",
+      "Medical Physics 1",
+      "Medical Physics 2",
+      "Statistics",
+      "Critical Thinking",
+      "Study Skills for Medicine",
+      "Professional Behaviours",
+      "Doctor-Patient Relationship",
+      "Health Studies for Medicine"
+    ],
+    "entryRequirements": {
+      "age": "18+ (17 if studying 100% online)",
+      "education": "Level 2 in Maths and English [GCSE at grade 4 (GCSE Grade C) or above]",
+      "language": "If your first language is not English, you need an IELTS score of 5.5 or higher.",
+      "additionalRequirement": "Medicine degrees may require five GCSEs (Grades 7–9 in English, Maths, and Science)"
+    },
+    "duration": {
+      "fullTimeUK": "6 months",
+      "fullTimeOnline": "9 months",
+      "hybrid": "3 months online + 6 months in Reading, UK"
+    },
+    "importantNote": "BMAT or UCAT exams are required for Medicine, Veterinary Science, or Dentistry.",
+    "imageUrl": "https://example.com/medicine-diploma.jpg"
+  },{
+    "title": "Diploma in Creative Computing and Esports",
+    "level": "Level 3",
+    "category": "Access to Higher Education",
+    "overview": "Designed to open doors to higher education and careers in creative computing and esports. Suitable for career changers, returnees to education, and those pursuing a passion.",
+    "courseContent": [
+      "3D Modelling (6 credits)",
+      "Computer Game Creation and Design (3 credits)",
+      "Creating a VR Demo Prototype (3 credits)",
+      "Creating Video Streaming Content (3 credits)",
+      "Creation of a 3D Animation Scene (3 credits)",
+      "Developing a Professional Portfolio (3 credits)",
+      "Digital Art in Media (3 credits)",
+      "Game Production using a Game Engine (3 credits)",
+      "Storytelling for a Creative Computing Project (3 credits)",
+      "Understanding VR and AR (3 credits)",
+      "Ethics and Legislation in Esports (3 credits)",
+      "Planning an Esports Event (3 credits)",
+      "Shoutcasting in Esports (3 credits)",
+      "The Origin of Esports and Careers (3 credits)",
+      "Understanding Esports Strategies (3 credits)",
+      "Using Social Media to Market Esports (3 credits)"
+    ],
+    "entryRequirements": {
+      "age": "18+ (17 if studying 100% online)",
+      "education": "Level 2 in Maths and English [GCSE at grade 4 (GCSE Grade C) or above]",
+      "language": "If your first language is not English, you need an IELTS score of 5.5 or higher."
+    },
+    "duration": {
+      "fullTimeUK": "6 months",
+      "fullTimeOnline": "9 months",
+      "hybrid": "3 months online + 6 months in Reading, UK"
+    },
+    "imageUrl": "https://example.com/creative-computing-esports.jpg"
+  }
+  ],
+
+  "coursesPD":[
+    {
+      "title": "Professional Diploma in Digital Marketing and E-Commerce",
+      "imageUrl" :"",
+      "description": "Get on the fast track to a career in digital marketing. In this Professional Diploma programme, you’ll learn in-demand skills at your own pace, no degree or experience required.",
+      "duration": "6 months",
+      "studyMode": "Online learning with tutor support",
+      "eqfLevel": 5,
+      "creditsRecommendation": "7 ECTS",
+      "learningOutcomes": [
+        "Learn the fundamentals of digital marketing and e-commerce to gain the skills needed to land an entry-level job.",
+        "Measure marketing performance through analytics and present insights.",
+        "Attract and engage customers through digital marketing channels like search and email.",
+        "Build e-commerce stores, analyze online performance, and grow customer loyalty."
+      ],
+      "courseContent": [
+        {
+          "unit": "Foundations of Digital Marketing & E-Commerce",
+          "topics": [
+            "Define the fields of digital marketing and e-commerce",
+            "Describe the job responsibilities of an entry-level digital marketer and e-commerce specialist",
+            "Explain the concept of a marketing funnel",
+            "Understand the elements and goals of a digital marketing and e-commerce strategy"
+          ]
+        },
+        {
+          "unit": "Attract and Engage Customers with Digital Marketing",
+          "topics": [
+            "Recognize strategies to build brand awareness among potential customers",
+            "Explain the purpose of SEO (search engine optimization) and essential SEO terms",
+            "Optimize website content for SEO",
+            "Understand search engine marketing (SEM) and how it benefits businesses"
+          ]
+        }
+      ],
+      "degreeProgression": [
+        {
+          "university": "University of London",
+          "degree": "Bachelor of Science in Marketing"
+        },
+        {
+          "university": "University of Maryland Global Campus",
+          "degrees": [
+            "Bachelor of Science in Cyber Security Management and Policy",
+            "Bachelor of Science in Cyber Security Technology"
+          ]
+        },
+        {
+          "university": "Illinois Tech University",
+          "degree": "Bachelor of Science in Information Technology"
+        }
+      ]
+    },
+    {
+      "title": "Professional Diploma in Digital Content Creation",
+      "imageUrl" :"",
+      "description": "Launch your career in content creation. Leverage AI and build the skills needed to go from newbie to pro while earning a credential that opens doors. No experience necessary.",
+      "duration": "4 months",
+      "studyMode": "Online learning with tutor support",
+      "eqfLevel": 5,
+      "creditsRecommendation": "N/A",
+      "learningOutcomes": [
+        "Understand the principles of visual storytelling and design.",
+        "Develop a social media engagement strategy to create a strong brand presence.",
+        "Explore timesaving tips and AI-powered tools.",
+        "Produce diverse digital content like videos, podcasts, and infographics."
+      ],
+      "courseContent": [
+        {
+          "unit": "Design Fundamentals",
+          "topics": [
+            "Understand and apply basic visual design principles.",
+            "Explore career opportunities in design.",
+            "Gain hands-on experience with Adobe Express.",
+            "Build a portfolio showcasing design expertise."
+          ]
+        },
+        {
+          "unit": "Social Media Content Strategy",
+          "topics": [
+            "Create engaging social media content.",
+            "Maintain a cohesive social media presence.",
+            "Leverage trends and best practices.",
+            "Analyze social media metrics to improve strategy."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional Diploma in Software Development",
+      "imageUrl" :"",
+      "description": "Prepare for a career as a full stack developer. Build job-ready skills – and must-have AI skills – for an in-demand career. In this Professional Diploma programme, you’ll learn in-demand skills at your own pace, no degree or experience required.",
+      "duration": "5 months",
+      "studyMode": "Online learning with tutor support",
+      "eqfLevel": 5,
+      "creditsRecommendation": "6 ECTS",
+      "learningOutcomes": [
+        "Develop with front-end technologies like HTML, CSS, JavaScript, React, and Bootstrap.",
+        "Deploy applications using Cloud Native methodologies and tools.",
+        "Program applications using back-end languages and frameworks like Express, Node.js, Python, and Django.",
+        "Build a GitHub portfolio with multiple hands-on projects."
+      ],
+      "courseContent": [
+        {
+          "unit": "Introduction to Software Engineering",
+          "topics": [
+            "Describe software engineering concepts and SDLC.",
+            "List different types of programming languages.",
+            "Understand application architecture and design patterns.",
+            "Explore career opportunities in software engineering."
+          ]
+        },
+        {
+          "unit": "Introduction to Cloud Computing",
+          "topics": [
+            "Define cloud computing and its essential characteristics.",
+            "Describe cloud service and deployment models.",
+            "Understand cloud-related trends like DevOps and Serverless.",
+            "List services of popular cloud platforms."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional Diploma in Graphic Design",
+      "imageUrl" :"",
+      "duration": "6 months",
+      "study_mode": "Online learning with tutor support",
+      "EQF_level": 5,
+      "credits_recommendation": "8 ECTS",
+      "learningOutcomes": [
+        "Gain proficiency in Photoshop, Illustrator, and Figma.",
+        "Create logos, covers, and UI for games.",
+        "Design marketing materials such as web banners and print.",
+        "Build a professional portfolio."
+      ],
+      "course_content": [
+        {
+          "unit": "Fundamentals of Graphic Design",
+          "topics": [
+            "Typography, imagery, color, and layout principles.",
+            "Basic Adobe Photoshop skills.",
+            "Create a promotional poster as a final project."
+          ]
+        },
+        {
+          "unit": "Brand Identity and Vector Graphics",
+          "topics": [
+            "Create logos and brand identity materials using Adobe Illustrator.",
+            "Ensure consistency across design elements.",
+            "Develop a cohesive branding project for a video game."
+          ]
+        },
+        {
+          "unit": "Interaction Design and UX/UI Principles",
+          "topics": [
+            "Apply interaction design principles.",
+            "Create wireframes and prototypes with Figma.",
+            "Develop a user-friendly digital interface."
+          ]
+        },
+        {
+          "unit": "Digital and Print Media Design",
+          "topics": [
+            "Design marketing materials using Photoshop and Illustrator.",
+            "Prepare files for print production.",
+            "Create promotional materials for a video game release."
+          ]
+        },
+        {
+          "unit": "Designing with GenAI and Capstone Project",
+          "topics": [
+            "Learn AI tools in graphic design.",
+            "Analyze design trends and competitors.",
+            "Complete a capstone project for a gaming company."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional Diploma in UX Design",
+      "imageUrl" :"",
+      "duration": "6 months",
+      "study_mode": "Online learning with tutor support",
+      "EQF_level": 5,
+      "credits_recommendation": "8 ECTS",
+      "learningOutcomes": [
+        "Follow the UX design process (empathize, define, ideate, prototype, test).",
+        "Conduct UX research including interviews and usability studies.",
+        "Apply user-centered design, accessibility, and equity-focused design.",
+        "Create a professional UX portfolio with end-to-end projects."
+      ],
+      "course_content": [
+        {
+          "unit": "Foundations of UX Design",
+          "topics": [
+            "Understand user-centered design and accessibility.",
+            "Learn about design sprints and team collaboration."
+          ]
+        },
+        {
+          "unit": "Start the UX Design Process",
+          "topics": [
+            "Empathize with users and identify pain points.",
+            "Develop problem statements and generate ideas."
+          ]
+        },
+        {
+          "unit": "Build Wireframes and Low-Fidelity Prototypes",
+          "topics": [
+            "Create wireframes and paper prototypes.",
+            "Use Figma to build interactive low-fidelity designs."
+          ]
+        },
+        {
+          "unit": "Conduct UX Research and Test Early Concepts",
+          "topics": [
+            "Plan and conduct usability studies.",
+            "Analyze research insights to refine designs."
+          ]
+        },
+        {
+          "unit": "Create High-Fidelity Designs and Prototypes",
+          "topics": [
+            "Build mockups and high-fidelity prototypes with Figma.",
+            "Use design systems for standardization."
+          ]
+        },
+        {
+          "unit": "Build Dynamic UI for Websites",
+          "topics": [
+            "Apply UX frameworks to create a website.",
+            "Develop information architecture and sitemaps.",
+            "Complete a project for a UX portfolio."
+          ]
+        },
+        {
+          "unit": "Design for Social Good",
+          "topics": [
+            "Develop a UX project focused on social impact.",
+            "Create mobile and responsive web designs.",
+            "Learn AI skills for UX."
+          ]
+        }
+      ]
+    }
+    ],
+
+  "certifications": [
+    {
+      "title": "CompTIA Tech+",
+      "skills": [
+        "IT Concepts and Terminology",
+        "Infrastructure",
+        "Applications and Software",
+        "Software Development",
+        "Database Fundamentals",
+        "Security"
+      ]
+    },
+    {
+      "title": "CompTIA A+",
+      "skills": [
+        "Hardware",
+        "Operating Systems",
+        "Troubleshooting",
+        "Software Troubleshooting",
+        "Networking",
+        "Security",
+        "Mobile Devices",
+        "Virtualization and Cloud Computing",
+        "Operational Procedures"
+      ]
+    },
+    {
+      "title": "CompTIA Cloud+",
+      "skills": [
+        "Cloud Architecture",
+        "Security",
+        "Deployment",
+        "Operations",
+        "DevOps Fundamentals",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "title": "CompTIA Network+",
+      "skills": [
+        "Networking Concepts",
+        "Network Implementations",
+        "Network Operations",
+        "Network Security",
+        "Network Troubleshooting"
+      ]
+    },
+    {
+      "title": "CompTIA Security+",
+      "skills": [
+        "General Security Concepts",
+        "Security Operations",
+        "Threats, Vulnerabilities, and Mitigations",
+        "Security Architecture",
+        "Security Program Management & Oversight"
+      ]
+    },
+    {
+      "title": "CompTIA Data+",
+      "skills": [
+        "Data Concepts and Environments",
+        "Data Mining",
+        "Data Analysis",
+        "Visualization",
+        "Data Governance, Quality & Controls"
+      ]
+    }
+  ],
+
+  "coursesWork2LearnDegree":[ 
+    {
+      "title": "Level 4 Diploma in Artificial Intelligence",
+      "imageUrl" :"",
+      "partner": "Liscademy",
+      "duration": "6 months (online)",
+      "about": "The Level 4 Diploma in Artificial Intelligence offers a comprehensive introduction to AI, focusing on key concepts, machine learning, data science, and ethical considerations.",
+      "units": {
+        "mandatory": [
+          "Introduction to Artificial Intelligence and Applications",
+          "Mathematical Foundations for Machine Learning",
+          "Data Science Using Python",
+          "Big Data Management",
+          "Introduction to Deep Learning",
+          "Artificial Intelligence Ethics"
+        ]
+      },
+      "learning_outcomes": [
+        "Demonstrate a fundamental understanding of artificial intelligence concepts, theories, and principles.",
+        "Apply machine learning algorithms and techniques to solve real-world problems.",
+        "Analyze and process data for AI applications, including data cleaning, transformation, and feature engineering.",
+        "Develop basic AI solutions using programming languages such as Python.",
+        "Evaluate the ethical and legal considerations associated with AI technologies.",
+        "Distinguish various impacts of AI on society, economy, and industry."
+      ],
+      "entry_requirements": {
+        "age": 17,
+        "english_requirement": "IELTS 6.0 or IGCSE English Grade C/4 or Level 2 Functional Skills English",
+        "academic_requirement": [
+          "Level 3 Diploma in Information Technology (60 credits)",
+          "Access to HE Diploma in Computing (60 credits)",
+          "2 A Levels",
+          "Other level 3 qualification (60 credits)"
+        ]
+      },
+      "progression": "Level 5 Diploma in Artificial Intelligence",
+      "career_opportunities": [
+        "AI Developer",
+        "Data Analyst",
+        "Machine Learning Engineer",
+        "AI Research Assistant",
+        "Business Intelligence Analyst",
+        "Robotics Programmer",
+        "AI Consultant"
+      ]
+    },
+    {
+      "title": "Level 5 Diploma in Artificial Intelligence",
+      "imageUrl" :"",
+      "partner": "Liscademy",
+      "duration": "6 months (online)",
+      "about": "The Level 5 Diploma in Artificial Intelligence builds upon foundational AI knowledge, advancing students' expertise in machine learning, neural networks, and AI-driven technologies.",
+      "units": {
+        "mandatory": [
+          "Visualisation",
+          "Reinforce Machine Learning",
+          "Natural Language Processing",
+          "Human-AI Interaction",
+          "Advanced Deep Machine Learning",
+          "Introduction to Computer Vision"
+        ]
+      },
+      "learning_outcomes": [
+        "Deep Understanding of Advanced AI Concepts",
+        "Advanced Machine Learning Proficiency",
+        "Advanced Data Handling Skills",
+        "Proficiency in Advanced AI Programming",
+        "Advanced Ethical and Legal Assessment",
+        "Proficient in strategic impact of AI"
+      ],
+      "entry_requirements": {
+        "age": 17,
+        "english_requirement": "IELTS 6.0 or IGCSE English Grade C/4 or Level 2 Functional Skills English",
+        "academic_requirement": [
+          "Level 3 Diploma in Information Technology (60 credits)",
+          "Access to HE Diploma in Computing (60 credits)",
+          "2 A Levels",
+          "Other level 3 qualification (60 credits)"
+        ]
+      },
+      "progression": "Level 6 Diploma in Artificial Intelligence",
+      "career_opportunities": [
+        "Senior AI Developer",
+        "Data Scientist",
+        "Machine Learning Architect",
+        "AI Research Scientist",
+        "AI Project Manager",
+        "AI Specialist in Healthcare",
+        "Autonomous Systems Engineer"
+      ]
+    },
+    {
+      "title": "Level 5 Extended Diploma in Business Management",
+      "imageUrl" :"",
+      "partner": "Liscademy",
+      "duration": "12 months (online)",
+      "about": "Elevate your career with our online courses in Business and Management. Achieve an internationally recognised Level 5 Extended Diploma, equivalent to the first two years of a university degree.",
+      "units": {
+        "mandatory": [
+          "Communications in Organisations (20 credits)",
+          "Leadership and the Organisation (20 credits)",
+          "Financial Awareness (20 credits)",
+          "Managing Change (20 credits)",
+          "Business Operations (20 credits)",
+          "Developing Teams (20 credits)",
+          "Responding to the Changing Business Environment (20 credits)",
+          "Effective Decision Making (20 credits)",
+          "Business Development (20 credits)",
+          "Business Models and Growing Organisations (20 credits)",
+          "Customer Management (20 credits)",
+          "Risk Management and Organisations (20 credits)"
+        ]
+      },
+      "entry_requirements": {
+        "age": 17,
+        "english_requirement": "IELTS 6.0 or IGCSE English Grade C/4 or Level 2 Functional Skills English",
+        "academic_requirement": [
+          "Level 3 Diploma in Business Management (60 credits)",
+          "Access to HE Diploma in Business Studies (60 credits)",
+          "2 A Levels",
+          "Other level 3 qualification (60 credits)"
+        ]
+      },
+      "degree_progression": [
+        "Arden University - BA. (Hons) in Business",
+        "Anglia Ruskin University - BSc. (Hons) in Business and Management",
+        "University of Bolton - BSc. (Hons) in Business Management",
+        "University of Chichester - BA. (Hons) in Business",
+        "University of Derby - BSc. (Hons) in Business and Management",
+        "University of Hertfordshire - BA. (Hons) in Business Administration",
+        "University of the West of England Bristol - BA. (Hons) in Business and Management",
+        "University of South Wales - BA. (Hons) in International Business"
+      ]
+    },
+    {
+      "title": "Level 5 Extended Diploma in Information Technology",
+      "imageUrl" :"",
+      "partner": "Liscademy",
+      "duration": "12 months (online)",
+      "about": "Unlock the future of technology with our online courses in Information Technology. Our programme grants you an internationally recognized Level 5 Extended Diploma.",
+      "units": {
+        "mandatory": [
+          "Information Technology and IT Ethics (20 credits)",
+          "Mathematics and Statistics for IT (20 credits)",
+          "PC Maintenance and Operating Systems (20 credits)",
+          "Computer Graphics Editing and Database Concepts (20 credits)",
+          "Technopreneurship (20 credits)",
+          "Network Security (20 credits)",
+          "C#.NET Programming (20 credits)",
+          "System Administration (20 credits)"
+        ],
+        "elective": [
+          "Logical IT Networking (20 credits)",
+          "Physical IT Networking (20 credits)",
+          "Web Design (20 credits)",
+          "Web Programming (20 credits)",
+          "Graphical User Interface (GUI) (20 credits)",
+          "Programming Concepts and Java for Android Programming (20 credits)",
+          "Network Routing and Switching (20 credits)",
+          "Network Design and Administration (20 credits)",
+          "Content Management Systems (20 credits)",
+          "Business to Business (B2B) E-commerce (20 credits)",
+          "Business to Consumer (B2C) E-commerce (20 credits)"
+        ]
+      },
+      "entry_requirements": {
+        "age": 17,
+        "english_requirement": "IELTS 6.0 or IGCSE English Grade C/4 or Level 2 Functional Skills English",
+        "academic_requirement": [
+          "Level 3 Diploma in Information Technology (60 credits)",
+          "Access to HE Diploma in Computing (60 credits)",
+          "2 A Levels",
+          "Other level 3 qualification (60 credits)"
+        ]
+      },
+      "degree_progression": [
+        "University of Bolton - BEng. (Hons) in Software Engineering",
+        "University of Derby - BSc. (Hons) in Computing and Information Technologies"
+      ]
+    }]
+}

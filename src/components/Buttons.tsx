@@ -17,7 +17,7 @@ const index = ({
   const variantClass: Record<ButtonVariant, string>= {
     primary :  "bg-primary text-white hover:opacity-80 transition-opacity ",
     secondary: "bg-white text-black hover:bg-gray-100 transition-colors",
-    tertiary:  "bg-transparent text-black",
+    tertiary:  "bg-tertiary text-black",
     outline :  "border-[1px] rounded-md",
   } 
 

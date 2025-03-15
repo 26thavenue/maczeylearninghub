@@ -11,9 +11,9 @@ const Navbar = () => {
 
           <div className='lg:flex gap-8 text-lg hidden '>
             <Link to="/about" className="hover:underline transition-all ease-in ">About Us</Link>
-            <Link to="/about" className="hover:underline transition-all ease-in ">Contact</Link>
-            <Link to="/about" className="hover:underline transition-all ease-in ">Our partners</Link>
-            <Link to="/about" className="hover:underline transition-all ease-in ">Courses</Link>
+            <Link to="/contact" className="hover:underline transition-all ease-in ">Contact</Link>
+            <Link to="/partners" className="hover:underline transition-all ease-in ">Our partners</Link>
+            <Link to="/courses" className="hover:underline transition-all ease-in ">Courses</Link>
           </div>
 
       </div>

@@ -1,17 +1,24 @@
+import { Link } from "react-router-dom"
+
+import srh from "/srh.png"
+import obs from "/obs.png"
+import rga from "/rga.png"
+import eg from "/egraduate.png"
+
 const Partners = () => {
   const partners = [
-    { name: "Partner One", description: "Leading provider of digital solutions." },
-    { name: "Partner Two", description: "Innovating in education and technology." },
-    { name: "Partner Three", description: "Supporting global business growth." },
-    { name: "Partner Four", description: "Advancing AI and cloud computing." }
+    { name: "Online Business School", imgSrc:obs, pathName:"/partners/obs"},
+    { name: "SRH University",  imgSrc:srh , pathName:"/partners/srh"},
+    { name: "Ready Global Academy ",  imgSrc:rga , pathName:"/partners/rga" },
+    { name: "E-graduate",  imgSrc:eg  , pathName:"/partners/egraduate"}
   ];
 
   return (
-    <section className="max-w-5xl mx-auto px-6 py-12">
-      <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">
+    <section className="max-w-5xl mx-auto p-8 lg:p-24">
+      <h2 className="text-2xl lg:text-5xl font-bold text-center text-gray-800 mb-6">
         Our Trusted Partners
       </h2>
-      <p className="text-center text-gray-600 mb-12">
+      <p className="text-center text-lg mb-12">
         We collaborate with industry leaders to provide the best learning experience.
       </p>
 
@@ -21,14 +28,14 @@ const Partners = () => {
             key={index} 
             className="flex flex-col items-center text-center p-4 transition transform hover:scale-105"
           >
-            {/* Placeholder for Partner Logo */}
-            <div className="w-28 h-28 bg-gray-200 rounded-lg mb-4"></div>
             
-            {/* Partner Name */}
+            <img src={partner.imgSrc} className="w-28 h-28 bg-gray-200 rounded-lg mb-4 object-contain"></img>
+            
+            
             <p className="text-lg font-semibold text-gray-700">{partner.name}</p>
             
-            {/* Partner Description */}
-            <p className="text-sm text-gray-500">{partner.description}</p>
+            
+            <Link to={partner.pathName} className="underline"> View Partner</Link>
           </div>
         ))}
       </div>

@@ -31,9 +31,9 @@ const SectionOne = () => {
   ];
 
   return (
-    <div className=" w-full lg:w-[95dvw] rounded-md mx-auto  p-8 lg:p-24 bg-primary/10 py-24">
-      <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium items-start lg:items-center ">
-        Unlock Your Future with World-Class{" "}
+    <div className=" w-full lg:w-[95dvw] rounded-md items-start lg:items-center mx-auto  p-8 lg:p-24 bg-primary/10 py-24">
+      <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium  ">
+        Unlock Your Future with World Class
         <span className="inline lg:block">Online Learning!</span>
       </h1>
       <p className="text-sm lg:text-lg mb-12 leading-[1.7] ">
@@ -47,7 +47,7 @@ const SectionOne = () => {
           <div
             key={index}
             style={{backgroundColor:card.bg}}
-            className="flex flex-col-reverse text-white lg:flex-row  min-h-[250px] p-8 lg:items-center items-start gap-4 justify-center lg:justify-between hover:rounded-2xl transition ease-in-out w-full"
+            className="flex flex-col-reverse hover:opacity-80 cursor-pointer transition-opacity  text-white lg:flex-row  min-h-[250px] p-8 lg:items-center items-start gap-4 justify-center lg:justify-between   ease-in-out w-full"
           >
             {/* Text Section */}
             <div className="flex flex-col w-full lg:w-1/2 break-words">
