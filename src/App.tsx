@@ -12,7 +12,7 @@ import OBSPage from "./pages/partners/obs"
 import EgradPage from "./pages/partners/egraduate"
 
 import EGradCoursesPage from "./pages/partners/egraduate/courses"
-import EGradCoursePage from "./pages/partners/egraduate/courses"
+
 
 function App() {
   return (
@@ -32,7 +32,6 @@ function App() {
           <Route path="partners/srh" element={<SRHPage />} />
 
           <Route path="partners/egraduate/courses" element={<EGradCoursesPage />} />
-          {/* <Route path={`partners/egraduate/courses/${id}`} element={<EGradCoursePage />} /> */}
           
         </Route>
       </Routes>
