@@ -32,7 +32,7 @@ function App() {
           <Route path="partners/srh" element={<SRHPage />} />
 
           <Route path="partners/egraduate/courses" element={<EGradCoursesPage />} />
-          <Route path={`partners/egraduate/courses/${id}`} element={<EGradCoursePage />} />
+          {/* <Route path={`partners/egraduate/courses/${id}`} element={<EGradCoursePage />} /> */}
           
         </Route>
       </Routes>
