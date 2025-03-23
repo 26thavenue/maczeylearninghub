@@ -1,14 +1,21 @@
-import logo from "/logo.png"
+import logo from "/logov2.png"
 
 const Footer = () => {
   return (
-    <div className="bg-[#f1eeee] p-24 flex-col flex items-start lg:items-center lg:flex-row justify-between gap-4">
+    <div className="bg-primary text-white p-24 flex-col flex items-start lg:items-center lg:flex-row justify-between gap-4">
         <img src={logo} className=" h-[100px] w-[100px] lg:h-[200px] lg:w-[200px] object-contain"></img>
 
         <div className="gap-2 flex flex-col mt-4 lg:mt-0 text-lg">
             <p className="font-medium mb-1">Quick Links</p>
             <p className="hover:underline transition-all ease-in ">About Us</p>
             <p className="hover:underline transition-all ease-in ">Contact Us</p>
+            
+        </div>
+
+        <div className="gap-2 flex flex-col mt-4 lg:mt-0 text-lg">
+            <p className="font-medium mb-1">Our Programs</p>
+            <p className="hover:underline transition-all ease-in ">High School</p>
+            <p className="hover:underline transition-all ease-in ">College</p>
             
         </div>
 

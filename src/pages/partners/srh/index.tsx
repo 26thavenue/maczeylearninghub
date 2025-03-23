@@ -1,5 +1,6 @@
-import srh from '/srh.png'
+import srh from '/srhImg.png'
 import Button from '../../../components/Buttons'
+import { Link } from 'react-router-dom'
 
 const index = () => {
 
@@ -37,7 +38,7 @@ const index = () => {
             
             <p className='text-base lg:text-lg leading-8 mb-4'>Thinking about studying overseas? Find out what international study in Germany can offer you at SRH International College, where our multicultural and diverse population welcomes people from all over the world.</p>
 
-            <Button variant="tertiary" buttonName="Explore Courses" className=" w-fit rounded-md"/>
+            <Button variant="primary" buttonName="Explore Courses" className=" w-fit rounded-md"/>
         </div>
         
         <section className='flex flex-col gap-16 '>
@@ -71,13 +72,33 @@ const index = () => {
             <div className='flex flex-col gap-8'>
                 <h3 className='text-2xl lg:text-3xl leading-tight tracking-[-1px] font-medium text-center lg:text-left'>Our Programs</h3>
 
-                <div className='flex gap-16'>
-                    <div className='bg-blue-100 w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] flex items-center justify-center '>
-                        <p className='text-base lg:text-lg'>Foundation Program</p>
+                <div className='flex flex-col gap-16 '>
+                    <div className=''>
+                        <p className='text-base lg:text-xl font-medium  my-4 '>Foundation Program</p>
+                        <p className='text-lg leading-10'>A Foundation is a period of study which bridges the gap between your High School studies and the Year 1 entry point of your chosen degree at SRH University. Foundations are perfect if you need an extra layer of study and support.
+                        All the international Foundation programmes covered in this section lead onto one of SRH University’s degrees and progression is automatic if you have passed all required modules. You will select your progression degree at the point of application.
+                        SRH International College offers three foundation programmes:</p>
+                        <div className='text-base'>
+                            <Link to="/"><li className="underline text-blue-600">Business</li></Link>
+                            <Link to="/"><li className="underline text-blue-600">Creative Studies</li></Link>
+                            <Link to="/"><li className="underline text-blue-600">Engineering and IT</li></Link>
+                        </div>
                     </div>
-                    <div className='bg-blue-100 w-[200px] h-[200px] lg:w-[400px] lg:h-[400px] flex items-center justify-center '>
-                        <p className='text-base lg:text-xl font-medium'>Pre-Masters</p>
+
+                    <div className=''>
+                        <p className='text-base lg:text-xl font-medium mt-8 mb-4 '>Pre-Master's Program</p>
+                        <p className='text-lg leading-10'>A Pre-master’s is your first step to a SRH University Master’s if you do not meet the academic requirements to join directly. It will provide you with both the academic and study skills required for you to be ready to study a Master’s in Germany.
+
+Your Pre-master’s programme will lead seamlessly onto your chosen SRH University Master’s provided you have passed all modules and your visa will cover both levels of study.
+
+SRH International College offers three Pre-master’s programmes:</p>
+                        <div className='text-base'>
+                            <Link to="/"><li className="underline text-blue-600">Business</li></Link>
+                            <Link to="/"><li className="underline text-blue-600">Computing</li></Link>
+                            <Link to="/"><li className="underline text-blue-600">Engineering and IT Managemnt</li></Link>
+                        </div>
                     </div>
+                    
                   
                 </div>
             </div>
