@@ -69,7 +69,7 @@ const index = () => {
                 </div>
             </div>
 
-             <div className='flex flex-col gap-8 '>
+             {/* <div className='flex flex-col gap-8 '>
                 <h3 className='text-2xl lg:text-3xl leading-tight tracking-[-1px] font-medium text-center '>Course Categories</h3>
                  <div className='grid grid-cols-2 mx-auto gap-16 text-center'>
                     <div className='bg-blue-100 w-[200px] h-[200px] lg:w-[300px] lg:h-[300px] flex items-center justify-center '>
@@ -89,7 +89,7 @@ const index = () => {
                     </div>
                   
                 </div>
-            </div>
+            </div> */}
 
             <Banner/>
         </section>

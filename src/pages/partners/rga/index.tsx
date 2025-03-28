@@ -25,7 +25,7 @@ const Index = () => {
 
       <section className="flex flex-col gap-16 my-24 p-8 lg:p-24">
 
-        <div className="flex flex-col gap-8 bg-primary/10 p-8">
+        {/* <div className="flex flex-col gap-8 bg-primary/10 p-8">
           <h3 className="text-2xl lg:text-4xl leading-tight tracking-[-1px] font-medium text-center">
             School Features
           </h3>
@@ -44,9 +44,9 @@ const Index = () => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
 
-        <div className="my-24">
+        <div className="">
           <h3 className="text-2xl lg:text-4xl leading-tight tracking-[-1px] font-medium text-center mb-16">
             Our Programs
           </h3>
