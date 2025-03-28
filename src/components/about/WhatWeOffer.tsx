@@ -16,7 +16,7 @@ const WhatWeOffer = () => {
         <h3 className='text-lg mb-16 text-center w-full lg:w-1/2 mx-auto leading-8'>At Maczey Learning hub, we offer a wide range of academic programs from top-tier institutions in the UK, Canada, US, and Germany.</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-[80dvw] mx-auto">
         {features.map((feature, index) => (
-            <div key={index} className="p-6 h-[300px] w-[300px] flex items-center justify-center  rounded-lg shadow-md bg-[#E12C31]">
+            <div key={index} className="p-6 h-[300px] w-[300px] flex items-center justify-center  rounded-lg shadow-md bg-primary">
                 <h3 className="text-lg text-center font-semibold text-white/90">{feature}</h3>
             </div>
         ))}

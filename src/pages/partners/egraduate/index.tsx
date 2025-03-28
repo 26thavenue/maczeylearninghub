@@ -2,25 +2,27 @@ import imG from '/egaImg.png'
 import Button from '../../../components/Buttons'
 import { Link } from 'react-router-dom'
 import ega from '/ega.png'
+import Banner from '../../../components/Banner'
 const index = () => {
 
   return (
-    <main className="p-8 lg:p-24">
-        <div className="flex gap-16 items-center">
+    <main className="">
+        <div className="flex bg-primary text-white  justify-between items-center p-8 lg:p-24">
             <div className='flex flex-col gap-4 my-16 w-1/2 '>
-                <h1 className="text-2xl lg:text-5xl leading-tight tracking-[-1px] font-medium text-center lg:text-left">E-graduate College</h1>
+                
                 <img src={imG} className='object-contain w-[200px] h-[200px]'/>
+                <h1 className="text-2xl lg:text-5xl leading-tight tracking-[-1px] font-medium text-center lg:text-left">E-graduate College</h1>
                 <p className='text-base lg:text-lg leading-8 mb-4'>Find Your Future,transform yourself. Experience a world of possibilities with Egraduate College. At Egraduate College, we are dedicated to making higher education more accessible and affordable for students worldwide. Our purpose is to provide high-quality, online and blended courses that offer significant cost savings in comparison to traditional college pathways. </p>
 
-                <Link to ="courses">
-                    <Button variant="tertiary" buttonName="Explore Courses" className=" w-fit rounded-md"/>
+                <Link to ="/contact">
+                    <Button variant="tertiary" buttonName="Get In Touch" className=" w-fit rounded-md"/>
                 </Link>
             </div>
         <img src={ega} className='object-cover h-[450px] w-[450px] rounded-2xl'/>
         </div>
         
         
-        <section className='flex flex-col gap-16 my-24'>
+        <section className='flex flex-col gap-16  p-8 lg:p-24'>
             <div className='my-24 '>
                 <h3 className='text-2xl lg:text-3xl leading-tight tracking-[-1px] font-medium text-center mb-16'>Take the Smart Route</h3>
 
@@ -67,6 +69,8 @@ const index = () => {
                   
                 </div>
             </div>
+
+            <Banner/>
         </section>
         
     </main> 

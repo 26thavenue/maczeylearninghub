@@ -5,14 +5,15 @@ import f1 from '/obs/f1.png'
 import f2 from '/obs/f2.png'
 import f3 from '/obs/f3.png'
 import f4 from '/obs/f4.png'
+import Banner from '../../../components/Banner'
 
 
 const index = () => {
 
   return (
-    <main className="p-8 lg:p-24">
+    <main className="">
         
-        <div className='flex items-center gap-24 '>
+        <div className='flex items-center justify-between bg-primary p-8 lg:p-24 text-white'>
              <div className='flex flex-col gap-4 my-16 w-1/2 '>
                 <img src={imG} className=' h-[200px] w-[200px] object-contain '/>
                 <h1 className="text-2xl lg:text-5xl leading-tight tracking-[-1px] font-medium text-center lg:text-left">Online Business School</h1>
@@ -20,14 +21,14 @@ const index = () => {
                 <p className='text-base lg:text-lg leading-8 mb-4'>Online degrees without the high fees
                     Study for a degree or MBA from UK universities for less than £6,000</p>
 
-                <Button variant="tertiary" buttonName="Explore Courses" className=" w-fit rounded-md"/>
+                <Button variant="tertiary" buttonName="Get In Touch" className=" w-fit rounded-md"/>
             </div>
 
             <img src={heroImg} className='object-contain '/>
         </div>
        
         
-        <section className='flex flex-col gap-16 my-24'>
+        <section className='flex flex-col gap-16  p-8 lg:p-24'>
             <div className='my-24'>
                 <h3 className='text-2xl lg:text-3xl leading-tight tracking-[-1px] font-medium text-center mb-16'>Why Choose Online Business School</h3>
 
@@ -89,6 +90,8 @@ const index = () => {
                   
                 </div>
             </div>
+
+            <Banner/>
         </section>
         
     </main> 
