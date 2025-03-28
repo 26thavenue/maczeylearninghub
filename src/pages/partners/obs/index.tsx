@@ -5,7 +5,7 @@ import f1 from '/obs/f1.png'
 import f2 from '/obs/f2.png'
 import f3 from '/obs/f3.png'
 import f4 from '/obs/f4.png'
-import f5 from '/obs/f5.png'
+
 
 const index = () => {
 

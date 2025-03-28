@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
-import { Link } from 'react-router-dom';
+
 import BlurImage from './BlurImage';
-import Button from './Buttons';
+
 
 export interface CourseType {
   id: number;
@@ -27,7 +27,7 @@ interface CourseCardProps {
 }
 
 const CourseCard = ({ course, featured = false }: CourseCardProps) => {
-  const [isHovered, setIsHovered] = useState(false);
+  const [, setIsHovered] = useState(false);
 
   return (
     <div 

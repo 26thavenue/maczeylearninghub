@@ -45,9 +45,9 @@ const Programs = () => {
   const filterOptions = generateFilterOptions(coursesData);
 
 
-  const generateCourseLink = (coursePartner: string, courseTitle: string) => {
-    const formattedPartner = coursePartner?.toLowerCase().replace(/\s+/g, '-').trim();
-    const formattedTitle = courseTitle?.toLowerCase().replace(/\s+/g, '-').trim();
+  const generateCourseLink = (coursePartner: string | undefined, courseTitle: string | undefined ) => {
+    const formattedPartner = coursePartner ? coursePartner?.toLowerCase().replace(/\s+/g, '-').trim(): "default"
+    const formattedTitle = courseTitle ? courseTitle?.toLowerCase().replace(/\s+/g, '-').trim(): "default"
     return `/partners/${formattedPartner}/${formattedTitle}`;
   };
 
@@ -137,7 +137,8 @@ const Programs = () => {
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                       {paginatedCourses.map((course, index) => (
-                        <Link to ={generateCourseLink(course?.school, course?.title)}>
+                        
+                        <Link to ={generateCourseLink(course.school , course?.title)}>
                           <CourseCard key={course.id} course={course} featured={index === 0} partner={"Online Business School"} />
                         </Link>
                         

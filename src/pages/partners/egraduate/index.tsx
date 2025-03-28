@@ -4,32 +4,6 @@ import { Link } from 'react-router-dom'
 import ega from '/ega.png'
 const index = () => {
 
-  const cards=[
-    {
-        text:"High-quality education and academic standards",
-        imgSrc:"",
-    },
-    {
-        text:"Diverse range of degree programmes across disciplines",
-        imgSrc:"",
-    },
-    {
-        text:"Multicultural environment alongside cultural immersion",
-        imgSrc:"",
-    },
-    {
-        text:"Travel opportunities, benefitting from the central location in Europe",
-        imgSrc:"",
-    },
-    {
-        text:"A strong emphasis on work-life balance",
-        imgSrc:"",
-    },
-    {
-        text:"Supportive student services",
-        imgSrc:"",
-    },
-]
   return (
     <main className="p-8 lg:p-24">
         <div className="flex gap-16 items-center">

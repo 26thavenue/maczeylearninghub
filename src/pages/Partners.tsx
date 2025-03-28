@@ -26,6 +26,7 @@ const Partners = () => {
           pathName: "/partners/obs",
           description:
             "Provides flexible online business programs tailored for aspiring entrepreneurs and professionals.",
+          link:"/partners/obs",
         },
         {
           name: "E-Graduate College",
@@ -33,6 +34,7 @@ const Partners = () => {
           pathName: "/partners/egraduate",
           description:
             "A cutting-edge online education platform designed for modern learners seeking global opportunities.",
+          link:"/partners/obs",
         },
       ],
     },
@@ -46,6 +48,7 @@ const Partners = () => {
           pathName: "/partners/rga",
           description:
             "An international school providing American-style education with college prep courses.",
+          link:"/partners/obs",
         },
       ],
     },
@@ -59,6 +62,7 @@ const Partners = () => {
           pathName: "/partners/srh",
           description:
             "A prestigious German university offering innovative and hands-on academic programs.",
+          link:"/partners/obs",
         },
       ],
     },
@@ -116,7 +120,8 @@ const Partners = () => {
               {partnerSections.map((partner, index) => (
                 <div>
                   {partner.institutions.map((schools,_) =>(
-                   <div 
+                  <Link to={schools?.link}>
+                     <div 
                       key={schools.name} 
                       className="bg-white rounded-xl overflow-hidden shadow-sm border my-4 border-slate-100 transition-transform hover:scale-[1.02] animate-scale-in"
                       style={{ animationDelay: `${index * 100 + 300}ms` }}
@@ -136,6 +141,8 @@ const Partners = () => {
                   </div>
 
                     </div>
+                  </Link>
+                  
                   ))}
                 </div>
               ))}

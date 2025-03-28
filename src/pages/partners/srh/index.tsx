@@ -59,7 +59,7 @@ const index = () => {
                 <div className='grid grid-cols-2 lg:grid-cols-3 space-x-4 space-y-4'>
                 {
                 cards.map((card,k) =>(
-                    <div className='flex flex-col gap-4 items-center'>
+                    <div tabIndex={k} className='flex flex-col gap-4 items-center'>
                         <div className="bg-blue-100 h-24 w-24"></div>
                         <p className='text-center text-base lg:text-lg'>{card.text}</p>
                     </div>

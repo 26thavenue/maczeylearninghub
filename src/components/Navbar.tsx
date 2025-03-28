@@ -8,7 +8,6 @@ import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
-   const [openDropdown, setOpenDropdown] = useState(false);
 
   return (
     <nav className="lg:py-2 py-2 px-6 lg:px-24 flex justify-between items-center border border-[#f1eeee] font-primary">

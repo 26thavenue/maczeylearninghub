@@ -1,4 +1,3 @@
-import React from 'react'
 
 const features = [
   "High School Diplomas from accredited institutions in the UK, Canada, and US",

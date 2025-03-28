@@ -6,7 +6,6 @@ import {
   BookOpen, 
   BarChart, 
   CheckCircle, 
-  Info 
 } from 'lucide-react';
 
 import egaCourses from "./courses.json";
@@ -17,18 +16,6 @@ const coursesData = [
   ...egaCourses.coursesWork2LearnDegree,
 ];
 
-interface Course {
-  title: string;
-  school: string;
-  imgSrc: string;
-  description: string;
-  start_date?: string;
-  location?: string;
-  study_pace?: string;
-  assessment?: string;
-  modules?: string[];
-  courseContent?: string[];
-}
 
 const CoursePage: React.FC = () => {
   const { partner, courseTitle } = useParams();
@@ -81,9 +68,9 @@ const CoursePage: React.FC = () => {
     );
   }
 
-  const formatKey = (key:any) => {
-    return key.replace(/([A-Z])/g, " $1").replace(/^./, (str:any) => str.toUpperCase());
-  };
+  // const formatKey = (key:any) => {
+  //   return key.replace(/([A-Z])/g, " $1").replace(/^./, (str:any) => str.toUpperCase());
+  // };
 
   const renderSectionContent = () => {
     switch (activeSection) {
