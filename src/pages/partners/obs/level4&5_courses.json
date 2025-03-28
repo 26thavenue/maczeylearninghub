@@ -24,7 +24,7 @@
         "Level 4 Diploma in Accounting and Finance – 610/0796/1",
         "Level 5 Diploma in Business Management – 601/6049/4"
       ],
-      "modules": {
+      "courseModules": {
         "level_4": [
           "The Business Environment",
           "Managing and Using Finance",
@@ -80,7 +80,7 @@
         "Level 4 Diploma in Business Management – 601/6048/2",
         "Level 5 Diploma in Business Management – 601/6049/4"
       ],
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Developing Personal Skills",
           "Effective Communication",
@@ -136,7 +136,7 @@
         "Level 4 Diploma in Entrepreneurship – 603/4238/9",
         "Level 5 Diploma in Business Management – 601/6049/4"
       ],
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Managing Business Operations",
           "Business Environment",
@@ -231,7 +231,7 @@
         },
         "degree_progression": "Top up to a bachelor's degree at UK universities"
       },
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Academic study skills",
           "Communicating in health and social care",
@@ -313,7 +313,7 @@
         },
         "degree_progression": "Top up to a bachelor's degree at UK universities"
       },
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Food and beverage operations",
           "Food safety and hygiene",
@@ -410,7 +410,7 @@
         },
         "degree_progression": "Top up to a bachelor's degree at UK universities"
       },
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Culture and the organisation",
           "Developing interpersonal skills",
@@ -480,7 +480,7 @@
         "final_award": "Qualifi diploma",
         "bachelor_top_up": "Available at UK universities"
       },
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Academic Writing and Research Skills",
           "Logistics And the Business Environment",
@@ -557,7 +557,7 @@
         "final_award": "Qualifi diploma",
         "bachelor_top_up": "Available at UK universities"
       },
-      "modules": {
+      "courseModules": {
         "level_4": [
           "Computer Systems and Software",
           "Computer Programming",
@@ -651,7 +651,7 @@
     "qualificationUponCompletion": "Qualifi diploma",
     "degreeTopUpOption": "Available at a range of UK universities"
   },
-  "modules": {
+  "courseModules": {
     "level4": [
       {
         "title": "Computer Systems and Software",
@@ -732,7 +732,7 @@
   }
     },
      {
-      "title": "Level 4 & 5  Leadership and Teamwork",
+      "title": "Level 4 & 5 Leadership and Teamwork",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-45.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
@@ -775,7 +775,7 @@
       },
       "description": "Dream of leading successful teams and driving organisational success? From strategic leadership and team dynamics to conflict resolution and project management – our Leadership and Teamwork Course can set you on the path to success.",
       "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online. Each module consists of 40 hours of guided learning, with additional 30-50 hours of optional materials.",
-      "course_modules": {
+      "courseModules": {
         "level_4": [
           "Managing people in organisations",
           "Culture and the organisation",
@@ -850,7 +850,7 @@
       },
       "description": "If you have the desire to turn your passion for computers into a career, this IT and Networking Diploma is definitely a course you should consider.",
       "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online.",
-      "course_modules": {
+      "courseModules": {
         "level_4": [
           "Computer systems and software",
           "Computer programming",
@@ -921,7 +921,7 @@
       },
       "description": "If you have the desire to turn your passion for computers into a career, the IT and Web Design Diploma is definitely a course you should consider.",
       "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online.",
-      "course_modules": {
+      "courseModules": {
         "level_4": [
           "Computer systems and software",
           "Computer programming",
@@ -949,7 +949,7 @@
       }
     },
     {
-      "title": "Level 4 & 5  Sales and Marketing",
+      "title": "Level 4 & 5 Sales and Marketing",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-46.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
@@ -992,7 +992,7 @@
       },
       "description": "Dream of driving sales growth and crafting compelling marketing strategies? From sales techniques and customer relationship management to digital marketing and brand development – our Sales and Marketing Course can set you on the path to success.",
       "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) diploma. The course is flexible and completed online. Each module consists of 40 hours of guided learning, with additional 30-50 hours of optional materials.",
-      "course_modules": {
+      "courseModules": {
         "level_4": [
           "The business environment",
           "Customers and customer service",

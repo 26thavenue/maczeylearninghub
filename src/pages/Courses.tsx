@@ -10,6 +10,7 @@ import obslevel4CourseData from "./partners/obs/level4&5_courses.json";
 import obslevel6CourseData from "./partners/obs/level6_courses.json";
 import obslevel7CourseData from "./partners/obs/level7_courses.json";
 import egaCourses from "./partners/egraduate/courses.json";
+import srhCourses from './partners/srh/courses.json'
 
 const coursesData: any[] = [
   ...obslevel3CourseData,
@@ -20,6 +21,7 @@ const coursesData: any[] = [
   ...egaCourses.coursesHE,
   ...egaCourses.coursesPD,
   ...egaCourses.coursesWork2LearnDegree,
+  ...srhCourses
 ];
 
 const generateFilterOptions = (courses: CourseType[]): FilterOptions => {

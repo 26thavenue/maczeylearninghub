@@ -1,0 +1,106 @@
+[
+    {
+        "title": " Business Foundation",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/foundation-year-business-studies-students-talking-1600x500-1.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Heidelberg Berlin",
+        "overview" :"Taught at the SRH University Heidelberg campus, the Foundation in Business will give you a broad understanding of both the theoretical and practical concepts in business and management. This will allow you to successfully develop the analytical, technical and interpersonal skills needed to study an undergraduate business degree at university.",
+        "courseContent":[
+            "English Language and Academic Skills",
+            "Critical and Creative Thinking",
+            "Maths",
+            "Business and Mangement Concepts",
+            "Ethics",
+            "German Language and Culture",
+            "German Conversation"
+        ],
+        "intakes":"October, January"
+    },
+    {
+        "title": " Business Pre-Masters",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/premasters-business-studies-students-writing-375x211-2.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Heidelberg Berlin",
+        "overview" :"Our Pre-Master’s in Business will give you a broad understanding of both theoretical and practical concepts in business and management in order to successfully develop the analytical, technical and interpersonal skills needed to study a Business Master’s degree at SRH University.",
+        "courseContent":[
+            "Advanced English Language and Academic Skills",
+            "Advanced Maths",
+            "Principles of Business and Management",
+            "Ethics",
+            "German Language and Culture",
+            "German Conversation"
+        ],
+        "intakes":"October, April"
+    },
+    {
+        "title": "Creative Studies Foundation",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/undergraduate-creative-studies-student-playing-piano-1600x500-1.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Berlin",
+        "overview":"When you study our Foundation in Creative Studies you will undertake modules exploring the design and production of large-scale, creative projects in order to successfully develop the analytical, creative and interpersonal skills needed to study an undergraduate Creative programme at university.",
+        "courseContent":[
+            "English Langage and Academic Skills",
+            "Critical and Creative Thinking",
+            "Maths",
+            "Creative Project Development",
+            "Ethics",
+            "German Language and Culture",
+            "German Conversation"
+        ],
+        "intakes":"October, January"
+    },
+     {
+        "title": " Engineering & IT Foundations",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/foundation-engineering-students-building-machine-1600x500-1.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Berlin",
+        "overview":"On our Engineering and IT Foundation, you will gain a broad understanding of both theoretical and practical concepts in computer science, programming and engineering physics and design in order to successfully develop the analytical, technical and interpersonal skills needed to study an Engineering programme or study an IT degree at the University.",
+        "courseContent":[
+            "English Langage and Academic Skills",
+            "Critical and Creative Thinking",
+            "Maths",
+            "Introduction to Programming",
+            "Ethics",
+            "German Language and Culture",
+            "German Conversation",
+            "Physics for Engineers"
+        ],
+        "intakes":"October, January"
+    },
+      {
+        "title": "Engineering & IT Management Pre-Masters",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/premasters-engineering-students-building-robot-375x211-1.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Berlin",
+        "overview":"Our Pre-Master’s in Engineering and IT Management will give you a broad understanding of both theoretical and practical concepts in order to successfully develop the analytical, technical and interpersonal skills needed to study an Engineering Master’s degree at SRH University.",
+        "courseContent":[
+            "Advanced English Language and Academic Skills",
+            "Advanced Maths",
+            "German Language and Culture",
+            "German Conversation",
+            "Principles of Business and Management"
+        ],
+        "intakes":"October, January"
+    },
+     {
+        "title": "Computing Pre-Masters",
+        "imgSrc":"https://www.srh-international-college.de/wp-content/uploads/2023/07/premasters-computing-studies-students-working-1600x500-1.jpg",
+        "school":"Srh University",
+        "location":"Offline",
+        "address":"Berlin",
+        "overview":"Our Pre-Master’s in Computing will give you a broad understanding of both theoretical and practical concepts in order to successfully develop the skills needed to study a Computing Master’s degree at SRH University.",
+        "courseContent":[
+            "Advanced English Language and Academic Skills",
+            "Advanced Maths",
+            "Principles of Programming and Software Engineering",
+            "German Language and Culture",
+            "German Conversation"
+        ],
+        "intakes":"October, April"
+    }
+]

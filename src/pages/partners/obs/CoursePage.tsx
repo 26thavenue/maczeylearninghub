@@ -22,19 +22,28 @@ const CoursePage: React.FC = () => {
 
   
   const formatString = (input?: string): string => {
-    return input
-      ? input
-          .replace(/-/g, " ")
-          .split(" ")
-          .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-          .join(" ")
-          .trim()
-      : "";
-  };
+  return input
+    ? input
+        .replace(/-/g, " ")
+        .split(" ")
+        .map((word, index) => {
+          // Preserve original capitalization for certain words
+          const lowercaseWords = ['and', 'the', 'in', 'of', 'for'];
+          if (index > 0 && lowercaseWords.includes(word.toLowerCase())) {
+            return word.toLowerCase();
+          }
+          return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+        })
+        .join(" ")
+        .trim()
+    : "";
+};
 
   useEffect(() => {
     const formattedTitle = formatString(courseTitle);
     const formattedPartner = formatString(partner);
+
+    console.log(formattedTitle)
 
     setIsLoading(true);
     
