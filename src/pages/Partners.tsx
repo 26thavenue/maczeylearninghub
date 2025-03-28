@@ -118,7 +118,7 @@ const Partners = () => {
                   {partner.institutions.map((schools,_) =>(
                    <div 
                       key={schools.name} 
-                      className="bg-white rounded-xl overflow-hidden shadow-sm border border-slate-100 transition-transform hover:scale-[1.02] animate-scale-in"
+                      className="bg-white rounded-xl overflow-hidden shadow-sm border my-4 border-slate-100 transition-transform hover:scale-[1.02] animate-scale-in"
                       style={{ animationDelay: `${index * 100 + 300}ms` }}
                     >
                       <div className="h-32 bg-gray-50 flex items-center justify-center p-4">

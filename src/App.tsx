@@ -11,7 +11,11 @@ import RGAPage from "./pages/partners/rga"
 import OBSPage from "./pages/partners/obs"
 import EgradPage from "./pages/partners/egraduate"
 
-import EGradCoursesPage from "./pages/partners/egraduate/courses"
+import EGradCoursePage from "./pages/partners/egraduate/course"
+import  EGradCoursesPage from "./pages/partners/egraduate/course"
+
+import OBSCoursePage from "./pages/partners/obs/CoursePage"
+
 
 
 function App() {
@@ -32,6 +36,9 @@ function App() {
           <Route path="partners/srh" element={<SRHPage />} />
 
           <Route path="partners/egraduate/courses" element={<EGradCoursesPage />} />
+
+          <Route path="partners/online-business-school/:courseTitle" element={<OBSCoursePage />} />
+          <Route path="partners/e-graduate-academy/:courseTitle" element={<EGradCoursePage />} />
           
         </Route>
       </Routes>

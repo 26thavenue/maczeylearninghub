@@ -11,7 +11,7 @@ const CoursesPage = () => {
              {arr.coursesHE.map((course, index) => (
                 <div key={index} className="p-3 flex flex-col gap-4">
                     
-                    {course.imageUrl ? (
+                    {course.imgSrc ? (
                     <div style={{ width: "200px", height: "200px", background: "#eee" }}></div>
                     ) : (
                     <div style={{ width: "200px", height: "200px", background: "#eee" }}></div>

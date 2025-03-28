@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="lg:flex gap-8 text-lg hidden">
           <Link to="/about" className=" transition-all ease-in">About Us</Link>
           <Link to="/contact" className=" transition-all ease-in">Contact</Link>
-          <Link to="/partners" className=" transition-all ease-in">
+          
             <div className="relative group">
               <button className="transition-all cursor-pointer ease-in flex gap-2 items-center">
                 Our Partners <MdOutlineKeyboardArrowDown />
@@ -28,6 +28,7 @@ const Navbar = () => {
 
               {/* Dropdown Menu (Appears on Hover) */}
               <div className="absolute left-0 mt-2 w-84 bg-white border border-gray-300 shadow-lg rounded-md p-4 z-50 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
+                <Link to="/partners" className="block px-4 py-2 hover:bg-gray-100">All Partners</Link>
                 <Link to="/partners/obs" className="block px-4 py-2 hover:bg-gray-100">Online Business School</Link>
                 <Link to="/partners/egraduate" className="block px-4 py-2 hover:bg-gray-100">E-Graduate College</Link>
                 <Link to="/partners/rga" className="block px-4 py-2 hover:bg-gray-100">Ready Global Academy</Link>
@@ -35,7 +36,7 @@ const Navbar = () => {
               </div>
             </div>
 
-          </Link>
+          
           <Link to="/courses" className="hover:underline transition-all ease-in">Programs</Link>
         </div>
       </div>

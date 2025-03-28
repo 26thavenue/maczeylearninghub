@@ -3,29 +3,26 @@ import { X, Check } from 'lucide-react';
 import  Button from '../Buttons';
 
 export interface FilterOptions {
-  categories: string[];
-  levels: string[];
-  duration?: string[];
+  school: string[];
+  location?: string[];
 }
 
 interface CourseFiltersProps {
   filters: FilterOptions;
   activeFilters: {
-    category: string[];
-    level: string[];
-    duration: string[];
+    school: string[];
+    location: string[];
   };
   setActiveFilters: React.Dispatch<React.SetStateAction<{
-    category: string[];
-    level: string[];
-    duration: string[];
+    school: string[];
+    location: string[];
   }>>;
 }
 
 const CourseFilters = ({ filters, activeFilters, setActiveFilters }: CourseFiltersProps) => {
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
 
-  const toggleFilter = (type: 'category' | 'level' | 'duration', value: string) => {
+  const toggleFilter = (type: 'school'  | 'location', value: string) => {
     setActiveFilters(prev => {
       if (prev[type].includes(value)) {
         return {
@@ -43,16 +40,14 @@ const CourseFilters = ({ filters, activeFilters, setActiveFilters }: CourseFilte
 
   const clearFilters = () => {
     setActiveFilters({
-      category: [],
-      level: [],
-      duration: []
+      school: [],
+      location: []
     });
   };
 
   const totalActiveFilters = 
-    activeFilters.category.length + 
-    activeFilters.level.length + 
-    activeFilters.duration.length;
+    activeFilters.school.length +  
+    activeFilters.location.length;
 
   return (
     <div className="mb-8">
@@ -119,78 +114,53 @@ const CourseFilters = ({ filters, activeFilters, setActiveFilters }: CourseFilte
             <div>
               <h4 className="font-medium mb-3">Categories</h4>
               <div className="space-y-2">
-                {filters.categories.map(category => (
-                  <div key={category} className="flex items-center">
+                {filters.school.map(school => (
+                  <div key={school} className="flex items-center">
                     <button
                       className="flex items-center w-full py-1.5 text-left text-sm group"
-                      onClick={() => toggleFilter('category', category)}
+                      onClick={() => toggleFilter('school', school)}
                     >
                       <div className={`
                         w-5 h-5 rounded-md border mr-3 flex items-center justify-center
-                        ${activeFilters.category.includes(category) 
+                        ${activeFilters.school.includes(school) 
                           ? 'bg-primary border-primary text-white' 
                           : 'border-gray-300 group-hover:border-primary'}
                       `}>
-                        {activeFilters.category.includes(category) && (
+                        {activeFilters.school.includes(school) && (
                           <Check size={14} />
                         )}
                       </div>
-                      {category}
+                      {school}
                     </button>
                   </div>
                 ))}
               </div>
             </div>
             
-            {/* Levels */}
-            <div>
-              <h4 className="font-medium mb-3">Difficulty Level</h4>
-              <div className="space-y-2">
-                {filters.levels.map(level => (
-                  <div key={level} className="flex items-center">
-                    <button
-                      className="flex items-center w-full py-1.5 text-left text-sm group"
-                      onClick={() => toggleFilter('level', level)}
-                    >
-                      <div className={`
-                        w-5 h-5 rounded-md border mr-3 flex items-center justify-center
-                        ${activeFilters.level.includes(level) 
-                          ? 'bg-primary border-primary text-white' 
-                          : 'border-gray-300 group-hover:border-primary'}
-                      `}>
-                        {activeFilters.level.includes(level) && (
-                          <Check size={14} />
-                        )}
-                      </div>
-                      {level}
-                    </button>
-                  </div>
-                ))}
-              </div>
-            </div>
+      
             
-            {/* Duration */}
-            {filters.duration && (
+            {/* location */}
+            {filters.location && (
               <div>
-                <h4 className="font-medium mb-3">Duration</h4>
+                <h4 className="font-medium mb-3">Location</h4>
                 <div className="space-y-2">
-                  {filters.duration.map(duration => (
-                    <div key={duration} className="flex items-center">
+                  {filters.location.map(location => (
+                    <div key={location} className="flex items-center">
                       <button
                         className="flex items-center w-full py-1.5 text-left text-sm group"
-                        onClick={() => toggleFilter('duration', duration)}
+                        onClick={() => toggleFilter('location', location)}
                       >
                         <div className={`
                           w-5 h-5 rounded-md border mr-3 flex items-center justify-center
-                          ${activeFilters.duration.includes(duration) 
+                          ${activeFilters.location.includes(location) 
                             ? 'bg-primary border-primary text-white' 
                             : 'border-gray-300 group-hover:border-primary'}
                         `}>
-                          {activeFilters.duration.includes(duration) && (
+                          {activeFilters.location.includes(location) && (
                             <Check size={14} />
                           )}
                         </div>
-                        {duration}
+                        {location}
                       </button>
                     </div>
                   ))}

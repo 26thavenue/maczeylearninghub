@@ -1,0 +1,62 @@
+ [
+    {
+      "title": "Level 6 Business Administration (120 Credits)",
+      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/6-1.webp",
+      "school":"Online Business School",
+      "level": "Level 6",
+      "description":"Dream of driving business growth and shaping strategic initiatives? From advanced business development and operations management to financial planning and marketing – our Level 6 Business Administration Course can set you on the path to success.",
+      "enrolment_fee": "£20",
+      "total_cost": "£2,900",
+      "monthly_cost": "£120 per month",
+      "payment_duration": "24 months interest-free",
+      "start_date": "Anytime",
+      "location": "Online",
+      "study_pace": "Flexible (no deadlines or timeframes)",
+      "qualification": "Level 6 Diploma (120 credits)",
+      "assessment": "Online written assignments",
+      "includes": [
+        "1-2-1 tutor support",
+        "FREE laptop*",
+        "All course materials and more"
+      ],
+      "ofqual_link": "Level 6 Diploma in Business Administration – 603/1037/6",
+      "modules": [
+        "IT in business",
+        "Effective communications",
+        "High performance teams",
+        "Leadership skills",
+        "Manager’s toolkit",
+        "Managing and using finance",
+        "Managing and using marketing",
+        "Managing organisations",
+        "Personal effectiveness",
+        "Quality and excellence"
+      ]
+    },
+    {
+      "title": "Level 6 Professional Sales Management",
+      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-4.webp",
+      "school":"Online Business School",
+       "level": "Level 6",
+      "description":"Are you interested in finding out what makes a successful salesperson in terms of knowledge, skills and attitude? Sales is the foundation stone upon which organisations are built. The Level 6 Professional Sales Management course seeks to develop the knowledge and skills of salespeople whilst also providing them with a professional qualification platform to match their career aspirations.",
+      "enrolment_fee": "£20",
+      "total_cost": "£2,900",
+      "monthly_cost": "£120 per month",
+      "payment_duration": "24 months interest-free",
+      "start_date": "Anytime",
+      "location": "Online",
+      "study_pace": "Flexible (no deadlines or timeframes)",
+      "qualification": "Level 6 Diploma",
+      "assessment": "Online written assignments",
+      "includes": [
+        "1-2-1 tutor support",
+        "FREE laptop*",
+        "All course materials and more"
+      ],
+      "modules": [
+        "Selling as a profession",
+        "Planning and preparation for sales",
+        "Sales process implementation"
+      ]
+    }
+  ]
