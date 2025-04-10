@@ -1,4 +1,4 @@
-import bannerImg from "/banner.png";
+import why from "/Why.jpeg";
 import { TiTickOutline } from "react-icons/ti";
 
 const Why = () => {
@@ -36,7 +36,10 @@ const Why = () => {
         </div>
 
         {/* Image */}
-        <img src={bannerImg} alt="Why Us" className="object-contain w-[300px] h-[250px] lg:w-[500px] lg:h-[400px]" />
+        <img 
+        src={why}
+        alt="Why Us" 
+        className="object-cover w-[300px] h-[250px] lg:w-[500px] lg:h-[400px] rounded-xl" />
       </div>
     </div>
   );

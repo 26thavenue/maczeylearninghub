@@ -1,227 +1,661 @@
  [
     {
       "title": "Level 7 Human Resource Management (120 Credits)",
-      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/06/120-Business-Banner-27.png",
-      "enrolment_fee": "£20",
-      "total_cost": "£3,500",
+      "imgSrc":"https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SHVtYW4lMjBSZXNvdXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subheading2":"£3,500 or £145 per month",
       "school":"Online Business School",
       "level": "Level 7",
-      "monthly_cost": "£145 per month",
-      "payment_duration": "24 months interest-free",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 7 Diploma (120 credits)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
       "ofqual_link": "Level 7 Diploma in Human Resource Management – 603/0722/5",
-      "description": "This Level 7 Diploma in Human Resource Management is an MBA advanced entry course providing 120 credits out of 180 required for a full MBA. The course consists of 6 interactive modules and 6 written assignments, with 40 guided learning hours per module.",
-      "additional_learning": {
-        "optional_materials": "30 to 50 hours of recommended exercises, readings, internet resources, and self-testing exercises",
-        "support": "24/7 support, tutoring, and various support mechanisms"
-      },
-      "eligibility": {
-        "minimum_age": "21+ years old",
-        "requirements": [
-          "Level 6 qualification or a first degree",
-          "Considerable managerial experience may be considered in the absence of formal qualifications"
+      "description": "This Level 7 Diploma in Human Resource Management is an MBA advanced entry course providing 120 credits out of 180 required for a full MBA. The course consists of 6 interactive modules and 6 written assignments, with 40 guided learning hours per module.Each module also includes an additional 30 to 50 learning hours of optional materials, which comprise recommended exercises, readings, internet resources, and self-testing exercises. You will also have access to 24/7 support, tutoring, and a variety of other support mechanisms.fter receiving your Level 7 diploma, you are eligible to apply for an MBA top-up course, either online or on campus at a range of UK universities. The top-up portion will usually consist of the final 60 credits of either a dissertation or a dissertation and one module.",
+      "section": [
+       {
+        "title":"How It Works",
+        "content":[
+          "Students on our Human Resource Management course can complete Level 7 diploma, designed to provide students with the skills needed to succeed in the Human Resource Management industry.",
+          "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+          "To complete the course you’ll submit 6 online assignments at Level 7. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi Level 7 diploma and you’ll be able to top up your qualification to an MBA at a range of UK universities.",
+          "During this Human Resource Management course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
         ]
-      },
-      "modules": [
-        "Contemporary HRM",
-        "Leading, managing and HR development",
-        "Resourcing, talent management and development",
-        "Performance management",
-        "Employee relations",
-        "Investigating a business issue from an HR perspective"
-      ],
-      "mba_top_up": {
-        "available": true,
-        "details": "Eligible to apply for an MBA top-up course online or on campus at UK universities, consisting of a dissertation or dissertation plus one module."
-      }
+       },
+      {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This Human Resource Management course contains 6 online modules. These are designed by Online Business School’s expert academic team to provide students with a solid theoretical basis for developing their teaching skills, and therefore cover the following topics:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      "Contemporary HRM",
+      "Leading, managing and HR development",
+      "Resourcing, talent management and development",
+      "Performance management",
+      "Employee relations",
+      "Investigating a business issue from an HR perspective"
+    ]
+  },
+  "modules2": [
+    "The assignment unit titles for the Level 7 course are:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Contemporary HRM",
+      "Leading, managing and HR development",
+      "Resourcing, talent management and development",
+      "Performance management",
+      "Employee relations",
+      "Investigating a business issue from an HR perspective"
+    ]
+  },
+  "modules3": [
+    "For more details, visit the official course page:"
+  ],
+  "modules3link": "https://qualifi.net/level-7-diploma-in-human-resource-management/"
+},
+
+       {
+        "title":"Entry Requirements",
+        "heading":"Am I eligible for this programme? ",
+        "content":[
+          "To enrol on this Level 7 programme, you must be 21+ years old.",
+          "Learners will be expected to hold a level 6 qualification or a first degree. In certain circumstances, managers with considerable experience but no formal qualifications may be considered",
+          "To find out more, talk to one of our helpful team members at: 0333 772 1158"
+        ]
+       },
+       {  
+        "title":"Cost and payments",
+        "content":[
+          "Level 7: £3,500",
+          "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+          "Students can make payment using one of the following methods:"
+         
+        ],
+        "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+       },
+      {
+  "title": "Career Progression",
+  "heading": "Progression Routes",
+  "modules1": [
+    "On completion of this course, students have the opportunity to complete an MBA programme from a range of UK universities. The top-up programme can be studied online or on campus. The MBA top-up comprises the final 60 credits, which consists of either a dissertation or a dissertation and one module.",
+    "Students can apply to any university offering the MBA/MSc top-up and can choose to study for their degree either online or in-person on campus.",
+    "If you decide to top up to a full MBA/MSc through an accredited UK university, some costs are listed below."
+  ],
+  "module1sublist": {
+    "sublists": [
+      "University of Portsmouth",
+      "University of Northampton",
+      "Leeds Beckett University",
+      "University of Wolverhampton"
+    ]
+  },
+  "modules2": [
+    "Upon completing this Level 7 course, learners can join a university partner to complete a dissertation to then receive a full master’s degree. Learners can also step directly into employment in an associated profession."
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Human resources manager",
+      "Employee relations manager",
+      "Benefit analyst/manager HR information",
+      "Labour relations manager",
+      "Systems manager"
+    ]
+  }
+}
+
+      ]
     },
     {
       "title": "Level 7 Strategic Management and Leadership",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest-free.",
+      "subheading2":"£3,500 or £145 per month",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-5-1.webp",
       "school":"Online Business School",
       "level": "Level 7",
-      "enrolment_fee": "£20",
-      "total_cost": "£3,500",
-      "monthly_cost": "£145 per month",
-      "payment_duration": "24 months interest-free",
+      
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 7 Diploma (120 credits)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
       "ofqual_link": "Level 7 Diploma in Strategic Management and Leadership – 601/5335/0",
       "description": "The Level 7 Diploma in Strategic Management and Leadership is an MBA advanced entry course providing 120 credits out of 180 required for a full MBA. The course consists of 30 interactive modules and 8 written assignments, with 40 guided learning hours per module.",
-      "additional_learning": {
-        "optional_materials": "30 to 50 hours of recommended exercises, readings, internet resources, and self-testing exercises",
-        "support": "24/7 support, tutoring, and various support mechanisms"
+      "section":[
+        {
+          "title":"How It Works",
+          "content":[
+            "Students on our Strategic Management and Leadership course can complete Level 7 diploma, designed to provide students with the skills needed to succeed in the Strategic Management and Leadership industry.",
+            "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+            "To complete the course you’ll submit 8 online assignments at Level 7. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi Level 7 diploma and you’ll be able to top up your qualification to an MBA at a range of UK universities.",
+            "During this Strategic Management and Leadership course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+          ]
+        },
+     {
+  "title": "Module Descriptions",
+  "heading": "Module Descriptions",
+  "modules1": [
+    "The Level 7 Diploma in Strategic Management and Leadership course covers a wide range of essential leadership, management, and strategic topics. The following modules provide learners with the necessary skills and knowledge to thrive in high-level management roles."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Qualities of effective leadership",
+        "description": "Learners will explore the making and developing of powerful leaders."
       },
-      "modules": [
-        "Qualities of effective leadership",
-        "Developing interpersonal skills",
-        "Motivating and influencing people",
-        "Making decisions",
-        "Creativity and problem solving",
-        "Studying and using management theories",
-        "The external operating environment of business",
-        "Culture and ethics",
-        "Governance and directorships",
-        "Analysing the competition",
-        "Marketing strategy",
-        "High performance sales",
-        "E-Marketing communication",
-        "Customers and their needs",
-        "Strategic human resource management",
-        "Recruiting and CPD",
-        "Measuring and rewarding performance",
-        "Interpreting business accounts",
-        "Tools of financial analysis",
-        "Managing cash and working capital",
-        "Exercises in quantitative techniques",
-        "Impact of technology on business",
-        "Innovation and R&D",
-        "Implementing and managing quality systems",
-        "Strategic planning tools",
-        "Strategic and systems management",
-        "The business plan",
-        "Developing high performance teams",
-        "Managing projects",
-        "Strategies for growth"
-      ],
-      "mba_top_up": {
-        "available": true,
-        "details": "Eligible to apply for an MBA top-up course online or on campus at UK universities, consisting of a dissertation or dissertation plus one module."
+      {
+        "name": "Developing interpersonal skills",
+        "description": "Connecting and bonding with people within the commercial sectors is extremely important for good business. This module trains learners in skills to improve and enhance communication techniques to create strong bonds."
+      },
+      {
+        "name": "Motivating and influencing people",
+        "description": "Inspiring people to create a unity of direction within business."
+      },
+      {
+        "name": "Making decisions",
+        "description": "Doing the right things in the right way at the right time. Learners will look at the process of making a good decision."
+      },
+      {
+        "name": "Creativity and problem solving",
+        "description": "Do problems pose a threat or are they an opportunity to improve? Here, learners will figure out how to turn a problem into an advantage."
+      },
+      {
+        "name": "Studying and using management theories",
+        "description": "There are many theories concerned with management and the various models developed from these theories. This module looks over these theories with real life examples."
+      },
+      {
+        "name": "The external operating environment of business",
+        "description": "Planning for influences on the business outside your control."
+      },
+      {
+        "name": "Culture and ethics",
+        "description": "The culture and ethics involved in the business world today."
+      },
+      {
+        "name": "Governance and directorships",
+        "description": "Structuring and controlling a business the professional way."
+      },
+      {
+        "name": "Analysing the competition",
+        "description": "What are my competitors doing, how are they doing it, why are they doing it? Reviewing and analysing competitor actions to enhance managerial roles."
+      },
+      {
+        "name": "Marketing strategy",
+        "description": "Creating an effective and successful market presence. Looking at the development of marketing strategies to create successful marketing campaigns."
+      },
+      {
+        "name": "High performance sales",
+        "description": "Learners will grasp the key elements of successful selling."
+      },
+      {
+        "name": "E-Marketing communication",
+        "description": "Understanding and using effective electronic messages to market."
+      },
+      {
+        "name": "Customers and their needs",
+        "description": "Ensuring that your customers are recognised and valued."
+      },
+      {
+        "name": "Strategic human resource management",
+        "description": "Human Resource Management must play a central role in the strategy of any organization. It is concerned with people as an asset of the business."
+      },
+      {
+        "name": "Recruiting and CPD",
+        "description": "Getting the best people. Developing the best people. Keeping the best people."
+      },
+      {
+        "name": "Measuring and rewarding performance",
+        "description": "Knowing and measuring how your people are performing."
+      },
+      {
+        "name": "Interpreting business accounts",
+        "description": "Using and understanding the litmus tests of business health."
+      },
+      {
+        "name": "Tools of financial analysis",
+        "description": "Resources, tools and techniques to keep a finger on the pulse of the business."
+      },
+      {
+        "name": "Managing cash and working capital",
+        "description": "Cash, cash flow and working capital. The lifeblood of business."
+      },
+      {
+        "name": "Exercises in quantitative techniques",
+        "description": "How to use and understand key figures."
+      },
+      {
+        "name": "Impact of technology on business",
+        "description": "Analyse and exploit the role of e-business within a business sector."
+      },
+      {
+        "name": "Innovation and R&D",
+        "description": "Creating commercial advantage from innovation and research."
+      },
+      {
+        "name": "Implementing and managing quality systems",
+        "description": "Right first time, right every time. The place of quality in business strategy."
+      },
+      {
+        "name": "Strategic planning tools",
+        "description": "Resources, tools and ideas to help create an effective business strategy."
+      },
+      {
+        "name": "Strategic and systems management",
+        "description": "Options for strategic direction. Making the right choices for your business."
+      },
+      {
+        "name": "The business plan",
+        "description": "Creating a plan that targets the stated aims and objectives of a business."
+      },
+      {
+        "name": "Developing high performance teams",
+        "description": "Cohesion and teamwork that enhances business performance."
+      },
+      {
+        "name": "Managing projects",
+        "description": "Getting things done. Using the right tools to run projects."
+      },
+      {
+        "name": "Strategies for growth",
+        "description": "This module explores the different ideas of growth and the various tools, measures and controls at a manager’s disposal in planning for growth."
       }
+    ]
+  },
+  "modules2": [
+    "The assignment unit titles for the Level 7 course are:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Manage Team Performance to Support Strategy",
+      "Information Management and Strategic Decision Taking",
+      "Leading a Strategic Management Project",
+      "Strategic Direction",
+      "Strategic Planning",
+      "Development as a Strategic Manager",
+      "Finance for Managers",
+      "Strategic Marketing"
+    ]
+  },
+  "modules3": [
+    "For more details, visit the official course page:"
+  ],
+  "modules3link": "https://qualifi.net/level-7-diploma-in-strategic-management-and-leadership/"
+},
+
+        {
+        "title":"Entry Requirements",
+        "heading":"Am I eligible for this programme? ",
+        "content":[
+          "To enrol on this Level 7 programme, you must be 21+ years old.",
+          "Learners will be expected to hold a level 6 qualification or a first degree. In certain circumstances, managers with considerable experience but no formal qualifications may be considered",
+          "To find out more, talk to one of our helpful team members at: 0333 772 1158"
+        ]
+       },
+        {
+        "title":"Cost and payments",
+        "content":[
+          "Level 7: £3,500",
+          "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+          "Students can make payment using one of the following methods:"
+         
+        ],
+        "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+       },
+       {
+          "title":"Career Progression",
+          "content":[
+            "On completion of this course, students have the opportunity to complete an MBA programme from a range of UK universities. The top-up programme can be studied online or on campus. The MBA top-up comprises the final 60 credits which consists of either a dissertation or a dissertation and one module.",
+            "Upon successful completion of the postgraduate diploma in strategic management and leadership and the final year of an accredited postgraduate degree programme, learners will have the skills to execute a professional managerial role in marketing, accounting, business consultancy, and more.",
+            "A business management diploma and MBA develops key cognitive skills such as critical thinking, analysis, evaluation, and writing while also establishing presentation and numeracy skills to enhance knowledge and experience. These skills are critical in helping you advance your career."
+          ]
+       },
+        {
+          "title":"University Options",
+          "content":[
+            "On completion of this course students have the opportunity to complete an MBA programme from a range of UK universities. The top up programme can be studied online or on campus. The MBA top up comprises the final 60 credits which consists of either a dissertation or a dissertation and one module.",
+            "Students may top-up on campus or by distance learning.",
+            "Students can apply to any university offering the MBA top up, the following universities run Top Up programmes by distance and on campus learning:"
+            
+             
+          ],
+           "contentsublist":[
+                "University of Gloucestershire",
+                "University of Wolverhampton",
+                "University of Central Lancashire",
+                "University of Sunderland – On Campus",
+                "Anglia Ruskin University ",
+                "Buckinghamshire New University ",
+                "Northampton University ",
+                "University of Chichester "
+              ]
+            
+       }
+
+      ]
     },
     {
       "title": "Level 7 Strategic Sales Management",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-7.webp",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subheading2":"£3,500 or £145 per month",
       "level": "Level 7",
       "qualification": "Level 7 Diploma",
-      "price": "£3,500 or £145 per month",
-      "enrolment_fee": "£20",
-      "payment_plan": "Spread the cost over 24 months interest-free",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
       "description": "Sales managers are responsible for identifying potential customers, appealing to their interests, and closing sales. This course provides the skills to improve sales performance.",
       "learning_hours": {
         "guided": 40,
         "optional": "30-50 hours"
       },
       "progression": "Eligible to top up qualification to a bachelor's degree at a range of UK universities",
-      "modules": [
-        "Personal awareness in sales",
-        "Focus on customers",
-        "From sales to sales management and coaching"
-      ],
-      "eligibility": {
-        "age": "21+ years old",
-        "requirements": [
-          "At least 3 years of sales experience"
-        ]
-      }
-    },
-    {
-      "title": "Level 7 Project Management",
-      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-8.webp",
-      "school":"Online Business School",
-       "level": "Level 7",
-      "credits": 120,
-      "price": "£3,500 or £145 per month",
-      "enrolment_fee": "£20",
-      "payment_plan": "Spread the cost over 24 months interest-free",
-      "start_date": "Anytime",
-      "location": "Online",
-      "study_pace": "Flexible, you have up to 5 years to complete this course",
-      "qualification": "Level 7 Diploma (120 credits)",
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "ofqual_link": "Level 7 Diploma in Project Management – 610/1342/0",
-      "description": "The Level 7 Diploma in Project Management is an MBA advanced entry course that provides learners with 120 credits out of the 180 credits required to complete an MBA. The course comprises 6 interactive modules and 6 written assignments, with approximately 40 guided learning hours per module.",
-      "learning_hours": {
-        "guided": 40,
-        "optional": "30-50 hours"
-      },
-      "progression": "Eligible to apply for an MBA top-up course at a range of UK universities",
-      "modules": [
-        "Leadership and professional development",
-        "Planning, controlling and leading a project",
-        "Operations and information management for project managers",
-        "Principles of project management",
-        "Operations and global supply chain management",
-        "Managing risk, uncertainty and complexity in projects"
-      ],
-      "eligibility": {
-        "option_a": {
-          "age": "22+ years old",
-          "requirement": "University graduate"
+      "section":[
+          {
+          "title":"How It Works",
+          "content":[
+            "Students on our Strategic Sales Management course can complete Level 7 diploma, designed to provide students with the skills needed to succeed in the business industry.",
+            "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+            "To complete the course you’ll submit 3 online assignments at Level 7. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Level 7 diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+            "During this Strategic Sales Management course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+          ]
         },
-        "option_b": {
-          "age": "24+ years old",
-          "requirement": "At least five years of managerial experience"
-        }
-      }
+       {
+  "title": "Module Descriptions",
+  "heading": "Module Descriptions",
+  "modules1": [
+    "The level 7 strategic sales management course has 3 written assignments. The assignments are approximately 5,000 words each. Students are provided support on the modules and assignments via the ‘Tutor’ section of the learning platform."
+  ],
+  "module1sublist": {
+    "sublists": [
+      "Personal awareness in sales",
+      "Focus on customers",
+      "From sales to sales management and coaching"
+    ]
+  },
+  "modules2": [
+    "The assignment unit titles for the Level 7 course are:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Personal awareness in sales",
+      "Focus on customers",
+      "From sales to sales management and coaching"
+    ]
+  },
+  "modules3": [
+    "For more details, visit the official course page:"
+  ],
+  "modules3link": "https://qualifi.net/level-7-diploma-in-strategic-sales-management/"
+},
+
+        {
+        "title":"Entry Requirements",
+        "heading":"Am I eligible for this programme? ",
+        "content":[
+          "To enrol on the Level 7 programme, you must be 21+ years old and have at least 3 years of sales experience."
+        ]
+       },
+       {
+        "title":"Cost and payments",
+        "content":[
+          "Level 7: £3,500",
+          "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+          "Students can make payment using one of the following methods:"
+         
+        ],
+        "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+       },
+       {
+          "title":"Career Progression",
+          "content":[
+            "Successful completion of the undergraduate level 7 strategic sales management programme will improve your sales skill set. This course is aimed at senior sales managers, directors or those aspiring to progress to the senior level."
+          ]
+       }
+
+      ]
     },
     {
       "title": "Level 7 Psychology",
-      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/10/120-Business-Banner-64.webp",
+      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-8.webp",
       "school":"Online Business School",
+      "description":"Unlock the gateway to a thriving career in psychology with this Level 7 Diploma. Delve into the intricacies of cognitive functions, including perception, executive functions, language, and attention, discovering their pivotal role in the fascinating realm of psychology. Gain not only theoretical knowledge but also practical skills essential for a successful career in the field.",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest-free.",
+      "subheading2":"£3,500 or £145 per month",
        "level": "Level 7",
       "credits": 120,
-      "description":"Unlock the gateway to a thriving career in psychology with this Level 7 Diploma. Delve into the intricacies of cognitive functions, including perception, executive functions, language, and attention, discovering their pivotal role in the fascinating realm of psychology. Gain not only theoretical knowledge but also practical skills essential for a successful career in the field.",
-      "price": "£3,500 or £145 per month",
-      "enrolment_fee": "£20",
-      "payment_plan": "Spread the cost over 24 months interest-free",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, you have up to 5 years to complete this course",
       "qualification": "Level 7 Diploma (120 credits)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "modules": [
-        "Psychoanalysis and Mental Health",
-        "Exploring psychology",
-        "Cognitive and biological psychology",
-        "Qualitative Research Methodology",
-        "Social and Cultural Psychology and Psychology of Human Development",
-        "Rehabilitation Psychology"
-      ],
-      "eligibility": {
-        "age": "21+ years old",
-        "requirements": [
-          "Level 6 qualification or a first degree",
-          "At least 3 years of relevant experience"
+         "section":[
+          {
+          "title":"How It Works",
+          "content":[
+            "Students on our Psychology course can complete Level 7 diploma, designed to provide students with the skills needed to succeed in the Psychology industry.",
+            "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+            "To complete the course you’ll submit 6 online assignments at Level 7. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi Level 7 diploma.",
+            "During this Psychology course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+          ]
+        },
+        {
+  "title": "Module Descriptions",
+  "heading": "Module Descriptions",
+  "modules1": [
+    "The Level 7 Psychology course contains 6 online modules, designed to provide learners with in-depth knowledge in various psychological fields, including therapeutic approaches, research methodologies, and human development."
+  ],
+  "module1sublist": {
+    "sublists": [
+      "Psychoanalysis and Mental Health",
+      "Exploring Psychology",
+      "Cognitive and Biological Psychology",
+      "Qualitative Research Methodology",
+      "Social and Cultural Psychology and Psychology of Human Development",
+      "Rehabilitation Psychology"
+    ]
+  },
+  "modules2": [
+    "The assignment unit titles for the Level 7 course are:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Psychoanalysis and Mental Health",
+      "Exploring Psychology",
+      "Cognitive and Biological Psychology",
+      "Qualitative Research Methodology",
+      "Social and Cultural Psychology and Psychology of Human Development",
+      "Rehabilitation Psychology"
+    ]
+  },
+  "modules3": [
+    "For more details, visit the official course page:"
+  ],
+  "modules3link": "https://qualifi.net/level-7-diploma-in-psychology/"
+},
+
+        {
+        "title":"Entry Requirements",
+        "heading":"Am I eligible for this programme? ",
+        "content":[
+          "To enrol on this Level 7 programme, you must be 21+ years old and have at least 3 years of relevant experience.",
+          "Learners will be expected to hold a Level 6 qualification or a first degree. In certain circumstances, managers with considerable experience but no formal qualifications may be considered.",
+          "To find out more, talk to one of our helpful team members at: 0333 772 1158"
         ]
+       },
+       {
+        "title":"Cost and payments",
+        "content":[
+          "Level 7: £3,500",
+          "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+          "Students can make payment using one of the following methods:"
+         
+        ],
+        "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+       },
+       {
+          "title":"Career Progression",
+          "content":[
+            "Upon Successful completion of the Psychology Level 7 course, graduates can pursue diverse career paths. Options include becoming a clinical psychologist, offering therapeutic support for mental health issues, or specialising in counselling psychology in educational or community settings. Careers in forensic psychology, health psychology, and industrial-organisational psychology are also viable, with opportunities in legal assessments, healthcare, and organisational development.",
+            "Graduates can opt for research and academic roles, contributing to studies and teaching at universities. Other avenues include roles in non-profit organisations, human resources, or becoming life coaches, utilising their psychological expertise to assist individuals in various aspects of personal and professional development. Gaining practical experience and considering specialisation through certifications further enhances career prospects in these fields.",
+            "Job prospects include roles as project managers, where individuals can demonstrate their ability to analyse risks, manage resources efficiently, and communicate effectively with stakeholders. The diploma also enhances the potential for career advancement, paving the way for executive and strategic roles within the project management field. Overall, this qualification sets the stage for a fulfilling and successful career in project management."
+          ]
+       }
+
+      ]
+      
+      
+    },
+    {
+      "title": "Level 7 Project Management",
+      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/10/120-Business-Banner-64.webp",
+      "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest-free.",
+      "subheading2":"£3,500 or £145 per month",
+       "level": "Level 7",
+      "credits": 120,
+      "description":"The Level 7 Diploma in Project Management is an MBA advanced entry course that provides learners with 120 credits out of the 180 credits required to complete an MBA. The course comprises 6 interactive modules and 6 written assignments, with approximately 40 guided learning hours per module.Each module also includes an additional 30 to 50 learning hours of optional materials, which consist of recommended exercises, readings, internet resources, and self-testing exercises. You will also have access to 24/7 support, tutoring, and various other support mechanisms.",
+      "start_date": "Anytime",
+      "location": "Online",
+      "study_pace": "Flexible, you have up to 5 years to complete this course",
+      "qualification": "Level 7 Diploma (120 credits)", 
+       "section":[
+          {
+          "title":"How It Works",
+          "content":[
+            "Students on our Project Management course can complete Level 7 diploma, designed to provide students with the skills needed to succeed in the Project Management industry.",
+            "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+            "To complete the course you’ll submit 6 online assignments at Level 7. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi Level 7 diploma and you’ll be able to top up your qualification to an MBA at a range of UK universities.",
+            "During this Project Management course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+          ]
+        },
+       {
+  "title": "Module Descriptions",
+  "heading": "Module Descriptions",
+  "modules1": [
+    "The Level 7 Project Management course contains 6 online modules, designed to provide learners with the knowledge and skills needed for effective leadership, project management, and operations within complex project environments."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Leadership and professional development",
+        "description": "Focuses on developing personal leadership through self-reflection and tailored exercises, allowing learners to evaluate their styles, approaches, and leadership journey."
+      },
+      {
+        "name": "Planning, controlling and leading a project",
+        "description": "Equips learners with skills to manage and lead projects within international settings, emphasizing the complexity and dynamic nature of project environments, teamwork, and critical management techniques."
+      },
+      {
+        "name": "Operations and information management for project managers",
+        "description": "Covers the dual role of operations and information systems in project success, highlighting process optimization, data-driven decision-making, risk mitigation, and streamlined communication."
+      },
+      {
+        "name": "Principles of project management",
+        "description": "Instils foundational concepts including the project lifecycle, planning, execution, stakeholder management, risk, time and cost control, and reflective practices."
+      },
+      {
+        "name": "Operations and global supply chain management",
+        "description": "Explores how efficient operations and supply chain strategies contribute to business performance, integrating technology, human resources, and process improvement for competitive advantage."
+      },
+      {
+        "name": "Managing risk, uncertainty and complexity in projects",
+        "description": "Delivers advanced skills in managing risk, uncertainty, and complexity, incorporating theoretical models and practical tools for project control across various scales and scopes."
       }
+    ]
+  },
+  "modules2": [
+    "The assignment unit titles for the Level 7 course are:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Leadership and professional development",
+      "Planning, controlling and leading a project",
+      "Operations and information management for project managers",
+      "Principles of project management",
+      "Operations and global supply chain management",
+      "Managing risk, uncertainty and complexity in projects"
+    ]
+  },
+  "modules3": [
+    "For more details, visit the official course page:"
+  ],
+  "modules3link": "https://qualifi.net/level-7-diploma-in-project-management/"
+},
+
+        {
+        "title":"Entry Requirements",
+        "heading":"Am I eligible for this programme? ",
+        "content":[
+          "To enrol on the Level 7 programme, you must be 21+ years old and have at least 3 years of management experience.",
+          "Learners will be expected to hold a Level 6 qualification or a first degree. In certain circumstances, managers with considerable experience but no formal qualifications may be considered.",
+          "To find out more, talk to one of our helpful team members at: 0333 772 1158"
+        ]
+       },
+       {
+        "title":"Cost and payments",
+        "content":[
+          "Level 7: £3,500",
+          "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+          "Students can make payment using one of the following methods:"
+         
+        ],
+        "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+       },
+       {
+          "title":"Career Progression",
+          "content":[
+            "On completion of this course, students have the opportunity to complete an MBA programme from a range of UK universities. The top-up programme can be studied online or on campus. The MBA top-up comprises the final 60 credits which consists of either a dissertation or a dissertation and one module.",
+            "Upon successful completion of the level 7 diploma in Project Management and final year of an accredited postgraduate degree programme, graduates can expect promising career opportunities and will be equipped with the skills and knowledge to lead complex projects, making them valuable assets in various industries.",
+            "Job prospects include roles as project managers, where individuals can demonstrate their ability to analyse risks, manage resources efficiently, and communicate effectively with stakeholders. The diploma also enhances the potential for career advancement, paving the way for executive and strategic roles within the project management field. Overall, this qualification sets the stage for a fulfilling and successful career in project management."
+          ]
+       }
+
+      ]
+      
     }
 
   ]

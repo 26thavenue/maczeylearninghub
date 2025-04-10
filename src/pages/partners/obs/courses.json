@@ -1,8 +1,10 @@
 [
   {
     "id": 1,
-    "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/11/120-Business-Banner-32.jpg",
+    "imgSrc":"https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmlvbG9neXxlbnwwfHwwfHx8MA%3D%3D",
     "school":"Online Business School",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "title": "IGCSE Biology",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -15,37 +17,106 @@
     "description": "Are you fascinated by the natural world? IGCSE Biology offers a captivating exploration of life sciences, from the smallest cells to the vast ecosystems that surround us.",
     "course_overview": "IGCSE Biology is a comprehensive course that provides students with a strong foundation in the fundamentals of biology. The course covers a wide range of topics, including cell biology, genetics, ecology, and human physiology.",
     "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Biology qualification, preparing them for A Levels, higher education, or careers in science.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-      "Characteristics of living organisms",
-      "Organisation of the organism",
-      "Movement into and out of cells",
-      "Biological molecules",
-      "Enzymes",
-      "Plant nutrition",
-      "Human Nutrition",
-      "Transport in plants",
-      "Transport in animals",
-      "Diseases and immunity",
-      "Gas exchange in humans",
-      "Respiration",
-      "Excretion in humans",
-      "Coordination and response",
-      "Drugs",
-      "Reproduction",
-      "Inheritance",
-      "Variation and selection",
-      "Organisms and their environment",
-      "Human influences on ecosystems",
-      "Biotechnology and genetic modifications"
-    ]
+     "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Biology course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of biology and the skills needed for further education or a career in science.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Biology qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "module1sublist":
+            {
+              "sublists": [
+                "Characteristics of living organisms",
+                "Organisation of the organism",
+                "Movement into and out of cells",
+                "Biological molecules",
+                "Enzymes",
+                "Plant nutrition",
+                "Human Nutrition",
+                "Transport in plants",
+                "Transport in animals",
+                "Diseases and immunity",
+                "Gas exchange in humans",
+                "Respiration",
+                "Excretion in humans",
+                "Coordination and response",
+                "Drugs",
+                "Reproduction",
+                "Inheritance",
+                "Variation and selection",
+                "Organisms and their environment",
+                "Human influences on ecosystems",
+                "Biotechnology and genetic modifications"
+              ]
+            }
+          
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+            "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+          ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
+      
   },
   {
     "id": 2,
     "title": "IGCSE Business Studies",
     "school":"Online Business School",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-33.webp",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -57,61 +128,208 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you intrigued by the world of business and entrepreneurship? IGCSE Business Studies offers a captivating exploration of business principles, from the smallest startups to multinational corporations.",
     "course_overview": "Through engaging lessons, case studies, and practical exercises, you’ll gain a solid understanding of the fundamental concepts that drive business activity.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Business Studies qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-      "Understanding business activity",
-      "People in business",
-      "Marketing",
-      "Operations management",
-      "Financial information and decisions",
-      "External influences on business activity"
+    "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Business Studies course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of business and the skills needed for further education or a career in business.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Business Studies qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "This course covers core areas essential to understanding business functions and operations:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Understanding business activity",
+        "description": "Covers the purpose and nature of business activity, classification of businesses, the role of enterprise and entrepreneurs, business growth, business size measurement, types of business organisations, and business and stakeholder objectives."
+      },
+      {
+        "name": "People in business",
+        "description": "Focuses on human resources, including workforce motivation, business organisation and management, recruitment, selection, training, and internal and external communication."
+      },
+      {
+        "name": "Marketing",
+        "description": "Explores the role of marketing, niche vs mass markets, market segmentation, market research, the marketing mix (four Ps), and strategies for consumer influence in domestic and international markets."
+      },
+      {
+        "name": "Operations management",
+        "description": "Introduces production methods, ways to increase productivity, production costs, break-even analysis, quality assurance, and business location decisions."
+      },
+      {
+        "name": "Financial information and decisions",
+        "description": "Examines the need for and sources of business finance, cash-flow forecasting, working capital, income statements, financial position statements, and account analysis."
+      },
+      {
+        "name": "External influences on business activity",
+        "description": "Analyzes external influences on business including economic, environmental, ethical, legal, and global factors such as globalisation, multinational businesses, and exchange rates."
+      }
     ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+           
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
   {
     "id": 3,
     "title": "IGCSE Chemistry",
     "school":"Online Business School",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/Chemistry.webp",
-    "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
-    "price": "£399 or £14.55 per month",
     "start_date": "Anytime",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "location": "Online",
     "study_pace": "Flexible ,you have up to 5 years to complete this course",
     "qualifications": "IGCSE Chemistry",
-    "assessment": "Written Examination",
-    "includes": "1-2-1 tutor support, all course materials and more",
-    "description": "Are you intrigued by the mysteries of matter? IGCSE Chemistry offers a fascinating exploration of the world around us, from the tiny atoms that make up everything to the chemical reactions that drive life and industry.",
-    "course_overview": "IGCSE Chemistry is a comprehensive course that provides students with a strong foundation in the fundamentals of chemistry. The course covers a wide range of topics, including atomic structure, chemical bonding, states of matter, and organic chemistry.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Chemistry qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "States of Matter",
-        "Atoms, elements and compounds",
-        "Stoichiometry",
-        "Electrochemistry",
-        "Chemical energetics",
-        "Chemical reactions",
-        "Acids, bases and salts",
-        "The Periodic Table",
-        "Metals",
-        "Chemistry of the environment",
-        "Organic Chemistry",
-        "Experimental Techniques and Chemical Analysis"
-    
-    ]
+    "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Chemistry course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of chemistry and the skills needed for further education or a career in chemistry.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Chemistry qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "module1sublist":{
+            "sublists":
+            [
+          "States of Matter",
+          "Atoms, elements and compounds",
+          "Stoichiometry",
+          "Electrochemistry",
+          "Chemical energetics",
+          "Chemical reactions",
+          "Acids, bases and salts",
+          "The Periodic Table",
+          "Metals",
+          "Chemistry of the environment",
+          "Organic Chemistry",
+          "Experimental Techniques and Chemical Analysis"
+          ]
+          }
+          
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+            
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
   {
     "id": 4,
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/Computer-Science-1.webp",
     "school":"Online Business School",
     "title": "IGCSE Computer Science",
-    "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
-    "price": "£399 or £14.55 per month",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "start_date": "Anytime",
     "location": "Online",
     "study_pace": "Flexible ,you have up to 5 years to complete this course",
@@ -120,28 +338,94 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you captivated by the digital world? IGCSE Computer Science offers a thrilling exploration of the fundamental principles and applications of computing.",
     "course_overview": "GCSE Computer Science is a comprehensive course that provides students with a strong foundation in the theoretical and practical aspects of computer science. The course covers a wide range of topics, including programming, algorithms, data structures, and computer systems.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Computer Science qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Data Representation",
-        "Data transmission",
-        "Hardware",
-        "Software",
-        "The Internet and its uses",
-        "Automated and emerging technologies",
-        "Algorithm design and problem-solving",
-        "Programming",
-        "Databases",
-        "Boolean logic"
-    
-    ]
+     "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Computer Science course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding and the skills needed for further education or a career in computer science.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Computer Science qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "module1sublist":{
+            "sublists":[
+          "Data Representation",
+          "Data transmission",
+          "Hardware",
+          "Software",
+          "The Internet and its uses",
+          "Automated and emerging technologies",
+          "Algorithm design and problem-solving",
+          "Programming",
+          "Databases",
+          "Boolean logic"
+          ]
+          }
+
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+           
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
    {
     "id": 5,
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-34.webp",
     "school":"Online Business School",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "title": "IGCSE English-First Language",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -153,20 +437,99 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "IGCSE English – First Language is designed for learners whose native language is English. The course aims to equip students with the essential skills to communicate clearly, effectively, and accurately both in speech and writing.",
     "course_overview": "This IGCSE equips students with strong communication skills, including clear and persuasive expression, mastery of language mechanics, and a rich vocabulary. The course fosters personal style and critical thinking skills through extensive reading and analysis of texts.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE English-First Language qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Reading",
-        "Writing",
-        "Speak and Listening"
+     "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE English-First Language course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of business and the skills needed for further education or a career in english.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE English- First qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+{
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "This course focuses on essential English communication skills across three main areas:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Reading",
+        "description": "Focuses on understanding written texts, summarising and evaluating content, analysing how writers influence readers, selecting relevant information, and recognising figurative language and literary devices. Candidates engage with a range of text types including literature, fiction, non-fiction, essays, reviews, and articles from the 20th and 21st centuries."
+      },
+      {
+        "name": "Writing",
+        "description": "Develops skills to express thoughts and emotions, organise facts and opinions, use varied vocabulary, apply appropriate sentence structures, and demonstrate awareness of audience, purpose, and form. Candidates are introduced to various writing forms such as descriptive, narrative, discursive, argumentative, and persuasive in formats like letters, reports, articles, journals, speeches, interviews, and summaries."
+      },
+      {
+        "name": "Speaking and Listening",
+        "description": "Covers the ability to describe experiences, express thoughts and feelings, convey complex ideas, and communicate clearly and appropriately. Also includes engaging effectively in conversations across different contexts."
+      }
     ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+            
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
    {
     "id": 6,
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/11/120-Business-Banner-351.webp",
     "school":"Online Business School",
+    "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "title": "IGCSE Environmental Management",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -178,27 +541,94 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you passionate about protecting our planet? IGCSE Environmental Management offers a compelling exploration of the complex interactions between humans and the natural world. This course provides a comprehensive understanding of environmental issues, equipping students with the knowledge and skills to become responsible global citizens.",
     "course_overview": "IGCSE Environmental Management delves into a wide range of topics, including ecosystems, biodiversity, pollution, climate change, and sustainable development. Through engaging lessons, practical investigations, and real-world case studies, students will develop a deep appreciation for the delicate balance of our planet’s ecosystems and the challenges we face in preserving them.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Envirronmenal Management qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Rocks and minerals and their exploitation",
-        "Energy and the environment",
-        "Agriculture and the environment",
-        "Water and its management",
-        "Oceans and fisheries",
-        "Managing natural hazards",
-        "The atmosphere and human activities",
-        "Human population",
-        "Natural ecosystems and human activities"      
-    ]
+     "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Environmental Management course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of biology and the skills needed for further education or a career in Environmental Management.",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Environmental Management qualification that will prepare you for progression to  A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "modules":
+          {
+            "sublists":[
+            "Rocks and minerals and their exploitation",
+            "Energy and the environment",
+            "Agriculture and the environment",
+            "Water and its management",
+            "Oceans and fisheries",
+            "Managing natural hazards",
+            "The atmosphere and human activities",
+            "Human population",
+            "Natural ecosystems and human activities"  
+          ]
+          }
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+           
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union"
+                
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
   {
     "id": 7,
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/New-Project.webp",
     "school":"Online Business School",
     "title": "IGCSE Geography",
+     "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
     "start_date": "Anytime",
@@ -213,17 +643,110 @@
     "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
     "completion": "Upon passing, students receive an IGCSE Geography qualification, preparing them for A Levels, higher education, or careers in business.",
     "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Population and Settlement",
-        "The natural Environment",
-        "Economic development"      
+    "section":[
+        { 
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Geography course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of Geography and the skills needed for further education or a career in Geography ",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Geography qualification that will prepare you for progression to A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "modules":[
+            {
+              "name": "Population and settlement",
+              "description": "Covers population dynamics, migration, population structure, density and distribution, rural and urban settlements, service provision, urbanisation, and urban settlements."
+            },
+            {
+              "name": "The natural environment",
+              "description": "Focuses on natural physical processes and features including earthquakes, volcanoes, rivers, coasts, weather, climate, and natural vegetation."
+            },
+            {
+              "name": "Economic development",
+              "description": "Explores themes of development, food production, industry, tourism, energy, water, and the environmental risks associated with economic development."
+            }
+          ]
+        },
+        {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "This course explores key themes in geography across three main areas:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Population and settlement",
+        "description": "Covers population dynamics, migration, population structure, density and distribution, rural and urban settlements, service provision, urbanisation, and urban settlements."
+      },
+      {
+        "name": "The natural environment",
+        "description": "Focuses on natural physical processes and features including earthquakes, volcanoes, rivers, coasts, weather, climate, and natural vegetation."
+      },
+      {
+        "name": "Economic development",
+        "description": "Explores themes of development, food production, industry, tourism, energy, water, and the environmental risks associated with economic development."
+      }
     ]
+  }
+},
+
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+          ],
+           "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union"
+                
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
    {
     "id": 8,
     "school":"Online Business School",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/New-Project-fsdfgsrfg.webp",
     "title": "IGCSE Mathematics",
+     "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
     "start_date": "Anytime",
@@ -234,26 +757,93 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you ready to sharpen your problem-solving skills? IGCSE Mathematics offers a comprehensive exploration of mathematical concepts, providing a strong foundation for further studies and real-world applications.",
     "course_overview": "IGCSE Mathematics covers a wide range of topics, including algebra, geometry, trigonometry, statistics, and probability. Through engaging lessons, practical exercises, and problem-solving activities, students will develop a deep understanding of mathematical principles and their applications.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Mathematics qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Number",
-        "Algebra and Graphs",
-        "Coordinate Geometry",      
-        "Geometry",      
-        "Mensuration",      
-        "Trigonometry",      
-        "Vectors and transformations",      
-        "Probability",      
-        "Statistics" 
-    ],
-    "subject_note":"All students study Core content in either:"
+    "section":[
+        { 
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Mathematics course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of Mathematics and the skills needed for further education or a career in Mathematics ",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Mathematics qualification that will prepare you for progression to A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "modules":{
+            "sublists":[
+            "Number",
+            "Algebra and Graphs",
+            "Coordinate Geometry",      
+            "Geometry",      
+            "Mensuration",      
+            "Trigonometry",      
+            "Vectors and transformations",      
+            "Probability",      
+            "Statistics" 
+          ]
+          }
+          
+          
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+           
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union"
+                
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ]
   },
    {
     "id": 9,
     "school":"Online Business School",
+     "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "title": "IGCSE Physics",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -265,24 +855,90 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you curious about how the world works? IGCSE Physics offers a captivating exploration of the fundamental principles that govern our universe. This course provides a comprehensive understanding of physical phenomena, from the smallest particles to the vast cosmos.",
     "course_overview": "IGCSE Physics covers a wide range of topics, including mechanics, electricity, waves, optics, and modern physics. Through engaging lessons, practical experiments, and real-world applications, students will develop a deep appreciation for the beauty and complexity of the physical world.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Physics qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Motion, forces and energy",
-        "Thermal physics",
-        "Waves",      
-        "Electricity and magnetism",      
-        "Nuclear physics",      
-        "Space physics"    
-    ],
-    "subject_note":"All students study Core content in either:",
+    "section":[
+        { 
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Physics  course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of Physics  and the skills needed for further education or a career in Physics  ",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Physics qualification that will prepare you for progression to A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "modules":
+          {
+            "sublists":[
+             "Motion, forces and energy",
+              "Thermal physics",
+              "Waves",      
+              "Electricity and magnetism",      
+              "Nuclear physics",      
+              "Space physics"    
+          ]
+          }
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+            
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union"
+                
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ],
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/IGCSE-Physics.webp"
   },
     {
     "id": 10,
     "school":"Online Business School",
+     "subheading":"Enrol today for £50 and spread the cost over 24 months interest free",
+    "subheading2":"£399 or £14.55 per month",
     "title": "IGCSE Travel and Tourism",
     "enrollment": "Enrol today for £50 and spread the cost over 24 months interest free",
     "price": "£399 or £14.55 per month",
@@ -294,17 +950,81 @@
     "includes": "1-2-1 tutor support, all course materials and more",
     "description": "Are you passionate about travel and the tourism industry? IGCSE Travel and Tourism offers a captivating exploration of the global hospitality sector, from destination management to customer service. This course provides a comprehensive understanding of the tourism industry and the skills needed to succeed in this dynamic field.",
     "course_overview": "GCSE Travel and Tourism covers a wide range of topics, including tourism geography, cultural tourism, event management, sustainable tourism, and the travel and tourism business. Through engaging lessons, case studies, and practical activities, students will develop a deep appreciation for the diverse world of travel and the importance of providing exceptional experiences for visitors.",
-    "eligibility": "Anyone over the age of 14 can enrol on this course. No previous qualifications required.",
-    "how_it_works": "Students can start anytime and study entirely online. The course includes guided online learning hours, additional optional materials, and self-test tasks. Assessment is through written exams at an exam center.",
-    "completion": "Upon passing, students receive an IGCSE Travel and Tourism qualification, preparing them for A Levels, higher education, or careers in business.",
-    "support": "Includes tutor support, webinars, social learning forums, and additional materials.",
-    "subjects": [
-        "Introduction to the main travel and tourism definitions and concepts",
-        "Global tourism",
-        "Travel and Tourism organisations",      
-        "Customer Service",      
-        "Destination Marketing"     
-    ],
+    "section":[
+        { 
+            "title": "How It Works",
+            "content": [
+              "Students on our IGCSE Travel & Tourism course can start at any time and study entirely online, offering complete flexibility. The course is designed to provide learners with a solid understanding of Travel & Tourism and the skills needed for further education or a career in Travel & Tourism",
+              "Each subject consists of guided online learning hours, with additional optional materials such as recommended exercises, readings, digital resources, and self-test tasks.",
+              "To be awarded your IGCSE qualification, you will be assessed through written examinations completed at an exam centre. You can find out more about exam centres and where to locate them here.",
+              "To complete the course, you will benefit from 1-2-1 tutor support and all necessary course materials. Upon passing the course, you’ll receive an IGCSE Travel & Tourism qualification that will prepare you for progression to A Levels, higher education, science-related careers or studying a Level 3 qualification at Online Business School.",
+              "Throughout the course, you’ll have access to various support resources, including webinars, social learning forums, and additional materials to enhance your learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Subject Content",
+          "modules":{
+            "sublists":[
+             "Introduction to the main travel and tourism definitions and concepts",
+          "Global tourism",
+          "Travel and Tourism organisations",      
+          "Customer Service",      
+          "Destination Marketing"     
+          ]
+          }
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "The typical age at which people choose to complete the IGCES is 14 to 16, but anyone over the age of 14 can enrol on this course. You also do not need any previous qualifications to be eligible for this course."
+          ]
+        },
+        {
+          "title": "Sitting the Exam",
+          "content":[
+              "Locate an approved exam centre that accepts private candidates.",
+              "Register with the exam centre and pay required fees.",
+              "Verify your statement of entry for accuracy.",
+              "Bring valid identification to each exam.",
+              "Maintain communication with the exam centre or provider for inquiries and access arrangements.",
+              "Request special consideration after the exams if needed.",
+              "Collect your exam results and certificates.",
+              "Request a review of marking or appeal through the exam centre if necessary.",
+              "Online Business School will assist in finding an approved exam centre.",
+              "We support you with registration and meeting all exam requirements and deadlines.",
+              "We provide guidance on exam preparation and verification of entry statements.",
+              "We clarify identification needs and access arrangements.",
+              "We assist with post-exam steps including special considerations, results collection, and appeals."
+          ]
+
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "IGCSE Biology: £399",
+            "Enrol with a £50 deposit and then £14.55 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:"
+            
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union"
+                
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Upon completion of this course, students will have the foundations and fundamental knowledge needed to study A levels or a Level 3 qualification with Online Business School."
+          ]
+        }
+      ],
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/IGCSE-Travel-and-Tourism-1.webp"
   }
   

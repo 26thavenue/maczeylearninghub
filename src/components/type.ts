@@ -9,7 +9,8 @@ export interface IButtonProps{
     id ?: string
     className ?: any
     loadingIcon ?:any
-    buttonName:string
+    buttonName?:string
+    children?:any
 }
 
 export type IconButton  = Omit<IButtonProps, "iconLeft" | "iconRight">

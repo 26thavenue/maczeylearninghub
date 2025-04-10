@@ -9,16 +9,13 @@ import eg from "/egaImg.png";
 import partner from "/partners.avif"
 
 
-import ukFlag from "/uk.png";
-import canadaFlag from "/canada.png";
-import germanyFlag from "/germany.png";
+
 import Banner from "../components/Banner";
 
 const Partners = () => {
   const partnerSections = [
     {
       country: "United Kingdom",
-      flag: ukFlag,
       institutions: [
         {
           name: "Online Business School",
@@ -40,8 +37,7 @@ const Partners = () => {
     },
     {
       country: "Canada",
-      flag: canadaFlag,
-      institutions: [
+    institutions: [
         {
           name: "Ready Global Academy",
           imgSrc: rga,
@@ -54,7 +50,7 @@ const Partners = () => {
     },
     {
       country: "Germany",
-      flag: germanyFlag,
+
       institutions: [
         {
           name: "SRH University",
@@ -101,7 +97,7 @@ const Partners = () => {
           
 
       </div>
-      <section className="py-24 bg-slate-50 my-16">
+      <section className="py-24 bg-slate-50 my-16 rounded-2xl">
           <div className="container mx-auto px-6">
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-sm font-medium text-primary uppercase tracking-wider mb-3 animate-slide-up">
@@ -116,9 +112,9 @@ const Partners = () => {
               </p>
             </div>
             
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8  space-y-4">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8  space-y-4">
               {partnerSections.map((partner, index) => (
-                <div>
+                <div className="max-w-[400px]">
                   {partner.institutions.map((schools,_) =>(
                   <Link to={schools?.link}>
                      <div 

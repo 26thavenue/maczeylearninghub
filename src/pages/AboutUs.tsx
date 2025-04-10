@@ -3,26 +3,23 @@ import WhatWeOffer from "../components/about/WhatWeOffer"
 import Why from "../components/home/Why"
 import Partners from "../components/home/Partners"
 import mission from '/mission.png'
-import aboutUsImg from "/aboutUs.png"
+import aboutUsImg from "/about.png"
+
 
 
 const AboutUs = () => {
   return (
-    <main className="">
+    <main className="font-primary">
       <div
-        style={{ backgroundImage: `url(${aboutUsImg})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
-        className="h-[30dvh] lg:h-[80dvh] w-full flex flex-col gap-4 items-center justify-center p-8 lg:p-24"
+        className=" w-full flex flex-col gap-4 items-center justify-center p-8 lg:p-24 mt-16"
       >
-        <h1 className="text-4xl lg:text-6xl leading-tight text-white tracking-[-1px] font-medium text-center lg:text-left">
-          About Us
+        <h1 className="text-2xl cursor-pointer group lg:text-5xl leading-tight font-medium text-black tracking-[-1px] mb-4  text-center lg:text-left">
+          Your Partner in Expanding 
+          <span className="bg-primary cursor-pointer text-white skew-3 ml-2 py-3 px-6 rounded-3xl group-hover:rounded-full transition ease-fluid">Education</span>
         </h1>
-        <p className="lg:text-2xl  lg:leading-8 text-white text-center ">Empowering lifelong learning, inspiring personal and professional growth.</p>
-      </div>
-
-
-      <div className="mb-4 flex-col flex lg:flex-row justify-evenly items-center p-8 lg:p-24 text-2xl">
-        <p className="leading-7 lg:leading-10 text-sm lg:text-xl">Welcome to Maczeylearninghub, your premier online learning platform for academic excellence. We're a dynamic team of education enthusiasts dedicated to providing accessible, affordable, and high-quality educational pathways to individuals around the world.
-        </p>
+        <p className="lg:text-xl max-w-5xl text-gray-600  lg:leading-8  text-center mb-16">We're a dynamic team of education enthusiasts dedicated to providing accessible, affordable, and high-quality educational pathways to individuals around the world.</p>
+        <img src={aboutUsImg}
+        alt="aboutUs" className="object-cover w-[90dvw] h-[90dvh] mx-auto rounded-2xl"/>
       </div>
 
       <div className="my-4 bg-primary text-white flex-col-reverse  gap-8 flex lg:flex-row justify-evenly items-center p-8 lg:p-24">
@@ -39,6 +36,7 @@ const AboutUs = () => {
       <Partners/>
       <Why/>
       <Banner/>
+      
       
     </main>
   )

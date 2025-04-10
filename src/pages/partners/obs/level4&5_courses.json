@@ -14,46 +14,211 @@
         "Level 5 Qualifi Diploma (120 credits)",
         "Level 4 & 5 Qualifi Diploma (240 credits)"
       ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": [
-        "Level 4 Diploma in Accounting and Finance – 610/0796/1",
-        "Level 5 Diploma in Business Management – 601/6049/4"
-      ],
-      "courseModules": {
-        "level_4": [
-          "The Business Environment",
-          "Managing and Using Finance",
-          "Maximizing Resources to Achieve Business Success",
-          "Quantitative Skills",
-          "Basic Accounting",
-          "Budgetary Control",
-          "Financial Performance",
-          "Financial Ratios",
-          "Financial Statements",
-          "Further Ratios"
-        ],
-        "level_5": [
-          "The Entrepreneurial Manager",
-          "Organisational Structures",
-          "Practical Accounting Analysis",
-          "Business Planning and Goal Setting",
-          "Politics and Business",
-          "Business Law",
-          "Managing in Today’s World",
-          "Performance Management",
-          "Marketing and Sales Planning",
-          "Quantitative Skills"
-        ]
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+        {
+          "title": "How It Works",
+          "content": [
+              "Students on our Accounting and Finance course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the finance industry.",
+              "The course is completed online and you can start at any time, offering complete flexibility. Each module (Level 4 & 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you'll submit 6 online assignments at each level, with assignments being approximately 2,000-3,000 words each. Once you've passed your course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+              "During the course you'll benefit from 1-2-1 tutor support and webinars, along with social learning forums and additional materials to complete your diploma with ease.",
+              "Throughout your studies, you'll have access to various support resources to enhance your learning experience, including personalized tutor support, interactive webinars, collaborative learning forums, and comprehensive study materials."
+          ]
       },
-      "entry_requirements": {
-        "level_4": "Minimum of 2 A-levels or equivalent. Work experience may be considered.",
-        "level_5": "Completion of Level 4 Qualifi Diploma in Accounting and Finance."
+       {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "This Level 4/5 diploma in Accounting and Management includes 10 modules and 6 written assignments at each level. Assignments are 2,000–3,000 words each. Students receive support via the ‘Tutor’ section of the learning platform."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "The Business Environment",
+        "description": "Explore external factors that affect businesses, including economics, international dimensions, nature, and competition."
+      },
+      {
+        "name": "Managing and Using Finance",
+        "description": "Understand key accounting areas and how they inform management decisions."
+      },
+      {
+        "name": "Maximizing Resources to Achieve Business Success",
+        "description": "Learn how to effectively manage resources for profitability."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Develop knowledge of numeric exercises and their application in business."
+      },
+      {
+        "name": "Basic Accounting",
+        "description": "Understand accounts and their use in assessing organizational health."
+      },
+      {
+        "name": "Budgetary Control",
+        "description": "Learn about financial control methods using budgets."
+      },
+      {
+        "name": "Financial Performance",
+        "description": "Assess financial performance using financial statements and accounting standards."
+      },
+      {
+        "name": "Financial Ratios",
+        "description": "Understand the application and meaning of common financial ratios."
+      },
+      {
+        "name": "Financial Statements",
+        "description": "Learn how to prepare and present financial statements."
+      },
+      {
+        "name": "Further Ratios",
+        "description": "Determine financial efficiency and assess future financial success."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 diploma in Business Management contains the following modules:"
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Explore the characteristics and skills of entrepreneurs, including innovation, risk-taking, leadership, and problem-solving."
+      },
+      {
+        "name": "Organisational Structures",
+        "description": "Understand the factors that influence organisational structure, such as size, industry, culture, and strategy."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Analyse accounts to gain insights into financial performance, identify trends, and inform decision-making."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Develop clear goals and objectives for a business, create a strategic plan, and allocate resources effectively."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Explore the impact of political factors on business, including government policies, regulations, and economic conditions."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities of managers, including employment law, contract law, and corporate governance."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Explore modern business practices, such as sustainability, corporate social responsibility, and ethical leadership."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Improve employee and business performance through strategies such as performance reviews, goal setting, and training and development."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Develop a comprehensive marketing and sales plan, including market research, target market identification, product positioning, and sales strategies."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Acquire knowledge of numeric exercises and their application in business, including financial analysis, data analysis, and statistical modelling."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Accounting in a business context",
+      "Economics for business mathematical",
+      "Accounting methods",
+      "Financial accounting",
+      "Management accounting",
+      "Leadership and management in accounting"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business development",
+      "Business models and growing organisations",
+      "Customer management",
+      "Responding to the changing business environment",
+      "Risk management and organisations",
+      "Effective decision making"
+    ]
+  }
+       },
+       {
+    "title": "Entry Requirements",
+    "heading": "Am I eligible for this programme?",
+    "content": [
+        "To enrol in our Level 4 Accounting and Finance course, you must be at least 18 years old and have a full secondary education (minimum of 2 A-levels or equivalent).",
+        "If you don't have 2 A-levels or equivalent qualifications (such as NVQ Level 3), you may still be eligible based on relevant work experience.",
+        "For the Level 5 Accounting and Finance course, you must have successfully completed the Level 4 Qualifi diploma in Accounting and Finance.",
+        "Contact our admissions team at 0333 772 1158 to discuss your eligibility or if you have any questions about the entry requirements."
+    ]
+       },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Studying Accounting and Finance opens a wide range of career opportunities across various industries. Here are some of the primary career paths you can pursue with an accounting degree:"
+    ],
+    "contentsublist": [
+        "Public Accounting",
+        "Corporate Accounting",
+        "Government and Nonprofit Accounting",
+        "Specialized Accounting Roles",
+        "Financial Services"
+    ]
+   } ,
+   {
+    "title": "University Progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 Accounting and Finance course you have the opportunity to complete a third-year Accounting and Finance degree programme, known as a 'BA top up', from a wide range of UK universities.",
+        "Students can apply to any university offering the BA top up and you can choose to study for your degree either online or in-person on campus.",
+        "If you decide to top up to a full undergraduate degree through an accredited UK university, the costs are listed below.",
+        "NOTE: UK/EU students may be eligible for student loans for the top-up portion of their studies. Visit www.slc.co.uk for more information."
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Bolton",
+        "University of Cumbria"
+    ]
+}
+
+      ]
+      
     },
     {
       "title": "Level 4 & 5  Business Management",
@@ -65,51 +230,204 @@
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
-      "qualifications": [
-        "Level 4 Qualifi Diploma in Business Management (120 credits)",
-        "Level 5 Qualifi Diploma in Business Management (120 credits)",
-        "Level 4 & 5 Qualifi Diploma in Business Management (240 credits)"
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": [
-        "Level 4 Diploma in Business Management – 601/6048/2",
-        "Level 5 Diploma in Business Management – 601/6049/4"
-      ],
-      "courseModules": {
-        "level_4": [
-          "Developing Personal Skills",
-          "Effective Communication",
-          "The Business Environment",
-          "The Marketing Mix",
-          "Strategic HRM",
-          "Managing Ethically",
-          "Culture and the Organisation",
-          "Customers and Customer Service",
-          "Fundamentals of Accounting",
-          "Financial Management and Control"
-        ],
-        "level_5": [
-          "The Entrepreneurial Manager",
-          "Organisational Structures",
-          "Practical Accounting Analysis",
-          "Business Planning and Goal Setting",
-          "Politics and Business",
-          "Business Law",
-          "Managing in Today’s World",
-          "Performance Management",
-          "Marketing and Sales Planning",
-          "Quantitative Skills"
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+        {
+    "title": "How it Works",
+        "content": [
+            "Students enrolled on our Diploma in Business Management course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with business management skills for career success.",
+            "This online course offers complete flexibility - start and study at any time. Each module (Level 4 & 5) includes 40 hours of guided online learning plus 30-50 hours of optional materials (exercises, readings, digital resources and self-test tasks).",
+            "To complete the course, you'll submit 6 online assignments per level (2,000-3,000 words each). Upon passing, you'll receive a Qualifi Diploma and can top up to a bachelor's degree at UK universities.",
+            "You'll benefit from 1-2-1 tutor support, webinars, social learning forums, and additional materials throughout your Business Management studies. Visit our Student Resources page for more support information."
         ]
+    },
+      {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "The Level 4 Diploma in Business Management includes 10 modules focused on building foundational skills in business and management."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Developing Personal Skills",
+        "description": "Develop essential personal skills for business, including communication, leadership, and decision-making."
       },
-      "entry_requirements": {
-        "level_4": "Minimum of 2 A-levels or equivalent. Work experience may be considered.",
-        "level_5": "Completion of Level 4 Qualifi Diploma in Business Management."
+      {
+        "name": "Effective Communication",
+        "description": "Learn various communication techniques used in business settings."
+      },
+      {
+        "name": "The Business Environment",
+        "description": "Explore external factors that affect businesses, such as economics, international dimensions, nature, and competition."
+      },
+      {
+        "name": "The Marketing Mix",
+        "description": "Understand and apply the marketing mix in business planning."
+      },
+      {
+        "name": "Strategic HRM",
+        "description": "Manage employees as a valuable business asset through recruitment, rewards, and retention strategies."
+      },
+      {
+        "name": "Managing Ethically",
+        "description": "Explore different management theories and models and their ethical implications."
+      },
+      {
+        "name": "Culture and the Organisation",
+        "description": "Understand the concept of organisational culture and its importance."
+      },
+      {
+        "name": "Customers and Customer Service",
+        "description": "Recognise the importance of customers and provide excellent customer service."
+      },
+      {
+        "name": "Fundamentals of Accounting",
+        "description": "Understand accounts and their use in assessing organisational health."
+      },
+      {
+        "name": "Financial Management and Control",
+        "description": "Compare and contrast good and bad financial decision-making and their impact on the business."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Business Management includes 10 modules that advance students’ knowledge and strategic capabilities."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Explore the characteristics and skills of entrepreneurs, including innovation, risk-taking, leadership, and problem-solving."
+      },
+      {
+        "name": "Organisational Structures",
+        "description": "Understand the factors that influence organisational structure, such as size, industry, culture, and strategy."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Analyse accounts to gain insights into financial performance, identify trends, and inform decision-making."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Develop clear goals and objectives for a business, create a strategic plan, and allocate resources effectively."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Explore the impact of political factors on business, including government policies, regulations, and economic conditions."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities of managers, including employment law, contract law, and corporate governance."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Explore modern business practices, such as sustainability, corporate social responsibility, and ethical leadership."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Improve employee and business performance through strategies such as performance reviews, goal setting, and training and development."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Develop a comprehensive marketing and sales plan, including market research, target market identification, product positioning, and sales strategies."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Acquire knowledge of numeric exercises and their application in business, including financial analysis, data analysis, and statistical modelling."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Managing change",
+      "Communication in an organisation",
+      "Business operations",
+      "Leadership and the organisation",
+      "Developing teams",
+      "Financial awareness"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business development",
+      "Business models and growing organisations",
+      "Customer management",
+      "Responding to the changing business environment",
+      "Risk management and organisations",
+      "Effective decision making"
+    ]
+  }
+}
+,
+       {
+    "title": "Entry Requirements",
+    "heading": "Am I eligible for this programme?",
+    "content": [
+        "To enrol in our Level 4 Diploma in Business Management  course, you must be at least 18 years old and have a full secondary education (minimum of 2 A-levels or equivalent).",
+        "If you don't have 2 A-levels or equivalent qualifications (such as NVQ Level 3), you may still be eligible based on relevant work experience.",
+        "For the Level 5 Diploma in Business Management course, you must have successfully completed the Level 4 Qualifi diploma in Business Management .",
+        "Contact our admissions team at 0333 772 1158 to discuss your eligibility or if you have any questions about the entry requirements."
+    ]
+       },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the full Level 4 and 5 Diploma in Business Management and the final year of an accredited undergraduate degree programme will give students the right credentials to go on and apply for a job in marketing, accounting, human resources, management, or business consultancy."
+    ]
+   } ,
+   {
+    "title": "University Options",
+    "content": [
+        "Once you've completed your online Level 4 & 5 Accounting and Finance course you have the opportunity to complete a third-year Accounting and Finance degree programme, known as a 'BA top up', from a wide range of UK universities.",
+        "Students can apply to any university offering the BA top up and you can choose to study for your degree either online or in-person on campus.",
+        "If you decide to top up to a full undergraduate degree through an accredited UK university, the costs are listed below.",
+        "NOTE: UK/EU students may be eligible for student loans for the top-up portion of their studies. Visit www.slc.co.uk for more information."
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Bolton",
+        "University of Cumbria"
+    ]
+}
+
+      ]
+      
     },
     {
       "title": "Level 4 & 5  Entrepreneurship and Management",
@@ -121,806 +439,1767 @@
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
-      "qualifications": [
-        "Level 4 Qualifi Diploma (120 credits)",
-        "Level 5 Qualifi Diploma (120 credits)",
-        "Level 4 & 5 Qualifi Diploma (240 credits)"
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": [
-        "Level 4 Diploma in Entrepreneurship – 603/4238/9",
-        "Level 5 Diploma in Business Management – 601/6049/4"
-      ],
-      "courseModules": {
-        "level_4": [
-          "Managing Business Operations",
-          "Business Environment",
-          "Personal Effectiveness",
-          "The Entrepreneurial Manager",
-          "Business Planning and Goal Setting",
-          "The Manager’s Toolkit",
-          "Managing and Using Finance",
-          "Managing and Using Marketing",
-          "Psychology of Entrepreneurship",
-          "Innovation and Creativity"
-        ],
-        "level_5": [
-          "The Entrepreneurial Manager",
-          "Organisational Structures",
-          "Practical Accounting Analysis",
-          "Business Planning and Goal Setting",
-          "Politics and Business",
-          "Business Law",
-          "Managing in Today’s World",
-          "Performance Management",
-          "Marketing and Sales Planning",
-          "Quantitative Skills"
-        ]
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+       "section":[
+      {
+    "title": "How it Works",
+    "content": [
+        "Students on our Entrepreneurship and Management course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the business industry.",
+        "The course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & Level 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+        "To complete the course you'll submit 10 online assignments at Level 4 and 6 online assignments at Level 5. Assignments are approximately 2,000-3,000 words each. Once you've passed your course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+        "During this Entrepreneurship and Management course you'll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you'll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience."
+    ]
+},
+     {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "The Level 4 Diploma in Entrepreneurship includes 10 modules focused on business operations, personal skills, and innovation."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Managing Business Operations",
+        "description": "Understand key aspects of business operations and their role in the wider business environment."
       },
-      "entry_requirements": {
-        "level_4": "Minimum of 2 A-levels or equivalent. Work experience may be considered.",
-        "level_5": "Completion of Level 4 Qualifi Diploma in Entrepreneurship."
+      {
+        "name": "Business Environment",
+        "description": "Explore external factors that affect businesses and develop strategies for managing change."
+      },
+      {
+        "name": "Personal Effectiveness",
+        "description": "Develop skills for learning, time management, problem-solving, decision-making, and managing stress."
+      },
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Explore different perspectives on entrepreneurial management and its role in organizational change and development."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Identify mechanisms for setting and achieving organizational goals."
+      },
+      {
+        "name": "The Manager’s Toolkit",
+        "description": "Learn about various management tools and their applications."
+      },
+      {
+        "name": "Managing and Using Finance",
+        "description": "Understand the use and management of finance within an organization, including accounting and financial reporting."
+      },
+      {
+        "name": "Managing and Using Marketing",
+        "description": "Explore marketing as a key management tool, including marketing planning and the role of internal and external marketing."
+      },
+      {
+        "name": "Psychology of Entrepreneurship",
+        "description": "Understand the psychological principles related to entrepreneurial business management."
+      },
+      {
+        "name": "Innovation and Creativity",
+        "description": "Explore the role of innovation and creativity in organizations, including models and techniques for facilitating their use."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Business Management includes 10 advanced modules aimed at strategic business functions and leadership."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Explore the characteristics and skills of entrepreneurs, including innovation, risk-taking, leadership, and problem-solving."
+      },
+      {
+        "name": "Organisational Structures",
+        "description": "Understand the factors that influence organisational structure, such as size, industry, culture, and strategy."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Analyse accounts to gain insights into financial performance, identify trends, and inform decision-making."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Develop clear goals and objectives for a business, create a strategic plan, and allocate resources effectively."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Explore the impact of political factors on business, including government policies, regulations, and economic conditions."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities of managers, including employment law, contract law, and corporate governance."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Explore modern business practices, such as sustainability, corporate social responsibility, and ethical leadership."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Improve employee and business performance through strategies such as performance reviews, goal setting, and training and development."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Develop a comprehensive marketing and sales plan, including market research, target market identification, product positioning, and sales strategies."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Acquire knowledge of numeric exercises and their application in business, including financial analysis, data analysis, and statistical modelling."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Managing business operations",
+      "Business environment",
+      "Personal effectiveness",
+      "The entrepreneurial manager",
+      "Business planning and goal setting",
+      "The manager’s toolkit",
+      "Managing and using finance",
+      "Managing and using marketing",
+      "Psychology and entrepreneurship",
+      "Innovation and creativity"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business development",
+      "Business models and growing organisations",
+      "Customer management",
+      "Responding to the changing business environment",
+      "Risk management and organisations",
+      "Effective decision making"
+    ]
+  }
+}
+
+,
+       {
+    "title": "Entry Requirements",
+    "heading": "Am I eligible for this programme?",
+    "content": [
+        "To enrol in our Level 4 Entrepreneurship and Management course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+        "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+        "To enrol on the Level 5 Entrepreneurship and Management course, you must have completed the Level 4 Qualifi diploma in Entrepreneurship and Management."
+    ]
+       },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the full Level 4/5 diploma in Entrepreneurship and Management and the final year of an accredited undergraduate degree programme will give students the right credentials to go on and apply for a job in marketing, accounting, human resources, management, or business consultancy."
+    ]
+   } ,
+   {
+    "title": "University Options",
+    "content": [
+        "Once you've completed your online Level 4 & 5 Accounting and Finance course you have the opportunity to complete a third-year Accounting and Finance degree programme, known as a 'BA top up', from a wide range of UK universities.",
+        "Students can apply to any university offering the BA top up and you can choose to study for your degree either online or in-person on campus.",
+        "If you decide to top up to a full undergraduate degree through an accredited UK university, the costs are listed below.",
+        "NOTE: UK/EU students may be eligible for student loans for the top-up portion of their studies. Visit www.slc.co.uk for more information."
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Bolton",
+        "University of Cumbria"
+    ]
+}
+
+      ]
+     
     },
     {
       "title": "Level 4 & 5  Health and Social Care",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-13.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrolment": {
-        "fee": 20,
-        "monthly_cost": {
-          "per_level": 120,
-          "both_levels": 145
-        },
-        "total_cost": {
-          "per_level": 2900,
-          "both_levels": 3500
-        }
-      },
+   
       "location": "Online",
       "start_date": "Anytime",
       "study_pace": "Flexible, up to 5 years",
-      
-        "qualifications": [
-          {
-            "level": 4,
-            "name": "Level 4 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "601/5058/0"
-          },
-          {
-            "level": 5,
-            "name": "Level 5 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "601/5442/1"
-          },
-          {
-            "level": "4 & 5",
-            "name": "Level 4 & 5 Qualifi diploma",
-            "credits": 240
-          }
-        ],
-        "assessment": "Online written assignments",
-        "includes": [
-          "1-2-1 tutor support",
-          "FREE laptop*",
-          "All course materials and more"
-        ],
-        "description": "Dream of making a difference in people’s lives through a career in health and social care? From patient care and support to health administration and community outreach – our Health and Social Care Course can set you on the path to success."
-      ,
-      "course_structure": {
-        "format": "Online",
-        "modules_per_level": {
-          "level_4": 6,
-          "level_5": 5
-        },
-        "module_hours": {
-          "guided_learning": 40,
-          "optional_materials": "30-50 hours"
-        },
-        "assignments": {
-          "level_4": 6,
-          "level_5": 5,
-          "word_count": "2000-3000 words each"
-        },
-        "degree_progression": "Top up to a bachelor's degree at UK universities"
+      "description": "Dream of making a difference in people’s lives through a career in health and social care? From patient care and support to health administration and community outreach – our Health and Social Care Course can set you on the path to success.",
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+       "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our Health and Social Care course can complete a Level 4 Diploma in Health and Social Care (120 credits), a Level 5 Diploma in Health and Social Care (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the Health and Social Care industry.",
+        "This Health and Social Care course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & Level 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+        "To complete this online Health and Social Care course you'll submit 6 online written assignments at Level 4, and 5 online written assignments at Level 5. Assignments are approximately 2,000-3,000 words each. Once you've passed your course, you'll be awarded with a Qualifi Health and Social Care diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+        "During this Health and Social Care course you'll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to help you complete your Health and Social Care diploma with ease. You can find out more about the support available on our Student Resources page, including details about our academic credentials and professional associations that ensure you receive the best learning experience."
+    ]
+},
+    {
+  "title": "Course Modules",
+  "heading": "Subject Content",
+  "modules1": [
+    "The Level 4 Diploma in Health and Social Care includes 6 modules focused on foundational knowledge, communication, and reflective practice."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Academic Study Skills",
+        "description": "Develop effective study skills and critical thinking abilities for higher education success."
       },
-      "courseModules": {
-        "level_4": [
-          "Academic study skills",
-          "Communicating in health and social care",
-          "An introduction to healthcare policy",
-          "Reflective practice",
-          "Managing people in health and social care",
-          "Sociology: concepts in health and ill health"
-        ],
-        "level_5": [
-          "Principles underpinning health and social care",
-          "The management of quality in health and social care",
-          "Research project",
-          "Partnership working in health and social care",
-          "Working with service users with complex needs"
-        ]
+      {
+        "name": "Communicating in Health and Social Care",
+        "description": "Understand and apply various forms of communication for effective service delivery in care settings."
+      },
+      {
+        "name": "An Introduction to Healthcare Policy",
+        "description": "Examine influences on healthcare and evaluate key contemporary issues in healthcare policy."
+      },
+      {
+        "name": "Reflective Practice",
+        "description": "Explore reflective practice to connect theory with real-world care delivery and personal development."
+      },
+      {
+        "name": "Managing People in Health and Social Care",
+        "description": "Understand recruitment, management, and organizational change in the care sector."
+      },
+      {
+        "name": "Sociology: Concepts in Health and Ill Health",
+        "description": "Study how social structures influence perceptions of health and well-being."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Health and Social Care includes 5 advanced modules focused on professional values, quality management, and complex care needs."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Principles Underpinning Health and Social Care",
+        "description": "Understand professional values, codes of conduct, and mechanisms promoting good practice."
+      },
+      {
+        "name": "The Management of Quality in Health and Social Care",
+        "description": "Evaluate different perspectives of service quality and empower service users through involvement."
+      },
+      {
+        "name": "Research Project",
+        "description": "Conduct a pilot investigation to build skills in enquiry, analysis, and professional development."
+      },
+      {
+        "name": "Partnership Working in Health and Social Care",
+        "description": "Explore service user empowerment, inter-professional collaboration, and organizational partnerships."
+      },
+      {
+        "name": "Working with Service Users with Complex Needs",
+        "description": "Understand issues in complex care and empower users to lead their care decisions."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Academic Study Skills",
+      "Communicating in Health and Social Care",
+      "An Introduction to Healthcare Policy",
+      "Reflective Practice",
+      "Managing People in Health and Social Care",
+      "Sociology: Concepts in Health and Ill Health"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Principles Underpinning Health and Social Care",
+      "The Management of Quality in Health and Social Care",
+      "Research Project",
+      "Partnership Working in Health and Social Care",
+      "Working with Service Users with Complex Needs"
+    ]
+  }
+}
+
+
+,
+       {
+    "title": "Entry Requirements",
+    "heading": "Am I eligible for this programme?",
+    "content": [
+        "To enrol in our Level 4 Health and Social Care online course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+        "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+        "To enrol on the Level 5 Health and Social Care online course, you must have completed the Level 4 Qualifi diploma in Health and Social Care."
+    ]
+       },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the full Level 4 and 5 Diploma in Health & Social Care Course and final year of an accredited Undergraduate degree programme will act as a springboard to a professional career in Health & Social Care services. The course pulls together theory and practice for those who wish to work with people in a caring environment.",
+        "A Health & Social Care degree covers a range of issues and helps you develop the skills to follow a career in health, social care, leisure or education. Here is a list of possible career paths you may take after completing the full degree:"
+    ],
+    "contentsublist": [
+        "Community development worker",
+        "Further education teacher",
+        "Health improvement practitioner",
+        "Health service manager",
+        "Medical sales representative",
+        "Naturopath"
+    ]
+   } ,
+   {
+    "title": "University Options",
+    "content": [
+        "Once you've completed your online Level 4 & 5 Accounting and Finance course you have the opportunity to complete a third-year Accounting and Finance degree programme, known as a 'BA top up', from a wide range of UK universities.",
+        "Students can apply to any university offering the BA top up and you can choose to study for your degree either online or in-person on campus.",
+        "If you decide to top up to a full undergraduate degree through an accredited UK university, the costs are listed below.",
+        "NOTE: UK/EU students may be eligible for student loans for the top-up portion of their studies. Visit www.slc.co.uk for more information."
+    ],
+    "contentsublist": [
+        "University of Derby",
+        "Anglia Ruskin University ",
+        "University of Bolton"
+    ]
+    }
+
+      ]
     },
     {
       "title": "Level 4 & 5  Hotel and Hospitality",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/Hotel-Management-scaled-1.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrolment": {
-        "fee": 20,
-        "monthly_cost": {
-          "per_level": 120,
-          "both_levels": 145
-        },
-        "total_cost": {
-          "per_level": 2900,
-          "both_levels": 3500
-        }
-      },
       
         "start_date": "Anytime",
         "location": "Online",
         "study_pace": "Flexible, up to 5 years",
-        "qualifications": [
-          {
-            "level": 4,
-            "name": "Level 4 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "603/4399/0"
-          },
-          {
-            "level": 5,
-            "name": "Level 5 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "603/4404/0"
-          },
-          {
-            "level": "4 & 5",
-            "name": "Level 4 & 5 Qualifi diploma",
-            "credits": 240
-          }
-        ],
-        "assessment": "Online written assignments",
-        "includes": [
-          "1-2-1 tutor support",
-          "FREE laptop*",
-          "All course materials and more"
-        ],
+       
         "description": "Dream of working in a luxury hotel in London? Or maybe running large events across the globe? From resorts and restaurants to weddings and corporate events – our Hotel Management Course can take you wherever you’d like to go."
       ,
-      "course_structure": {
-        "format": "Online",
-        "modules_per_level": {
-          "level_4": 10,
-          "level_5": 10
-        },
-        "module_hours": {
-          "guided_learning": 40,
-          "optional_materials": "30-50 hours"
-        },
-        "assignments": {
-          "level_4": 4,
-          "level_5": 4,
-          "word_count": "2000-3000 words each"
-        },
-        "degree_progression": "Top up to a bachelor's degree at UK universities"
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it works",
+    "content": [
+        "Students on our online hospitality management course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the hospitality industry.",
+        "The course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & level 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+        "To complete the course you'll submit 4 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you've passed your hotel management course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+        "During the hotel management course you'll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you'll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience."
+    ]
+     },
+    {
+  "title": "Course Modules",
+  "heading": "Hospitality and Tourism Management Content",
+  "modules1": [
+    "The Level 4 Diploma in Hospitality and Tourism Management includes 10 modules that cover the core aspects of hospitality operations and management."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Food and Beverage Operations",
+        "description": "Understand processes in food and beverage production and service."
       },
-      "courseModules": {
-        "level_4": [
-          "Food and beverage operations",
-          "Food safety and hygiene",
-          "Hospitality and hotel housekeeping",
-          "Customer service",
-          "Front office operations",
-          "Accounting and cost control",
-          "Global tourism and hospitality",
-          "Hospitality and marketing",
-          "Employee engagement",
-          "Training and CPD"
-        ],
-        "level_5": [
-          "Food and beverage supply chain management",
-          "Quality management",
-          "Events and conference management",
-          "Customer relations management",
-          "Managing people",
-          "Current issues in HRM",
-          "Revenue management",
-          "Corporate social responsibility",
-          "Contemporary issues",
-          "Business planning"
-        ]
+      {
+        "name": "Food Safety and Hygiene",
+        "description": "Learn about regulations and procedures to ensure food safety."
       },
-      "entry_requirements": {
-        "level_4": "At least 18 years old with a full secondary education (minimum of 2 A-levels or equivalent)",
-        "alternative": "Work experience may be considered",
-        "contact": "0333 772 1158",
-        "level_5": "Completion of Level 4 Qualifi diploma in Hospitality Management"
+      {
+        "name": "Hospitality and Hotel Housekeeping",
+        "description": "Explore the role and impact of housekeeping in hospitality operations."
+      },
+      {
+        "name": "Customer Service",
+        "description": "Gain skills in meeting customer expectations and delivering excellent service."
+      },
+      {
+        "name": "Front Office Operations",
+        "description": "Understand the front office’s function and influence in hospitality environments."
+      },
+      {
+        "name": "Accounting and Cost Control",
+        "description": "Study financial principles and accounting techniques relevant to hospitality."
+      },
+      {
+        "name": "Global Tourism and Hospitality",
+        "description": "Examine the scale, scope, and brand influence in the global hospitality industry."
+      },
+      {
+        "name": "Hospitality and Marketing",
+        "description": "Learn marketing principles and how to apply them within the hospitality industry."
+      },
+      {
+        "name": "Employee Engagement",
+        "description": "Understand strategies to engage employees and their impact on performance."
+      },
+      {
+        "name": "Training and CPD",
+        "description": "Develop training programs and understand continuous professional development in hospitality."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Hospitality and Tourism Management contains 10 modules designed to advance strategic understanding in key operational areas."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Food and Beverage Supply Chain Management",
+        "description": "Learn supply chain systems for domestic and global hospitality operations."
+      },
+      {
+        "name": "Quality Management",
+        "description": "Understand and implement quality systems in hospitality organizations."
+      },
+      {
+        "name": "Events and Conference Management",
+        "description": "Explore the processes behind planning and delivering successful events."
+      },
+      {
+        "name": "Customer Relations Management",
+        "description": "Understand the role of CRM and how to maintain effective customer relations."
+      },
+      {
+        "name": "Managing People",
+        "description": "Study management styles, organizational culture, and staff performance."
+      },
+      {
+        "name": "Current Issues in HRM",
+        "description": "Examine modern HR challenges, including legislative impacts on HR practices."
+      },
+      {
+        "name": "Revenue Management",
+        "description": "Learn yield and pricing strategies in hotel operations."
+      },
+      {
+        "name": "Corporate Social Responsibility",
+        "description": "Explore sustainability and CSR practices within hospitality."
+      },
+      {
+        "name": "Contemporary Issues",
+        "description": "Assess how the hospitality sector responds to rapid change and market demands."
+      },
+      {
+        "name": "Business Planning",
+        "description": "Develop business plans, assess market positions, and explore growth opportunities."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Sustainability in tourism and hospitality management",
+      "Operations management in tourism and resort operations",
+      "Management of visitor attractions",
+      "Employability and development in the hospitality industry"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Tourism destination management",
+      "Entrepreneurship in tourism and hospitality management",
+      "Cultural tourism management",
+      "Research project"
+    ]
+  }
+},
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 hospitality management course, you must be at least 18 years old and have a full secondary education (minimum of 2 A-levels or equivalent).",
+          "If you don't have 2 A-levels or equivalent qualifications (such as NVQ Level 3), you may still be eligible based on relevant work experience.",
+          "For the Level 5 hospitality management course, you must have successfully completed the Level 4 Qualifi diploma in hospitality management.",
+          "Contact our admissions team at 0333 772 1158 to discuss your eligibility or if you have any questions about the entry requirements."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Our hospitality management course gives you a wide range of skills, from food and beverage supply chain management, accounting and cost control, marketing in hotel and leisure to people management, social responsibility and so much more.",
+        "Once you’ve completed the course, you’ll be able to apply for senior positions at hotels, restaurants, resorts, and other associated properties in the hotel and hospitality industry around the world."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "University of Derby: International Hospitality Business Management (Top-Up)",
+        "Bournemouth University: BA (Hons) International Hospitality & Tourism Management",
+        "University of Central Lancashire: Management in Hospitality BA – Top up",
+        "University of Sunderland: International Tourism and Hospitality Management (Top-Up) BSc (Hons)",
+        "University of Northampton: International Tourism Management (Top-Up) BA",
+        "Middlesex University London: BSc Honours International Hospitality and Tourism Management top-up"
+    ]
+}
+
+      ]
     },
     {
       "title": "Level 4 & 5  Human Resource Management",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-43.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrolment": {
-        "fee": 20,
-        "monthly_cost": {
-          "per_level": 120,
-          "both_levels": 145
-        },
-        "total_cost": {
-          "per_level": 2900,
-          "both_levels": 3500
-        }
-      },
-      
         "start_date": "Anytime",
         "location": "Online",
         "study_pace": "Flexible, no deadlines or timeframes",
-        "qualifications": [
-          {
-            "level": 4,
-            "name": "Level 4 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "610/3133/1"
-          },
-          {
-            "level": 5,
-            "name": "Level 5 Qualifi diploma",
-            "credits": 120,
-            "ofqual_link": "601/6049/4"
-          },
-          {
-            "level": "4 & 5",
-            "name": "Level 4 & 5 Qualifi diploma",
-            "credits": 240
-          }
-        ],
-        "assessment": "Online written assignments",
-        "includes": [
-          "1-2-1 tutor support",
-          "FREE laptop*",
-          "All course materials and more"
-        ],
         "description": "Dream of leading talent acquisition and fostering workplace excellence? From recruitment and employee development to organisational strategy and compliance – our Human Resource Management Course can set you on the path to success."
       ,
-      "course_structure": {
-        "format": "Online",
-        "modules_per_level": {
-          "level_4": 10,
-          "level_5": 10
-        },
-        "module_hours": {
-          "guided_learning": 40,
-          "optional_materials": "30-50 hours"
-        },
-        "assignments": {
-          "level_4": 10,
-          "level_5": 6,
-          "word_count": "2000-3000 words each"
-        },
-        "degree_progression": "Top up to a bachelor's degree at UK universities"
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+     "section":[
+    {
+    "title": "How it Works",
+    "content": [
+        "Students can complete a Level 4 IAB Diploma (120 credits), Level 5 (120 credits), or combined Level 4 & 5 (240 credits) diploma in Human Resource Management, gaining industry-relevant skills.",
+        "This fully online HR qualification offers complete flexibility with no fixed start dates. Each module (Level 4 & 5) includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "Assessment involves submitting 10 assignments at Level 4 and 6 at Level 5 (each 2,000-3,000 words). Successful students earn a Level 4 IAB and Level 5 Qualifi HR diploma, with progression opportunities to bachelor's degrees at UK universities.",
+        "You'll receive comprehensive support including 1-2-1 tutor sessions, webinars, learning forums, and study materials throughout your HRM diploma. Visit our Student Resources page for full details of our academic credentials and support services."
+    ]
+},
+    {
+  "title": "Course Modules",
+  "heading": "Human Resource Management Content",
+  "modules1": [
+    "The Level 4 Diploma in Human Resource Management includes 10 modules that provide foundational knowledge and skills for managing people and organisational culture."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Culture and the Organisation",
+        "description": "Understand organisational culture and its influence on operations."
       },
-      "courseModules": {
-        "level_4": [
-          "Culture and the organisation",
-          "Developing interpersonal skills",
-          "Managing and rewarding performance",
-          "Managing ethically",
-          "Managing people in organisations",
-          "Motivating and influencing people",
-          "Organisation structures",
-          "Recruitment and CPD",
-          "Strategic human resource development",
-          "Working in teams"
-        ],
-        "level_5": [
-          "The entrepreneurial manager",
-          "Organisation structures",
-          "Practical accounting analysis",
-          "Business planning and goal setting",
-          "Politics and business",
-          "Business law",
-          "Managing in today’s world",
-          "Performance management",
-          "Marketing and sales planning",
-          "Quantitative skills"
-        ]
+      {
+        "name": "Developing Interpersonal Skills",
+        "description": "Explore and enhance interpersonal skills needed for effective management."
+      },
+      {
+        "name": "Managing and Rewarding Performance",
+        "description": "Learn to manage performance through discipline and reward systems."
+      },
+      {
+        "name": "Managing Ethically",
+        "description": "Examine ethical challenges and the legal context of ethical management."
+      },
+      {
+        "name": "Managing People in Organisations",
+        "description": "Learn training methods and reasons for staff development in organisations."
+      },
+      {
+        "name": "Motivating and Influencing People",
+        "description": "Discover techniques to motivate and influence individuals and teams."
+      },
+      {
+        "name": "Organisation Structures",
+        "description": "Understand structural design factors and their impact on strategy."
+      },
+      {
+        "name": "Recruitment and CPD",
+        "description": "Study recruitment processes, employment contracts, and personal development."
+      },
+      {
+        "name": "Strategic Human Resource Development",
+        "description": "Analyse labour markets, discrimination, and termination practices in HR strategy."
+      },
+      {
+        "name": "Working in Teams",
+        "description": "Understand the dynamics of team membership and leadership."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Human Resource Management includes 10 modules that develop strategic and analytical HR management skills for modern workplaces."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Explore the qualities and roles of entrepreneurs in business."
+      },
+      {
+        "name": "Organisation Structures",
+        "description": "Review organisational models and factors influencing structure."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Gain insights from accounting data and understand business implications."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Set clear objectives and develop actionable business plans."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Assess the impact of political and economic factors on business."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities and frameworks for business managers."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Explore governance and equality in the context of modern business."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Learn to align business goals with employee development and reward systems."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Create cohesive plans by analysing market, customers, and competitors."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Apply numeric analysis to solve business problems and inform decisions."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Strategic HRM",
+      "Managing Ethically",
+      "Culture and the Organisation",
+      "Working in Teams",
+      "Organisational Structure",
+      "Recruitment and CPD",
+      "Measuring and Rewarding Performance",
+      "Managing People in Organisations",
+      "Interpersonal Skills",
+      "Motivating and Influencing People"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business Development",
+      "Business Models and Growing Organisations",
+      "Customer Management",
+      "Responding to the Changing Business Environment",
+      "Risk Management and Organisations",
+      "Effective Decision Making"
+    ]
+  }
+},
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 Human Resource Management online course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 Human Resource Management online course, you must have completed the Level 4 Qualifi diploma in Human Resource Management."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the undergraduate Level 4 (diploma in Human Resource Management) and Level 5 (diploma in Business Management) and the final year of an accredited undergraduate degree programme, students will have attained the right credentials to go on and apply for a job in management, HR, strategic business management or business consultancy."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Bolton",
+        "University of Cumbria"
+    ]
+}
+
+      ]
+     
     },
     {
       "title": "Level 4 & 5  Logistics and Chain Supply Management",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-17.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": [
-        { "per_month": 120, "per_level": 2900 },
-        { "per_month": 145, "both_levels": 3500 }
-      ],
       "start_date": "Anytime",
       "location": "Online",
-      "study_pace": "Flexible, up to 5 years",
-      "qualifications": [
-        { "level": 4, "credits": 120, "diploma": "Qualifi" },
-        { "level": 5, "credits": 120, "diploma": "Qualifi" },
-        { "level": "4 & 5", "credits": 240, "diploma": "Qualifi" }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop",
-        "All course materials and more"
-      ],
-      "ofqual_links": {
-        "level_4": "610/0857/6",
-        "level_5": "601/6049/4"
-      },
+      "study_pace": "Flexible, up to 5 years",   
       "description": "Interested in optimising supply chains and managing global logistics? From procurement and inventory management to transportation and distribution, our Logistics and Supply Chain Management Course can set you on the path to success.",
-      "how_it_works": {
-        "description": "The course is completed online and you can start at any time, it’s completely flexible.",
-        "modules_per_level": 6,
-        "module_hours": {
-          "guided_learning": 40,
-          "optional": "30-50"
-        },
-        "assignments": {
-          "per_level": 6,
-          "word_count": "2,000-3,000"
-        },
-        "final_award": "Qualifi diploma",
-        "bachelor_top_up": "Available at UK universities"
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our Logistics and Supply Chain Management course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the logistics industry.",
+        "The course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & Level 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+        "To complete the course you'll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you've passed your course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+        "During the Logistics and Supply Chain Management course you'll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you'll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience."
+    ]
+     },
+   {
+  "title": "Course Modules",
+  "heading": "Logistics and Business Management Content",
+  "modules1": [
+    "The Level 4 Diploma in Logistics and Supply Chain Management includes 6 modules that build core competencies in logistics, operations, finance, and communication."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Academic Writing and Research Skills",
+        "description": "Develop proficiency in academic writing and research through comprehensive instruction and practical application, fostering essential skills for comprehensive communication and critical analysis."
       },
-      "courseModules": {
-        "level_4": [
-          "Academic Writing and Research Skills",
-          "Logistics And the Business Environment",
-          "Operations and Logistics Management",
-          "Finance and Accounting",
-          "Communication in Business",
-          "Leading and Managing Teams"
-        ],
-        "level_5": [
-          "The Entrepreneurial Manager",
-          "Organisation Structures",
-          "Practical Accounting Analysis",
-          "Business Planning and Goal Setting",
-          "Politics and Business",
-          "Business Law",
-          "Managing in Today’s World",
-          "Performance Management",
-          "Marketing and Sales Planning",
-          "Quantitative Skills"
-        ]
+      {
+        "name": "Logistics and the Business Environment",
+        "description": "Explore the intersection of logistics and the business environment, examining strategies and challenges to optimise supply chain efficiency in today’s dynamic market landscape."
       },
-      "eligibility": {
-        "level_4": {
-          "age": 18,
-          "education": "Minimum of 2 A-levels or equivalent",
-          "work_experience_option": "Yes"
-        },
-        "level_5": {
-          "prerequisite": "Level 4 Qualifi diploma in Logistics and Chain Supply Management"
-        }
+      {
+        "name": "Operations and Logistics Management",
+        "description": "A comprehensive study of operations and logistics management, covering strategic planning, resource optimisation, and supply chain efficiency for effective business operations."
       },
-      "contact": "0333 772 1158"
+      {
+        "name": "Finance and Accounting",
+        "description": "A deep understanding of finance and accounting principles, fostering the analytical skills needed for sound financial decision-making in diverse business environments."
+      },
+      {
+        "name": "Communication in Business",
+        "description": "Examine the dynamics of effective communication in business, emphasising interpersonal, written, and presentation skills crucial for professional success and organizational effectiveness."
+      },
+      {
+        "name": "Leading and Managing Teams",
+        "description": "Develop leadership and team management skills, exploring strategies for effective collaboration, motivation, and decision-making to drive success in diverse organizational settings."
+      }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Business Management includes 10 modules designed to equip learners with managerial, legal, analytical, and leadership skills."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "What is an entrepreneur? Examine the skills and qualities of entrepreneurship."
+      },
+      {
+        "name": "Organisation Structures",
+        "description": "Examine organizational structure models and theories to understand optimal configurations for different business types."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Engage in hands-on accounting exercises to derive insights and guide business actions through financial analysis."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Focus on defining objectives and creating actionable plans to achieve strategic business outcomes."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Understand the influence of politics on business operations, including economic impact and government involvement."
+      },
+      {
+        "name": "Business Law",
+        "description": "Explore legal responsibilities of managers and the regulatory framework governing businesses."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Examine governance, equality, and ethical considerations in modern business management."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Review reward systems, training, and continuous development strategies to enhance organizational performance."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Learn how to develop strategic marketing plans that align products, markets, and customers."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Build proficiency in numeric analysis and apply quantitative tools within business contexts."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Academic Writing and Research Skills",
+      "Logistics and the Business Environment",
+      "Operations and Logistics Management",
+      "Finance and Accounting",
+      "Communication in Business",
+      "Leading and Managing Teams"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business Development",
+      "Business Models and Growing Organisations",
+      "Customer Management",
+      "Responding to the Changing Business Environment",
+      "Risk Management and Organisations",
+      "Effective Decision Making"
+    ]
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 Logistics and Chain Supply Management course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 Logistics and Chain Supply Management course, you must have completed the Level 4 Qualifi diploma in Logistics and Chain Supply Management."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Level 4 and 5 qualifications in Logistics and Supply Chain Management can lead to a variety of mid-to-senior level careers in the field. These roles include positions like Supply Chain Analyst, Logistics Coordinator, Operations Manager, , and Inventory Manager.",
+        "With these qualifications, you could also work as a Warehouse Manager or Distribution Manager, overseeing logistics operations and ensuring efficient supply chain processes.",
+        "These roles typically involve managing logistics strategies, optimizing supply chain operations, and coordinating with suppliers and customers to ensure smooth and cost-effective delivery of goods."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "University of Derby: International Hospitality Business Management (Top-Up)",
+        "Bournemouth University: BA (Hons) International Hospitality & Tourism Management",
+        "University of Central Lancashire: Management in Hospitality BA – Top up",
+        "University of Sunderland: International Tourism and Hospitality Management (Top-Up) BSc (Hons)",
+        "University of Northampton: International Tourism Management (Top-Up) BA",
+        "Middlesex University London: BSc Honours International Hospitality and Tourism Management top-up"
+    ]
+}
+
+      ]
     },
     {
       "title": "Level 4 & 5 IT and Computing",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/08/120-Business-Banner-17-1.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": [
-        { "per_month": 120, "per_level": 2900 },
-        { "per_month": 145, "both_levels": 3500 }
-      ],
+     
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
-      "qualifications": [
-        { "level": 4, "credits": 120, "diploma": "Qualifi" },
-        { "level": 5, "credits": 120, "diploma": "Qualifi" },
-        { "level": "4 & 5", "credits": 240, "diploma": "Qualifi" }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop",
-        "All course materials and more"
-      ],
-      "ofqual_links": {
-        "level_4": "603/4781/8",
-        "level_5": "603/4791/0"
-      },
+     
       "description": "If you have the desire to turn your passion for computers into a career, the IT and Web Computing Diploma is a course to consider.",
-      "how_it_works": {
-        "description": "The course is completed online and you can start at any time, it’s completely flexible.",
-        "modules_per_level": 6,
-        "module_hours": {
-          "guided_learning": 40,
-          "optional": "30-50"
-        },
-        "assignments": {
-          "per_level": 6,
-          "word_count": "2,000-3,000"
-        },
-        "final_award": "Qualifi diploma",
-        "bachelor_top_up": "Available at UK universities"
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+   {
+    "title": "How it Works",
+    "content": [
+        "Students can complete a Level 4 (120 credits), Level 5 (120 credits), or combined Level 4 & 5 (240 credits) Qualifi diploma in IT and Computing, gaining essential skills for the IT industry.",
+        "This flexible online diploma has no fixed start dates. Each module includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "You'll submit 6 assignments per level (2,000-3,000 words each). Upon completion, receive a Qualifi IT diploma and opportunity to progress to bachelor's degrees at UK universities.",
+        "Benefit from 1-2-1 tutor support, webinars, learning forums, and study materials throughout your IT diploma. Visit our Student Resources page for details on our academic standards and support services."
+    ]
+},
+ {
+  "title": "Course Modules",
+  "heading": "IT and Computing Content",
+  "modules1": [
+    "The Level 4 Diploma in IT and Computing includes 10 modules focused on foundational technical knowledge, systems understanding, and application development."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Computer Systems and Software",
+        "description": "Develop learners’ understanding of the integration of hardware and software components."
       },
-      "courseModules": {
-        "level_4": [
-          "Computer Systems and Software",
-          "Computer Programming",
-          "Relational Database Systems",
-          "Software Engineering",
-          "Systems Analysis and Design",
-          "E-commerce Applications",
-          "Human-Computer Interaction",
-          "IT and Society",
-          "Information Systems Theory and Practice",
-          "Management Information Systems"
-        ],
-        "level_5": [
-          "Innovative Technologies in Computing",
-          "Computing Research Methods",
-          "Software Development Methodologies",
-          "Managing a Computing Project",
-          "Strategic Management Information Systems",
-          "Ethical, Legal and Professional Issues in IT",
-          "Network Design",
-          "Web-Based Development",
-          "Cyber Security",
-          "Database Design and Development"
-        ]
+      {
+        "name": "Computer Programming",
+        "description": "Use different tools and techniques to design, implement, and test programs, following the system life cycle."
       },
-      "eligibility": {
-        "level_4": {
-          "age": 18,
-          "education": "Minimum of 2 A-levels or equivalent",
-          "work_experience_option": "Yes"
-        },
-        "level_5": {
-          "prerequisite": "Level 4 Qualifi diploma in IT and Computing"
-        }
+      {
+        "name": "Relational Database Systems",
+        "description": "Develop understanding of database systems, data analysis, and data modeling."
       },
-      "contact": "0333 772 1158"
+      {
+        "name": "Software Engineering",
+        "description": "Gain understanding of the need for software engineering and the various methods and techniques involved."
+      },
+      {
+        "name": "Systems Analysis and Design",
+        "description": "Understand IS concepts and how they relate to business processes and information transformation."
+      },
+      {
+        "name": "E-commerce Applications",
+        "description": "Explore the role of e-commerce in business, identifying aims, objectives, and associated design considerations."
+      },
+      {
+        "name": "Human-Computer Interaction",
+        "description": "Understand HCI principles and evaluate existing designs to plan a prototype multimedia interface."
+      },
+      {
+        "name": "IT and Society",
+        "description": "Examine the impact of technology on society and trends, including data security and management issues."
+      },
+      {
+        "name": "Information Systems Theory and Practice",
+        "description": "Explore key project management elements required for successful IT project development and implementation."
+      },
+      {
+        "name": "Management Information Systems",
+        "description": "Understand how information systems support business needs in data and information processing."
+      }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in IT and Computing features 10 modules that deepen technical proficiency and prepare learners for strategic and development roles in the IT sector."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Innovative Technologies in Computing",
+        "description": "Explore disruptive advances and the emerging skills needed for future computing careers."
+      },
+      {
+        "name": "Computing Research Methods",
+        "description": "Gain research skills including qualitative and quantitative methods, literature review, and proposal design."
+      },
+      {
+        "name": "Software Development Methodologies",
+        "description": "Study the role of systems engineering and modeling approaches in software development."
+      },
+      {
+        "name": "Managing a Computing Project",
+        "description": "Understand and apply tools and techniques for effectively managing IT projects."
+      },
+      {
+        "name": "Strategic Management Information Systems",
+        "description": "Learn about the strategic impact of MIS and its alignment with organizational goals."
+      },
+      {
+        "name": "Ethical, Legal and Professional Issues in IT",
+        "description": "Explore issues related to IT security, privacy, confidentiality, and regulatory compliance."
+      },
+      {
+        "name": "Network Design",
+        "description": "Understand the principles, implementation, and support of network systems."
+      },
+      {
+        "name": "Web Based Development",
+        "description": "Design, deploy, and manage virtualization solutions and evaluate their business impact."
+      },
+      {
+        "name": "Cyber Security",
+        "description": "Develop awareness of digital security principles, industry standards, and security enhancement strategies."
+      },
+      {
+        "name": "Database Design and Development",
+        "description": "Research, design, and implement complex databases using modern DBMS tools."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Information Technology and IT Ethics",
+      "Mathematics and Statistics for IT",
+      "PC Maintenance and Operating Systems",
+      "Computer Graphics Editing and Database Concepts",
+      "Logical IT Networking",
+      "Web Design"
+    ]
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Technopreneurship",
+      "Network Security",
+      "C#.NET Programming",
+      "System Administration",
+      "Network Routing and Switching",
+      "Web Design"
+    ]
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 IT and Computing course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don't have 2 A-levels or equivalent qualifications (such as NVQ Level 3), you may still be eligible based on relevant work experience.",
+          "To enrol on the Level 5 online Computing course, you must have completed the Level 4 Qualifi diploma in IT and Computing."
+         
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Whilst studying this computing and Information and Technology course online, students will develop their skills in programming, systems analysis and design, and software development. Upon successful completion of this online computing course, students can pursue a career in IT within the public or private sector."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "Middlesex University",
+        "University of Gloucestershire",
+        "University of Derby",
+        "University of Hertfordshire ",
+        "University of Huddersfield"
+       
+    ]
+}
+
+      ]
     },
     {
   "title": "Level 4 & 5  IT and E-Commerce",
   "enrollmentFee": 20,
   "school":"Online Business School",
   "level": "Level 4 & 5",
-  "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/11/it-and-ecommerce-university-1st-and-2nd-year-level-4-and-5_cropped_optimised-1.jpg",
-  "paymentOptions": {
-    "perMonth": {
-      "level4": 120,
-      "level5": 120,
-      "bothLevels": 145
-    },
-    "totalCost": {
-      "level4": 2900,
-      "level5": 2900,
-      "bothLevels": 3500
-    }
-  },
+  "imgSrc":"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RSUyMGNvbW1lcmNlfGVufDB8fDB8fHww",
+ 
   "startDate": "Anytime",
   "location": "Online",
   "studyPace": "Flexible (no deadlines or timeframes)",
-  "qualifications": [
-    {
-      "name": "Level 4 Qualifi diploma",
-      "credits": 120
-    },
-    {
-      "name": "Level 5 Qualifi diploma",
-      "credits": 120
-    },
-    {
-      "name": "Level 4 & 5 Qualifi diploma",
-      "credits": 240
-    }
-  ],
-  "assessment": "Online written assignments",
-  "includes": [
-    "1-2-1 tutor support",
-    "FREE laptop*",
-    "All course materials"
-  ],
-  "ofqualLinks": {
-    "level4": "https://register.ofqual.gov.uk/Detail/603/4781/8",
-    "level5": "https://register.ofqual.gov.uk/Detail/603/4794/6"
-  },
+ 
   "description": "With the number of people shopping online on the rise, and the number of online stores ever increasing, it’s becoming more and more important for retailers and eCommerce stores to know how to optimise and promote their websites to increase site visitors and revenues.",
-  "howItWorks": {
-    "studyMode": "Online",
-    "completionTime": "Flexible",
-    "guidedLearningHoursPerModule": 40,
-    "optionalMaterialHours": "30-50",
-    "assignmentsPerLevel": 6,
-    "assignmentWordCount": "2000-3000 words each",
-    "qualificationUponCompletion": "Qualifi diploma",
-    "degreeTopUpOption": "Available at a range of UK universities"
-  },
-  "courseModules": {
-    "level4": [
+  "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our IT and E-Commerce course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the IT industry.",
+        "The course is completed online and you can start at any time, it's completely flexible. Each module (Level 4 & Level 5) consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+        "To complete the course you'll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you've passed your course, you'll be awarded with a Qualifi diploma and you'll be able to top up your qualification to a bachelor's degree at a range of UK universities.",
+        "During this IT and E-Commerce course you'll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you'll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we're part of to make sure you have the best learning experience."
+    ]
+},
+    {
+  "title": "Course Modules",
+  "heading": "IT and E-commerce Content",
+  "modules1": [
+    "The Level 4 Diploma in IT and Computing includes 10 modules aimed at foundational understanding of IT systems, programming, and human-technology interaction."
+  ],
+  "module1sublist": {
+    "sublists": [
       {
-        "title": "Computer Systems and Software",
-        "description": "Develops understanding of the integration of hardware and software components."
+        "name": "Computer Systems and Software",
+        "description": "Develop learners’ understanding of the integration of hardware and software components."
       },
       {
-        "title": "Computer Programming",
-        "description": "Covers tools and techniques for designing, implementing, and testing programs."
+        "name": "Computer Programming",
+        "description": "Use tools and techniques to design, implement, and test programs, following the system life cycle."
       },
       {
-        "title": "Relational Database Systems",
-        "description": "Develops understanding of database systems, data analysis, and modelling."
+        "name": "Relational Database Systems",
+        "description": "Understand database systems, data analysis, and data modeling concepts."
       },
       {
-        "title": "Software Engineering",
-        "description": "Explores the need for software engineering and different development methods."
+        "name": "Software Engineering",
+        "description": "Gain knowledge of the need for software engineering and various development methodologies."
       },
       {
-        "title": "Systems Analysis and Design",
-        "description": "Covers IS concepts and how they relate to business processes."
+        "name": "Systems Analysis and Design",
+        "description": "Understand information systems concepts and their application to business process transformation."
       },
       {
-        "title": "E-Commerce Applications",
-        "description": "Examines e-commerce role, business aims, and design considerations."
+        "name": "E-commerce Applications",
+        "description": "Explore e-commerce roles in business, focusing on defining requirements and design implications."
       },
       {
-        "title": "Human Computer Interaction",
-        "description": "Focuses on principles of HCI, evaluating designs, and developing prototypes."
+        "name": "Human Computer Interaction",
+        "description": "Learn HCI principles and models, evaluate existing designs, and plan a prototype user interface."
       },
       {
-        "title": "IT and Society",
-        "description": "Explores the impact of technology on society, security, and data management."
+        "name": "IT and Society",
+        "description": "Examine technology’s societal impact, trends, and challenges around security and data management."
       },
       {
-        "title": "Information Systems Theory and Practice",
-        "description": "Covers project management elements for IT development and implementation."
+        "name": "Information Systems Theory and Practice",
+        "description": "Explore project management elements critical to IT project development and implementation."
       },
       {
-        "title": "Management Information Systems",
-        "description": "Examines how information systems support business needs."
-      }
-    ],
-    "level5": [
-      {
-        "title": "Technopreneurship",
-        "description": "Provides knowledge on establishing a tech business, including marketing and finance."
-      },
-      {
-        "title": "Network Security",
-        "description": "Covers network security issues, prevention, and detection methods."
-      },
-      {
-        "title": "C#.Net Programming",
-        "description": "Covers ASP.NET programming using C# for dynamic web applications."
-      },
-      {
-        "title": "System Administration",
-        "description": "Explores system administration roles and responsibilities."
-      },
-      {
-        "title": "Business to Business (B2B) E-Commerce",
-        "description": "Covers B2B e-commerce concepts, including EDI, EFT, and supply chain management."
-      },
-      {
-        "title": "Business to Consumer (B2C) E-Commerce",
-        "description": "Covers B2C e-commerce concepts, marketing psychology, AI in social commerce."
+        "name": "Management Information Systems",
+        "description": "Understand information system concepts and their support for business information processing."
       }
     ]
   },
-  "eligibility": {
-    "level4": {
-      "ageRequirement": 18,
-      "educationRequirement": "Full secondary education"
-    },
-    "level5": {
-      "prerequisite": "Level 4 or equivalent"
-    }
+  "modules2": [
+    "The Level 5 Diploma focuses on specialized knowledge in IT business development, network security, and dynamic web systems."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Technopreneurship",
+        "description": "Equip learners with skills to launch a tech business, covering entrepreneurship, planning, marketing, and finance."
+      },
+      {
+        "name": "Network Security",
+        "description": "Understand network security threats and the prevention and detection of security incidents."
+      },
+      {
+        "name": "C#.NET Programming",
+        "description": "Learn the principles of ASP.NET programming using C# to build dynamic server-side web applications."
+      },
+      {
+        "name": "System Administration",
+        "description": "Understand the role and responsibilities of a system administrator and key system administration components."
+      },
+      {
+        "name": "Business to Business (B2B) E-commerce",
+        "description": "Study B2B e-commerce practices such as EDI, EFT, online transaction processing, and supply chain systems."
+      },
+      {
+        "name": "Business to Consumer (B2C) E-commerce",
+        "description": "Explore B2C e-commerce including mobile commerce, AI in image recognition, and psychology in online marketing."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Information Technology and IT Ethics",
+      "Mathematics and Statistics for IT",
+      "PC Maintenance and Operating Systems",
+      "Computer Graphics Editing and Database Concepts",
+      "Logical IT Networking",
+      "Web Design"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-4-diploma-in-information-technology/"
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Technopreneurship",
+      "Network Security",
+      "C#.NET Programming",
+      "System Administration",
+      "Business to Business (B2B) E-commerce",
+      "Business to Consumer (B2C) E-commerce"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-5-diploma-in-it-e-commerce/"
   }
-    },
+}
+,
      {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol on our Level 4 IT and Computing course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 IT & E-Commerce course, you must have completed the Level 4 Qualifi diploma in IT and Computing."  
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Whilst studying this course students will develop their skills in programming, systems analysis and design, software development. Upon successful completion of the course, students can pursue a career in IT within the public or private sector."
+    ]
+   } ,
+   {
+   "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "Middlesex University",
+        "University of Derby",
+        "University of Huddersfield"
+       
+    ]
+}
+
+      ]
+    },
+    {
       "title": "Level 4 & 5 Leadership and Teamwork",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-45.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": {
-        "per_month": 120,
-        "per_level": 2900,
-        "both_levels_per_month": 145,
-        "both_levels_total": 3500
-      },
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
-      "qualifications": [
-        {
-          "level": 4,
-          "name": "IAB Diploma",
-          "credits": 120
-        },
-        {
-          "level": 5,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": "4 & 5",
-          "name": "Combined Diploma",
-          "credits": 240
-        }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": {
-        "level_4": "610/3132/X",
-        "level_5": "601/6049/4"
-      },
+     
       "description": "Dream of leading successful teams and driving organisational success? From strategic leadership and team dynamics to conflict resolution and project management – our Leadership and Teamwork Course can set you on the path to success.",
-      "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online. Each module consists of 40 hours of guided learning, with additional 30-50 hours of optional materials.",
-      "courseModules": {
-        "level_4": [
-          "Managing people in organisations",
-          "Culture and the organisation",
-          "Developing personal skills",
-          "Effective communication",
-          "Managing ethically",
-          "Performance management",
-          "Strategic human resource management",
-          "High performance teams",
-          "Leadership skills",
-          "Motivating and influencing people"
-        ],
-        "level_5": [
-          "The entrepreneurial manager",
-          "Organisation structures",
-          "Practical accounting analysis",
-          "Business planning and goal setting",
-          "Politics and business",
-          "Business law",
-          "Managing in today’s world",
-          "Performance management",
-          "Marketing and sales planning",
-          "Quantitative skills"
-        ]
+      
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+   {
+    "title": "How it Works",
+    "content": [
+        "Students on our Leadership and Teamwork course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, gaining essential leadership skills for business success.",
+        "This flexible online course allows you to start anytime. Each module includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "You'll submit 10 assignments at Level 4 and 6 at Level 5 (each 2,000-3,000 words). Upon completion, receive a Qualifi diploma with progression opportunities to bachelor's degrees at UK universities.",
+        "Benefit from 1-2-1 tutor support, webinars, learning forums, and study materials throughout your diploma. Visit our Student Resources page for details on our academic standards and support services."
+    ]
+},
+    {
+  "title": "Course Modules",
+  "heading": "Business Management Content",
+  "modules1": [
+    "The Level 4 Diploma in Business Management includes 10 modules that provide foundational knowledge in managing people, leadership, and organisational behaviour."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Managing People in Organisations",
+        "description": "Understand how effective management of people contributes to achieving organisational goals."
       },
-      "eligibility": {
-        "level_4": "Minimum 18 years old, full secondary education (2 A-levels or equivalent) or relevant work experience.",
-        "level_5": "Completion of Level 4 Qualifi diploma in Leadership and Teamwork."
+      {
+        "name": "Culture and the Organisation",
+        "description": "Explore what culture is and how it influences organisational behaviour and identity."
+      },
+      {
+        "name": "Developing Personal Skills",
+        "description": "Build communication, leadership, and teamwork skills essential for modern managers."
+      },
+      {
+        "name": "Effective Communication",
+        "description": "Analyse daily communication tasks for managers and how they affect team and organisational success."
+      },
+      {
+        "name": "Managing Ethically",
+        "description": "Discuss ethical dilemmas in management and decision-making that balances stakeholder needs."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Examine the link between people performance and organisational success."
+      },
+      {
+        "name": "Strategic Human Resource Management",
+        "description": "Understand HRM as a strategic approach to managing an organisation’s most vital resource – its people."
+      },
+      {
+        "name": "High Performance Teams",
+        "description": "Learn to build and support effective, diverse teams in a changing business environment."
+      },
+      {
+        "name": "Leadership Skills",
+        "description": "Study leadership as a skill and how it drives success amidst change and innovation."
+      },
+      {
+        "name": "Motivating and Influencing People",
+        "description": "Explore how motivation and influence affect productivity, quality, and workplace morale."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma in Business Management focuses on developing advanced managerial knowledge in areas such as entrepreneurship, law, marketing, and quantitative decision-making."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Examine entrepreneurship and the skills needed to initiate and manage business ventures."
+      },
+      {
+        "name": "Organisation Structures",
+        "description": "Evaluate various organisational structures and models to identify optimal business configurations."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Develop practical skills to analyse financial data and guide business decision-making."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Learn to define clear objectives and devise actionable plans to achieve business success."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Explore the influence of political systems and policies on business operations and growth."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities of business managers and the legal environment of business."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Study governance and equality as critical aspects of ethical business conduct."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Review strategies to align workforce development with business performance goals."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Analyse market dynamics and develop cohesive marketing and sales strategies."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Apply numeric and statistical techniques to solve business problems."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Managing People in Organisations",
+      "Culture and the Organisation",
+      "Developing Personal Skills",
+      "Effective Communication",
+      "Managing Ethically",
+      "Performance Management",
+      "Strategic Human Resource Management",
+      "High Performance Teams",
+      "Leadership Skills",
+      "Motivating and Influencing People"
+    ],
+    "moreInfoUrl": "https://www.iab.org.uk/wp-content/uploads/2023/09/LT-qual-spec-v3.pdf"
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Business Development",
+      "Business Models and Growing Organisations",
+      "Customer Management",
+      "Responding to the Changing Business Environment",
+      "Risk Management and Organisations",
+      "Effective Decision Making"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-5-diploma-in-business-management"
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 Leadership and Teamwork course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 Leadership and Teamwork course, you must have completed the Level 4 Qualifi diploma in Leadership and Teamwork."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the undergraduate Level 4 Diploma in Leadership and Teamwork and Level 5 Diploma in Business Management and final year of an accredited Undergraduate Degree programme will give students the right credentials to go on and apply for a job in Management, Human Resources, Management or Business consultancy.",
+        "Once you’ve completed the course, you’ll be able to apply for senior positions at hotels, restaurants, resorts, and other associated properties in the hotel and hospitality industry around the world."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Bolton",
+        "University of Cumbria"
+    ]
+}
+
+      ]
     },
     {
       "title": "Level 4 & 5 IT and Networking",
-      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/11/Screenshot-2022-06-30-at-17_optimised3.jpg",
+      "imgSrc":"https://images.unsplash.com/photo-1573166584647-2c1366f9b219?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SVR8ZW58MHx8MHx8fDA%3D",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": {
-        "per_month": 120,
-        "per_level": 2900,
-        "both_levels_per_month": 145,
-        "both_levels_total": 3500
-      },
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
-      "qualifications": [
-        {
-          "level": 4,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": 5,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": "4 & 5",
-          "name": "Combined Diploma",
-          "credits": 240
-        }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": {
-        "level_4": "603/4781/8",
-        "level_5": "603/4792/2"
-      },
+      
       "description": "If you have the desire to turn your passion for computers into a career, this IT and Networking Diploma is definitely a course you should consider.",
-      "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online.",
-      "courseModules": {
-        "level_4": [
-          "Computer systems and software",
-          "Computer programming",
-          "Relational database systems",
-          "Software engineering",
-          "Systems analysis and design",
-          "E-commerce applications",
-          "Human computer interaction",
-          "IT and society",
-          "Information systems theory and practice",
-          "Management information systems"
-        ],
-        "level_5": [
-          "Technopreneurship",
-          "Network Security",
-          "C.Net Programming",
-          "System administration",
-          "Network routing and switching",
-          "Network Design and Administration"
-        ]
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our IT and Networking course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, gaining essential skills for the IT industry.",
+        "This flexible online course allows you to start anytime. Each module includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "You'll submit 6 assignments per level (each 2,000-3,000 words). Upon completion, receive a Qualifi diploma with progression opportunities to bachelor's degrees at UK universities.",
+        "Benefit from 1-2-1 tutor support, webinars, learning forums, and study materials throughout your diploma. Visit our Student Resources page for details on our academic standards and support services."
+    ]
+},
+   {
+  "title": "Course Modules",
+  "heading": "IT and Networking Content",
+  "modules1": [
+    "The Level 4 Diploma in IT and Computing includes 10 modules aimed at foundational understanding of IT systems, programming, and human-technology interaction."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Computer Systems and Software",
+        "description": "Develop learners’ understanding of the integration of hardware and software components."
       },
-      "eligibility": {
-        "level_4": "Minimum 18 years old, full secondary education.",
-        "level_5": "Completion of Level 4 or equivalent."
+      {
+        "name": "Computer Programming",
+        "description": "Use tools and techniques to design, implement, and test programs, following the system life cycle."
+      },
+      {
+        "name": "Relational Database Systems",
+        "description": "Develop understanding of database systems and data analysis and modelling."
+      },
+      {
+        "name": "Software Engineering",
+        "description": "Understand the need for software engineering and different methods and techniques."
+      },
+      {
+        "name": "Systems Analysis and Design",
+        "description": "Understand IS concepts and their relevance to business processes and information transformation."
+      },
+      {
+        "name": "E-commerce Applications",
+        "description": "Explore the role of e-commerce in businesses and design considerations based on requirements."
+      },
+      {
+        "name": "Human Computer Interaction",
+        "description": "Understand HCI principles and evaluate existing designs to plan a prototype multimedia user interface."
+      },
+      {
+        "name": "IT and Society",
+        "description": "Examine the societal impact of technology and issues around security and data management."
+      },
+      {
+        "name": "Information Systems Theory and Practice",
+        "description": "Explore project management elements for effective IT project implementation."
+      },
+      {
+        "name": "Management Information Systems",
+        "description": "Understand how information systems support business information and data processing needs."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma focuses on specialized knowledge in tech entrepreneurship, network administration, and dynamic web systems."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Technopreneurship",
+        "description": "Gain knowledge and skills to start a tech business, covering entrepreneurship, planning, marketing, and finance."
+      },
+      {
+        "name": "Network Security",
+        "description": "Understand security issues in networks and methods for prevention and detection of incidents."
+      },
+      {
+        "name": "C#.NET Programming",
+        "description": "Learn ASP.NET programming using C# to create dynamic server-side web applications."
+      },
+      {
+        "name": "System Administration",
+        "description": "Understand the role and key responsibilities of system administration."
+      },
+      {
+        "name": "Network Routing and Switching",
+        "description": "Gain skills to configure routers and switches for multi-area network interconnections."
+      },
+      {
+        "name": "Network Design and Administration",
+        "description": "Learn to design scalable networks and address performance issues in hierarchical network designs."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Information Technology and IT Ethics",
+      "Mathematics and Statistics for IT",
+      "PC Maintenance and Operating Systems",
+      "Computer Graphics Editing and Database Concepts",
+      "Logical IT Networking",
+      "Web Design"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-4-diploma-in-information-technology/"
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Technopreneurship",
+      "Network Security",
+      "C#.NET Programming",
+      "System Administration",
+      "Network Routing and Switching",
+      "Network Design and Administration"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-5-diploma-in-it-networking/"
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol on our Level 4 IT and Computing course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 IT & Networking course, you must have completed the Level 4 Qualifi diploma in IT and Computing."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Whilst studying this course students will develop their skills in programming, systems analysis and design, software development. Upon successful completion of the course, students can pursue a career in IT within the public or private sector."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "University of Derby",
+        "University of Huudersfield",
+        "Middlesex University "
+    ]
+}
+
+      ]
     },
     {
       "title": " Level 4 & 5  IT and Web Design",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-20-1.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": {
-        "per_month": 120,
-        "per_level": 2900,
-        "both_levels_per_month": 145,
-        "both_levels_total": 3500
-      },
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
-      "qualifications": [
-        {
-          "level": 4,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": 5,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": "4 & 5",
-          "name": "Combined Diploma",
-          "credits": 240
-        }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": {
-        "level_4": "603/4781/8",
-        "level_5": "603/4793/4"
-      },
       "description": "If you have the desire to turn your passion for computers into a career, the IT and Web Design Diploma is definitely a course you should consider.",
-      "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) Qualifi diploma. The course is flexible and completed online.",
       "courseModules": {
         "level_4": [
           "Computer systems and software",
@@ -943,85 +2222,377 @@
           "Web design"
         ]
       },
-      "eligibility": {
-        "level_4": "Minimum 18 years old, full secondary education (2 A-levels or equivalent) or relevant work experience.",
-        "level_5": "Completion of Level 4 Qualifi diploma in IT and Web Design."
+     "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our IT and Web Design course can complete a Level 4 (120 credits), Level 5 (120 credits) or a combined Level 4 & 5 (240 credits) Qualifi diploma, gaining essential web development and IT skills.",
+        "This fully online program offers complete flexibility with no fixed start dates. Each module includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "You'll submit 10 assignments at Level 4 and 6 at Level 5 (each 2,000-3,000 words). Upon completion, you'll receive a Qualifi diploma with opportunities to progress to bachelor's degrees at UK universities.",
+        "Benefit from comprehensive support including 1-2-1 tutoring, webinars, learning forums, and study resources. Visit our Student Resources page for details on our academic standards and professional affiliations."
+    ]
+},
+   {
+  "title": "Course Modules",
+  "heading": "IT and Web Design Content",
+  "modules1": [
+    "The Level 4 Diploma in IT and Computing provides foundational knowledge across various domains including software, databases, programming, and societal impact of technology."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Computer Systems and Software",
+        "description": "Develop learners’ understanding of the integration of hardware and software components."
+      },
+      {
+        "name": "Computer Programming",
+        "description": "Use different tools and techniques to design, implement, and test programs following the system life cycle."
+      },
+      {
+        "name": "Relational Database Systems",
+        "description": "Understand database systems, data analysis, and data modelling techniques."
+      },
+      {
+        "name": "Software Engineering",
+        "description": "Gain insight into software engineering concepts, methods, and development techniques."
+      },
+      {
+        "name": "Systems Analysis and Design",
+        "description": "Explore IS concepts in relation to organizational business processes and information transformation."
+      },
+      {
+        "name": "E-commerce Applications",
+        "description": "Understand e-commerce roles in modern business and design implications based on business requirements."
+      },
+      {
+        "name": "Human Computer Interaction",
+        "description": "Study HCI principles and use insights to plan a prototype multimedia user interface."
+      },
+      {
+        "name": "IT and Society",
+        "description": "Examine technology's societal impact, including management, security, and data handling issues."
+      },
+      {
+        "name": "Information Systems Theory and Practice",
+        "description": "Study project management elements essential for IT project development and implementation."
+      },
+      {
+        "name": "Management Information Systems",
+        "description": "Understand information systems' role in supporting business data and information processing."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma advances skills in tech entrepreneurship, web systems, network security, and digital content management."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "Technopreneurship",
+        "description": "Gain knowledge and skills to launch a tech business including planning, marketing, and finance."
+      },
+      {
+        "name": "Network Security",
+        "description": "Understand network security challenges and methods to prevent and detect incidents."
+      },
+      {
+        "name": "C#.NET Programming",
+        "description": "Learn ASP.NET and C# to develop dynamic web pages using server-side scripting."
+      },
+      {
+        "name": "System Administration",
+        "description": "Explore roles and responsibilities in administering computer systems."
+      },
+      {
+        "name": "Content Management Systems",
+        "description": "Learn to use CMS tools for digital content creation, aggregation, publication, and migration."
+      },
+      {
+        "name": "Web Design",
+        "description": "Develop web design skills and critical thinking abilities essential for higher education and learning."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Information Technology and IT Ethics",
+      "Mathematics and Statistics for IT",
+      "PC Maintenance and Operating Systems",
+      "Computer Graphics Editing and Database Concepts",
+      "Logical IT Networking",
+      "Web Design"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-4-diploma-in-information-technology/"
+  },
+  "modules4": [
+    "Assignment Unit Titles for Level 5:"
+  ],
+  "module4sublist": {
+    "sublists": [
+      "Technopreneurship",
+      "Network Security",
+      "C#.NET Programming",
+      "System Administration",
+      "Content Management Systems",
+      "Web Design"
+    ],
+    "moreInfoUrl": "https://qualifi.net/qualifi-level-5-diploma-in-it-web-design/"
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 IT and Web Design course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 IT and Web Design course, you must have completed the Level 4 Qualifi diploma in IT and Computing.",
+          "Contact our admissions team at 0333 772 1158 to discuss your eligibility or if you have any questions about the entry requirements."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Whilst studying this course students will develop their skills in programming, systems analysis and design, software development. Upon successful completion of the course, students can pursue a career in IT within the public or private sector.",
+        "Once you’ve completed the course, you’ll be able to apply for senior positions at hotels, restaurants, resorts, and other associated properties in the hotel and hospitality industry around the world."
+    ]
+   } ,
+  {
+    "title": "University progression",
+    "content": [
+        "Once you've completed your online Level 4 & 5 hospitality management course, you can progress to a third-year 'BA top-up' degree at various UK universities, studying either online or on-campus.",
+        "Below are some universities offering hospitality degree top-up programmes:"
+    ],
+    "contentsublist": [
+        "University of Derby",
+        "University of Huddersfield",
+        "University of Roethampton",
+        "Middlesex University London"
+    ]
+}
+
+      ]
     },
     {
       "title": "Level 4 & 5 Sales and Marketing",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-46.webp",
        "school":"Online Business School",
       "level": "Level 4 & 5",
-      "enrollment_fee": 20,
-      "payment_options": {
-        "per_month": 120,
-        "per_level": 2900,
-        "both_levels_per_month": 145,
-        "both_levels_total": 3500
-      },
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
-      "qualifications": [
-        {
-          "level": 4,
-          "name": "IAB Diploma",
-          "credits": 120
-        },
-        {
-          "level": 5,
-          "name": "Qualifi Diploma",
-          "credits": 120
-        },
-        {
-          "level": "4 & 5",
-          "name": "Combined Diploma",
-          "credits": 240
-        }
-      ],
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials"
-      ],
-      "ofqual_links": {
-        "level_4": "610/3126/4",
-        "level_5": "601/6049/4"
-      },
       "description": "Dream of driving sales growth and crafting compelling marketing strategies? From sales techniques and customer relationship management to digital marketing and brand development – our Sales and Marketing Course can set you on the path to success.",
-      "how_it_works": "Students can complete Level 4 (120 credits), Level 5 (120 credits), or a combined Level 4 & 5 (240 credits) diploma. The course is flexible and completed online. Each module consists of 40 hours of guided learning, with additional 30-50 hours of optional materials.",
-      "courseModules": {
-        "level_4": [
-          "The business environment",
-          "Customers and customer service",
-          "Marketing mix",
-          "Marketing and sales planning",
-          "IT in business",
-          "Managing and using marketing",
-          "Customers and their needs",
-          "E-marketing communications",
-          "High performance sales",
-          "Marketing strategy"
-        ],
-        "level_5": [
-          "The entrepreneurial manager",
-          "Organisation structures",
-          "Practical accounting analysis",
-          "Business planning and goal setting",
-          "Politics and business",
-          "Business law",
-          "Managing in today’s world",
-          "Performance management",
-          "Marketing and sales planning",
-          "Quantitative skills"
-        ]
+      
+
+     "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"From £120 per month, or £2,900 per level",
+      "subtitle3":"From £145 per month, or £3,500 for both levels",
+      "section":[
+     {
+    "title": "How it Works",
+    "content": [
+        "Students on our Sales and Marketing course can complete a Level 4 (120 credits), Level 5 (120 credits) or combined Level 4 & 5 (240 credits) diploma, gaining essential marketing and sales skills for industry success.",
+        "This flexible online program offers anytime enrollment. Each module includes 40 hours of guided learning plus 30-50 hours of optional materials (exercises, readings, digital resources, and self-tests).",
+        "You'll submit 10 assignments at Level 4 and 6 at Level 5 (each 2,000-3,000 words). Graduates receive both IAB and Qualifi diplomas, with progression opportunities to bachelor's degrees at UK universities.",
+        "Access comprehensive support including 1-2-1 tutoring, webinars, learning forums, and study resources. Visit our Student Resources page for details on our accreditations and learning support services."
+    ]
+},
+    {
+  "title": "Course Modules",
+  "heading": "Sales and Marketing Content",
+  "modules1": [
+    "The Level 4 Diploma in Sales and Marketing introduces key concepts in business environments, customer relations, IT usage in business, and foundational marketing strategies."
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "The Business Environment",
+        "description": "Explore an organization's internal and external surroundings, and how these influence business operations."
       },
-      "eligibility": {
-        "level_4": "Minimum 18 years old, full secondary education (2 A-levels or equivalent) or relevant work experience.",
-        "level_5": "Completion of Level 4 Qualifi diploma in Sales and Marketing."
+      {
+        "name": "Customers and Customer Service",
+        "description": "Understand how customers make purchasing decisions and the role of customer service in marketing."
+      },
+      {
+        "name": "Marketing Mix",
+        "description": "Analyze external and operational variables that affect marketing strategy and execution."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Learn the importance of sales and marketing strategies across various sectors including non-profit organizations."
+      },
+      {
+        "name": "IT in Business",
+        "description": "Discover how Information Technology can be used to gain competitive advantage through internal and external business processes."
+      },
+      {
+        "name": "Managing and Using Marketing",
+        "description": "Gain an introduction to marketing principles applicable across all sectors of the economy."
+      },
+      {
+        "name": "Customers and Their Needs",
+        "description": "Identify and satisfy customer needs by building strong business-customer relationships."
+      },
+      {
+        "name": "E-marketing Communications",
+        "description": "Examine the role of the internet and digital tools in transforming traditional marketing activities."
+      },
+      {
+        "name": "High Performance Sales",
+        "description": "Understand how sales performance drives organizational success and growth."
+      },
+      {
+        "name": "Marketing Strategy",
+        "description": "Learn how organizations develop, assess, and implement effective marketing strategies."
       }
+    ]
+  },
+  "modules2": [
+    "The Level 5 Diploma builds on foundational knowledge, developing skills in entrepreneurship, accounting, planning, and strategic management."
+  ],
+  "module2sublist": {
+    "sublists": [
+      {
+        "name": "The Entrepreneurial Manager",
+        "description": "Examine the traits and skills required for successful entrepreneurship."
+      },
+      {
+        "name": "Organisation Structures",
+        "description": "Explore models and theories that explain how businesses are structured."
+      },
+      {
+        "name": "Practical Accounting Analysis",
+        "description": "Understand how to interpret financial statements and take informed business decisions."
+      },
+      {
+        "name": "Business Planning and Goal Setting",
+        "description": "Learn to formulate clear business objectives and actionable plans to achieve them."
+      },
+      {
+        "name": "Politics and Business",
+        "description": "Study the impact of political factors on business, including exports and government policy."
+      },
+      {
+        "name": "Business Law",
+        "description": "Understand the legal responsibilities of business managers and the regulatory environment."
+      },
+      {
+        "name": "Managing in Today’s World",
+        "description": "Examine governance and equality in modern business practices."
+      },
+      {
+        "name": "Performance Management",
+        "description": "Learn how continuous improvement is achieved through training, CPD, and reward structures."
+      },
+      {
+        "name": "Marketing and Sales Planning",
+        "description": "Analyze how markets, customers, products, and competition align within a cohesive marketing plan."
+      },
+      {
+        "name": "Quantitative Skills",
+        "description": "Develop competency in numeric exercises essential for business decision-making."
+      }
+    ]
+  },
+  "modules3": [
+    "Assignment Unit Titles for Level 4:"
+  ],
+  "module3sublist": {
+    "sublists": [
+      "Business Environment",
+      "Customer Service",
+      "Customers and Their Needs",
+      "E-marketing Communications",
+      "Information Technology in Business",
+      "Managing Marketing",
+      "Marketing and Sales Function",
+      "Marketing Mix",
+      "Marketing Strategy",
+      "Selling"
+    ],
+    "moreInfoUrl": "https://www.iab.org.uk/wp-content/uploads/2023/09/SM-Qual-spec-v3.pdf"
+  }
+}
+,
+     {
+      "title": "Entry requirements",
+      "content": [
+          "To enrol in our Level 4 Sales and Marketing course, you must be at least 18 years old and have a full secondary education, meaning you must have a minimum of 2 A-levels or equivalent.",
+          "If you don’t have 2 A-levels or the equivalent, such as NVQ Level 3, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158",
+          "To enrol on the Level 5 Sales and Marketing course, you must have completed the Level 4 Qualifi diploma in Sales and Marketing."
+      ]
+    },
+      {
+    "title": "Cost and payments",
+    "content": [
+        "Level 4: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 5: £2,900",
+        "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+        "Level 4 & 5: £3,500",
+        "Enrol with a £20 deposit and then £145 a month for 24 months, interest-free.",
+        "Students can make payment using one of the following methods:"
+    ],
+    "contentsublist": [
+        "Credit or debit card",
+        "Bank transfer",
+        "Interest-free monthly instalments",
+        "PayPal",
+        "Western Union",
+        "ELCAS funding"
+    ]
+      },
+    {
+    "title": "Career progression",
+    "content": [
+        "Successful completion of the undergraduate Level 4 Diploma in Sales and Marketing and Level 5 Diploma in Business Management and final year of an accredited undergraduate degree programme will give students the right credentials to go on and apply for a job in marketing, sales, human resources, management or business consultancy."
+    ]
+   } ,
+ {
+    "title": "University Progression",
+    "content": [
+        "Once you've completed your Level 4 & 5 Sales and Marketing course, you can progress to a top-up degree at these UK universities:"
+    ],
+    "contentsublist": [
+        "Coventry University",
+        "Northampton University",
+        "University of Derby",
+        "Westcliff University",
+        "University of Hertfordshire",
+        "University of Central Lancashire (UCLAN)",
+        "Middlesex University",
+        "Edinburgh Napier University",
+        "University of Sunderland",
+        "University of Cumbria"
+    ]
+}
+
+      ]
     }
 
   ]

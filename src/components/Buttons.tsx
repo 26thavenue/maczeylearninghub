@@ -12,6 +12,7 @@ const index = ({
     id,
     buttonName,
     className,
+    children,
 }:IButtonProps) => {
 
   const variantClass: Record<ButtonVariant, string>= {
@@ -42,6 +43,7 @@ const index = ({
 
         {iconLeft}
         {buttonName}
+        {children}
         {iconRight} 
     </button>
   )

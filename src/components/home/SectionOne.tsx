@@ -36,9 +36,9 @@ const SectionOne = () => {
 
   return (
     <div className=" w-full lg:w-[90dvw] rounded-2xl mt-24 items-start lg:items-center justify-center mx-auto  p-8 lg:p-24 bg-primary/10 py-24">
-      <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium  ">
+      <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium w-full ">
         Unlock Your Future with World Class
-        <span className="inline lg:block">Online Learning!</span>
+        <span className="inline ">Online Learning!</span>
       </h1>
       <p className="text-sm lg:text-lg mb-12 leading-[1.7] ">
         Flexible, affordable, and high-quality education from top institutions

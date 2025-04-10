@@ -3,6 +3,8 @@
     "title": "Level 3 Accountancy (60 credits)",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-54.webp",
     "school":"Online Business School",
+    "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
     "level": "Level 3",
     "enrolment_fee": "Enrol today for £20 and spread the cost over 24 months interest-free",
     "start_date": "Anytime",
@@ -14,21 +16,117 @@
     "ofqual_link": "Level 3 Diploma in Accountancy – 603/3811/8",
     "ucas_points": "This course is equivalent to 24 UCAS Tariff Points.",
     "description": "This Level 3 university foundation programme is a 60-credit qualification (equivalent to one A level). The objective of the course is to provide learners with a foundation for a career in a range of organisations in relation to financial management and accountancy.",
-    "how_it_works": "Students on our Accounting course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the finance industry. The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks. To complete the course you’ll submit 3 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
-    "eligibility": "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
-    "course_modules": [
-        "Recording financial transactions",
-        "Management information",
-        "Maintaining financial records"
+    "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Accounting course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the finance industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 3 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During the Accounting course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+        {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide essential accountancy knowledge:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Recording Financial Transactions",
+        "description": "Provides a foundational understanding of recording financial transactions, including source documents and classification of income and expenditure."
+      },
+      {
+        "name": "Management Information",
+        "description": "Introduces cost and management accounting concepts and the use of ICT for recording management information, along with its benefits and drawbacks."
+      },
+      {
+        "name": "Maintaining Financial Records",
+        "description": "Covers the importance of keeping financial records, double-entry bookkeeping, and the preparation of a three-column cash book and bank reconciliation statement."
+      }
     ]
+  },
+  "modules2": [
+    "This foundation diploma in Accountancy has 3 written assignments. The assignments are approximately 2,000-3,000 words each. Students are provided support on the modules and assignments via the ‘Tutor’ section of the learning platform."
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Recording Financial Transactions",
+      "Management Information",
+      "Maintaining Financial Records"
+    ]
+  },
+  "modules3": [
+    "During this Accountancy course, you’ll have access to 1-2-1 tutor support and webinars, social learning forums, and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page."
+  ]
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience.",
+            "To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Studying accounting opens a wide range of career opportunities across various industries. Here are some of the primary career paths you can pursue with an accounting degree:"
+            
+          ],
+          "contntsublist":[
+                "Public Accounting",
+                "Corporate Accounting",
+                "Government and Nonprofit Accounting",
+                "Specialised Accounting Roles",
+                "Financial Services"
+              ]
+
+        },
+         {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
+      ]
   },
   {
     "title": "Level 3 Business Management (120 credits)",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-5.webp",
     "school":"Online Business School",
+    "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,600 or £107.50 per month",
     "level": "Level 3",
-    "enrolment_fee": "Enrol today for £20 and spread the cost over 24 months interest-free",
-    "price": "£2,600 or £107.50 per month",
     "start_date": "Anytime",
     "location": "Online",
     "study_pace": "Flexible, you have up to 5 years to complete this course",
@@ -46,12 +144,128 @@
       "Maximising resources",
       "The business environment",
       "Working in teams"
+    ],
+    "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Business Management course can complete a Level 3 (120 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the finance industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 12 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an Qualifi diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During the Business Management course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide essential business knowledge:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Effective Business Communication",
+        "description": "Focuses on developing communication skills vital for business success."
+      },
+      {
+        "name": "Managing Business Operations",
+        "description": "Covers the essentials of running day-to-day business activities efficiently."
+      },
+      {
+        "name": "Managing People in Organisations",
+        "description": "Explores techniques for effective people management within an organisation."
+      },
+      {
+        "name": "Maximising Resources",
+        "description": "Looks at how to optimise the use of resources to improve business performance."
+      },
+      {
+        "name": "The Business Environment",
+        "description": "Introduces the external and internal factors influencing businesses."
+      },
+      {
+        "name": "Working in Teams",
+        "description": "Enhances understanding of team dynamics and collaborative work in business."
+      }
     ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "An Introduction to the Business Environment",
+      "Business Resources",
+      "An Introduction to Marketing",
+      "Human Resource Management",
+      "Business Communication",
+      "Understanding Health and Safety in the Business Workplace",
+      "Managing Business Operations",
+      "An Introduction to Finance",
+      "An Introduction to Leadership Skills",
+      "Organisational Culture",
+      "Workplace Welfare",
+      "Thinking Entrepreneurially"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+         {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Studying Business Management can lead to entry-level roles such as business analyst, management trainee, or marketing coordinator.",
+            "With experience, individuals can advance to mid-level positions like project manager, marketing manager, or operations manager.",
+            "Further progression can lead to senior roles such as director, vice president, or CEO."
+            
+          ]
+        },
+         {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
+      ]
   },
   {
     "title": "Level 3 Business Management (60 credits)",
     "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-9.webp",
     "school":"Online Business School",
+    "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
      "level": "Level 3",
     "enrolment_fee": "Enrol today for £20 and spread the cost over 24 months interest-free",
     "price": "£2,500 or £103.33 per month",
@@ -64,21 +278,120 @@
     "ofqual_link": "Level 3 Foundation Diploma in Business Management – 603/1102/2",
     "ucas_points": "This course is equivalent to 32 UCAS Tariff Points.",
     "description": "The Level 3 university foundation programme is a 60-credit qualification (equivalent to one A level) that teaches students key concepts and a range of management procedures required to work within a business.",
-    "how_it_works": "Students on our Business Management course can complete a Level 3 (60 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the finance industry. The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks. To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
-    "eligibility": "To enrol in our Level 3 Business Management course, you must be at least 16 years old and have a full secondary education.",
-    "course_modules": [
-        "An introduction to marketing",
-        "An introduction to the business environment",
-        "Business communication",
-        "Business resources",
-        "Human resource management",
-        "Recruitment and selection in business"
+    "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Business Management course can complete a Level 3 (60 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the finance industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 12 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an Qualifi diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During the Business Management course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide essential business knowledge:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "An Introduction to Marketing",
+        "description": "Covers key concepts of the marketing mix, planning, and research. Explains the strategic role of marketing and how it contributes to business success."
+      },
+      {
+        "name": "An Introduction to the Business Environment",
+        "description": "Explores different business types and ownership, roles of owners and stakeholders, organisational structure, and the influence of economic, political, legal, and social environments."
+      },
+      {
+        "name": "Business Communication",
+        "description": "Focuses on internal and external communication methods and types of business information. Students develop and evaluate communication strategies."
+      },
+      {
+        "name": "Business Resources",
+        "description": "Examines the use and management of human, physical, technological, and financial resources. Emphasises employability and resource effectiveness."
+      },
+      {
+        "name": "Human Resource Management",
+        "description": "Introduces key HR functions and planning. Covers employee motivation, commitment, and strategic HR practices."
+      },
+      {
+        "name": "Recruitment and Selection in Business",
+        "description": "Details the recruitment and selection process, legal considerations, document preparation, and HR's role in achieving organisational objectives."
+      }
     ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "An Introduction to Marketing",
+      "An Introduction to the Business Environment",
+      "Business Communication",
+      "Business Resources",
+      "Human Resource Management",
+      "Recruitment and Selection in Business"
+    ]
+  }
+},
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Studying Business Management can lead to entry-level roles such as business analyst, management trainee, or marketing coordinator.",
+            "With experience, individuals can advance to mid-level positions like project manager, marketing manager, or operations manager.",
+            "Further progression can lead to senior roles such as director, vice president, or CEO."
+            
+          ]
+        },
+         {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
+      ]
   },
   {
       "title": " Level 3 Employability and Workplace Skills",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-2.webp",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
        "level": "Level 3",
       "credits": 60,
       "enrolment_fee": 20,
@@ -94,23 +407,120 @@
         "FREE laptop*",
         "All course materials and more"
       ],
-      "ofqual_link": "Level 3 Foundation Diploma in Employability and Workplace Skills – 603/7031/2",
-      "ucas_points": 24,
-      "description": "Employability skills are essential skills, personal qualities, and values that enable success in any workplace. This diploma provides learners with knowledge, understanding, and skills necessary for workplace success.",
-      "how_it_works": "The course is completed online and can be started anytime. Each module consists of 40 hours of guided online learning with an additional 30-50 hours of optional materials. To complete the course, students must submit 6 online assignments of approximately 2,000-3,000 words each.",
-      "modules": [
-        "Career planning and development",
-        "Managing own performance",
-        "Personal and professional development",
-        "Employment skills",
-        "Working in a business environment",
-        "Managing resources"
+      "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Employability and Workplace Skills course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the career industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this Employability and Workplace Skills course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to enhance learners' professional and personal skills:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Career Planning and Development",
+        "description": "Focuses on helping learners plan and navigate their career paths effectively."
+      },
+      {
+        "name": "Managing Own Performance",
+        "description": "Develops self-management skills to monitor and enhance personal productivity and performance."
+      },
+      {
+        "name": "Personal and Professional Development",
+        "description": "Encourages learners to set goals, reflect on progress, and build a personal development plan."
+      },
+      {
+        "name": "Employment Skills",
+        "description": "Covers key workplace skills such as communication, teamwork, and time management."
+      },
+      {
+        "name": "Working in a Business Environment",
+        "description": "Introduces business etiquette, office procedures, and expectations in professional settings."
+      },
+      {
+        "name": "Managing Resources",
+        "description": "Teaches efficient use and organisation of resources within a workplace setting."
+      }
+    ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Career Planning and Development",
+      "Managing Own Performance",
+      "Personal and Professional Development",
+      "Employment Skills",
+      "Working in a Business Environment",
+      "Managing Resources"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Studying Employability and Workplace skills can lead to careers such as a Human Resources Specialist or Career Coach, where you assist with recruitment and career development. You might become an Office Manager, overseeing administrative functions, or a Training and Development Coordinator, designing employee training programs.",
+            "Roles like Project Manager and Customer Service Manager are also viable, focusing on project execution and customer relations, respectively. Additionally, you could work as a Corporate Trainer, Recruitment Consultant, or Business Development Officer, enhancing workforce skills and company growth."
+            
+          ]
+        },
+          {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
       ]
     },
     {
       "title": "Level 3 Engineering",
-      "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/11/engineering-60-creds-banner_cropped_optimised.jpg",
+      "imgSrc":"https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RW5naW5lZXJpbmd8ZW58MHx8MHx8fDA%3D",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
        "level": "Level 3",
       "credits": 60,
       "enrolment_fee": 20,
@@ -120,29 +530,119 @@
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 3 Diploma (60 credits)",
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "ofqual_link": "Level 3 Foundation Diploma in Engineering – 603/7030/0",
-      "ucas_points": 24,
-      "description": "This diploma provides learners with an understanding of engineering practices across multiple disciplines. It is designed to support a career in engineering, including fields such as medical engineering and economics.",
-      "how_it_works": "The course is completed online and can be started anytime. Each module consists of 40 hours of guided online learning with an additional 30-50 hours of optional materials. To complete the course, students must submit 6 online assignments of approximately 2,000-3,000 words each.",
-      "modules": [
-        "Engineering principles",
-        "Design Technology",
-        "Electricity",
-        "Mechanics",
-        "Introducing statistics",
-        "Mathematics"
+      "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Engineering course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the Engineering industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this Engineering course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide students with essential knowledge and skills for engineering:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Engineering Principles",
+        "description": "Understand applications of SI units and measurement, perform engineering calculations, and interpret engineering information."
+      },
+      {
+        "name": "Design Technology",
+        "description": "Covers knowledge of engineering products and design, systems approach to electrical design, and 2D CAD drawing production."
+      },
+      {
+        "name": "Electricity",
+        "description": "Focuses on basic electrical components, AC/DC circuit theory, power supplies, and power system protection."
+      },
+      {
+        "name": "Mechanics",
+        "description": "Explores motion, energy changes, energy transfer, forces, and elasticity in mathematical terms."
+      },
+      {
+        "name": "Introducing Statistics",
+        "description": "Covers statistical analysis, data types and their representation, and interpretation of statistical diagrams and measures."
+      },
+      {
+        "name": "Mathematics",
+        "description": "Focuses on algebra, geometry, graphs, exponentials, logarithms, trigonometry, and calculus relevant to engineering problems."
+      }
     ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Engineering Principles",
+      "Design Technology",
+      "Electricity",
+      "Mechanics",
+      "Introducing Statistics",
+      "Mathematics"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "After studying engineering, you can progress into a career as a Mechanical Engineer, designing and developing mechanical systems and products. You might also become a Civil Engineer, focusing on infrastructure projects like roads, bridges, and buildings. Additionally, you could work as an Electrical Engineer, designing and managing electrical systems and equipment."
+            
+          ]
+        },
+          {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
+      ]
     },
     {
       "title": "Level 3 Introduction to Management Diploma",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-31.webp",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
        "level": "Level 3",
       "credits": 60,
       "enrolment_fee": 20,
@@ -152,29 +652,120 @@
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 3 Diploma (60 credits)",
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "ofqual_link": "Level 3 Diploma in Introduction to Management – 603/4373/4",
-      "ucas_points": 32,
-      "description": "This diploma is aimed at students looking to gain university entry, management experience, or career progression. It is particularly suited for team leaders looking to move to the next level of management.",
-      "how_it_works": "The course is completed online and can be started anytime. Each module consists of 40 hours of guided online learning with an additional 30-50 hours of optional materials. To complete the course, students must submit 6 online assignments of approximately 2,000-3,000 words each.",
-      "modules": [
-        "An introduction to finance",
-        "An introduction to leadership skills",
-        "Managing business operations",
-        "Organisational culture",
-        "Working in teams",
-        "Workplace welfare"
+      "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Introduction to Management course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the Management industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this Introduction to ManagementCourse  you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide students with essential knowledge and skills for business management:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "An Introduction to Finance",
+        "description": "Introduces learners to practical accounting and financial reporting techniques used by managers in business organisations."
+      },
+      {
+        "name": "An Introduction to Leadership Skills",
+        "description": "Provides an introduction to leadership skills, their identification and development, and the importance of motivating others."
+      },
+      {
+        "name": "Managing Business Operations",
+        "description": "Covers key aspects of how businesses operate internally and within the wider environment, emphasizing operational control and best practices."
+      },
+      {
+        "name": "Organisational Culture",
+        "description": "Explores the impact of an organisation’s culture on its activities and management, including the importance of ethical business practices."
+      },
+      {
+        "name": "Working in Teams",
+        "description": "Examines the role and dynamics of teams in organisations, the value of teamwork, and how teams are formed and function."
+      },
+      {
+        "name": "Workplace Welfare",
+        "description": "Focuses on the importance of valuing employees and the benefits of ensuring welfare within the organisation."
+      }
+    ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "An Introduction to Finance",
+      "An Introduction to Leadership Skills",
+      "Managing Business Operations",
+      "Organisational Culture",
+      "Working in Teams",
+      "Workplace Welfare"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+         {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "After studying Introduction to Management, you can pursue a career as a Business Manager, overseeing operations and strategy within an organisation. You might also become a Project Manager, planning and executing projects to meet organisational goals.",
+            "Additionally, you could work as a Marketing Manager, developing and implementing marketing strategies to drive business growth."
+            
+          ]
+        },
+         {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
       ]
     },
     {
       "title": "Level 3 People and Organisations",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-9-_1_.webp",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
        "level": "Level 3",
       "credits": 60,
       "enrolment_fee": 20,
@@ -185,54 +776,229 @@
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 3 Diploma (60 credits)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "ofqual_link": "Level 3 Diploma in People and Organisations – 603/7032/4",
-      "ucas_points": 24,
-      "description": "The People and Organisations Level 3 University Foundation Programme is a 60-credit qualification (equivalent to one A level). It is aimed at students seeking university entry, gaining management experience for promotion, or broadening their job prospects. It is particularly suited to practising team leaders who wish to advance to the next level of management.",
-      "how_it_works": "The course is completed online and can be started anytime. Each module consists of 40 hours of guided online learning with an additional 30-50 hours of optional materials. To complete the course, students must submit 6 online assignments of approximately 2,000-3,000 words each.",
-      "modules": [
-        "An introduction to finance",
-        "An introduction to leadership skills",
-        "Managing business operations",
-        "Organisational culture",
-        "Working in teams",
-        "Workplace welfare"
+      "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our People and Organisations course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the Management industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this People and Organisations Course  you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide students with essential knowledge and skills for business management:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "An Introduction to Finance",
+        "description": "Introduces learners to practical accounting and financial reporting techniques used by managers in business organisations."
+      },
+      {
+        "name": "An Introduction to Leadership Skills",
+        "description": "Provides an introduction to leadership skills, their identification and development, and the importance of motivating others."
+      },
+      {
+        "name": "Managing Business Operations",
+        "description": "Covers key aspects of how businesses operate internally and within the wider environment, emphasizing operational control and best practices."
+      },
+      {
+        "name": "Organisational Culture",
+        "description": "Explores the impact of an organisation’s culture on its activities and management, including the importance of ethical business practices."
+      },
+      {
+        "name": "Working in Teams",
+        "description": "Examines the role and dynamics of teams in organisations, the value of teamwork, and how teams are formed and function."
+      },
+      {
+        "name": "Workplace Welfare",
+        "description": "Focuses on the importance of valuing employees and the benefits of ensuring welfare within the organisation."
+      }
     ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "An Introduction to Finance",
+      "An Introduction to Leadership Skills",
+      "Managing Business Operations",
+      "Organisational Culture",
+      "Working in Teams",
+      "Workplace Welfare"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "After studying People and Organisations, you can pursue a career as a Human Resources Manager, focusing on employee relations, recruitment, and training. You might also become an Organisational Development Consultant, helping companies improve their efficiency and workplace culture. Additionally, you could work as a Talent Acquisition Specialist, identifying and attracting top talent to meet organisational needs."
+          ]
+        },
+          {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
+      ]
+    
     },
     {
       "title": "Level 3 Information Technology",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-58.webp",
       "school":"Online Business School",
+      "subheading":"Enrol today for £20 and spread the cost over 24 months interest free",
+    "subheading2":"£2,500 or £103.33 per month",
        "level": "Level 3",
-      "credits": 60,
-      "enrolment_fee": 20,
-      "cost": "£2,500",
-      "installment_plan": "£103.33 per month",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible, up to 5 years to complete",
       "qualification": "Level 3 Diploma (60 credits)",
-      "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "ofqual_link": "Level 3 Foundation Diploma in Information Technology – 603/7029/4",
-      "ucas_points": 24,
-      "description": "The Level 3 Foundation Diploma in Information Technology is a 60-credit qualification (equivalent to one A level). The objective of the course is to equip learners with the skills and knowledge required to work in the IT sector or to progress to further study.",
-      "how_it_works": "The course is completed online and can be started anytime. Each module consists of 40 hours of guided online learning with an additional 30-50 hours of optional materials. To complete the course, students must submit 6 online assignments of approximately 2,000-3,000 words each.",
-      "modules": [
-        "Computer Systems",
-        "Coding and Website Development",
-        "Networks",
-        "Mobile Communications",
-        "Cyber Security",
-        "Social Media for Business"
+       "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our IT course can complete a Level 3 (60 credits) OTHM diploma, designed to provide students with the skills needed to succeed in the Management industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 6 online assignments at each level, and assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with an OTHM diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this IT Course  you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+       {
+  "title": "Course Modules",
+  "heading": "Course Modules",
+  "modules1": [
+    "This course includes the following modules, designed to provide students with a comprehensive understanding of essential technical skills:"
+  ],
+  "module1sublist": {
+    "sublists": [
+      {
+        "name": "Computer Systems",
+        "description": "Understand the purpose and components of computer systems, and be able to configure them."
+      },
+      {
+        "name": "Coding and Website Development",
+        "description": "Covers the purpose and types of coding, web architecture, and the creation of interactive websites."
+      },
+      {
+        "name": "Networks",
+        "description": "Understand networking principles, hardware and software connections, and related security concerns."
+      },
+      {
+        "name": "Mobile Communications",
+        "description": "Learn about mobile communication devices, technologies used, and implications of the technology."
+      },
+      {
+        "name": "Cyber Security",
+        "description": "Understand core cyber security concepts, terminology, and threat intelligence."
+      },
+      {
+        "name": "Social Media for Business",
+        "description": "Understand the use, planning, and publishing of social media in a business context, and how to develop policies and plans."
+      }
+    ]
+  },
+  "modules2": [
+    "The following written assignments are part of the course:"
+  ],
+  "modules2sublists": {
+    "sublists": [
+      "Computer Systems",
+      "Coding and Website Development",
+      "Networks",
+      "Mobile Communication",
+      "Cyber Security",
+      "Social Media for Business"
+    ]
+  }
+},
+
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol in our Level 3 Accounting course, you must be at least 16 years old and have a full secondary education.",
+            "If you don’t have a full secondary education or the equivalent, you may also be able to enrol based on your work experience. To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 3: £2500",
+            "Enrol with a £20 deposit and then £103.33 a month for 24 months, interest free.",
+            "Students can make payment using one of the following methods:"
+          ],
+          "contentsublist":[
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Whilst studying this course students will develop their skills in programming, systems analysis and design, and software development.",
+            "Upon successful completion of the course, students can pursue a career in IT within the public or private sector.  "
+          ]
+        },
+         {
+          "title" :"University progression",
+          "content":[
+            "Upon completing this course, students can progress to a full BA or BSc degree programme at a variety of UK universities, online or on campus."
+          ],
+          "contentsublist ":[
+                "Coventry University ",
+                "Anglia Ruskin University",
+                "London Metropolitan University",
+                "University of Derby",
+                "Middlesex University"
+              ]
+          
+        }
       ]
     }
 ]

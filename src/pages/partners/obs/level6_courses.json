@@ -3,60 +3,220 @@
       "title": "Level 6 Business Administration (120 Credits)",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/6-1.webp",
       "school":"Online Business School",
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"£2,900 or £120 per month",
       "level": "Level 6",
       "description":"Dream of driving business growth and shaping strategic initiatives? From advanced business development and operations management to financial planning and marketing – our Level 6 Business Administration Course can set you on the path to success.",
-      "enrolment_fee": "£20",
-      "total_cost": "£2,900",
-      "monthly_cost": "£120 per month",
-      "payment_duration": "24 months interest-free",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
       "qualification": "Level 6 Diploma (120 credits)",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
+      "includes": "1-2-1 tutor support, FREE laptop*, all course materials and more",
       "ofqual_link": "Level 6 Diploma in Business Administration – 603/1037/6",
-      "modules": [
-        "IT in business",
-        "Effective communications",
-        "High performance teams",
-        "Leadership skills",
-        "Manager’s toolkit",
-        "Managing and using finance",
-        "Managing and using marketing",
-        "Managing organisations",
-        "Personal effectiveness",
-        "Quality and excellence"
+      "description2":"Accredited by Qualifi and recognised by leading industry organisations, our online Level 6 Business Administration course covers everything from strategic planning, operations, and market analysis to financial management, leadership, and business ethics.",
+      "section":[
+        {
+          "title": "How It Works",
+          "content": [
+            "Students on our Business Administration course can complete Level 6 (120 credits) Qualifi diploma, designed to provide students with the skills needed to succeed in the business industry.",
+            "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+            "To complete the course you’ll submit 5 online assignments at Level 6. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Qualifi diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+            "Once you’ve passed your course, you’ll be awarded a Qualifi diploma and can top up to a bachelor’s degree at a UK university.",
+            "During this Business Administration course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+          ]
+        },
+       {
+          "title": "Course Modules",
+          "heading": "Course Modules",
+          "modules1": [
+            "This Business Administration course contains 10 online modules. These are designed to provide students with core managerial knowledge across a wide range of business functions. The modules covered include:"
+          ],
+          "module1sublist": {
+            "sublists": [
+              {
+                "name": "IT in business",
+                "description": "There is clear evidence that information technology provides competitive advantage, whatever the business sphere an organisation operates it, this module will assess pros and cons of using information technology within business."
+              },
+              {
+                "name": "Effective communications",
+                "description": "Information is the most valuable asset in the contemporary organisation, and communication is the method by which information is shared. It is on the basis of information that business decisions are made. So without effective communications, an organisation simply cannot perform optimally."
+              },
+              {
+                "name": "High performance teams",
+                "description": "This module is designed for both new and experienced managers. Using a mix of information, personal and team activities, it aims to help learners develop new team building skills or refine and expand the team building skills they already possess."
+              },
+              {
+                "name": "Leadership skills",
+                "description": "Good leadership is essential for success in any organisation, whether in the private or public sector. Today, rapid change, in the form of a constantly changing competitive environment, innovations in technology and changing economic conditions, have led to the realisation that leadership is a skill to be developed."
+              },
+              {
+                "name": "Manager’s toolkit",
+                "description": "Introduces essential management tools for strategy and decision-making."
+              },
+              {
+                "name": "Managing and using finance",
+                "description": "There are literally thousands of management tools and models which can be used for analysis, problem solving and strategy development. The trick for the practising manager is to master a few which are versatile and which can be used in most of the situations you are likely to encounter."
+              },
+              {
+                "name": "Managing and using marketing",
+                "description": "The focus of marketing is on the customer and customer satisfaction – meeting the needs of customers through the products/services we sell and offering the customer what they perceive as value. Today customers have higher and higher expectations for quality, service and value."
+              },
+              {
+                "name": "Managing organisations",
+                "description": "There is a great deal of focus on creating the right type of organisation today because it is recognised that the structure, culture and management of the organisation has a huge influence on organisational performance."
+              },
+              {
+                "name": "Personal effectiveness",
+                "description": "So what is personal effectiveness? Personal effectiveness covers those skills and abilities that we need to have, regardless of our job, status or professional background. Personal effectiveness is about using the key skills we have identified to achieve greater productivity and successful results – whether that be on a business or personal basis."
+              },
+              {
+                "name": "Quality and excellence",
+                "description": "The words quality and excellence are used in a wide variety of contexts in organisations. We refer to a quality product, a quality company, excellent business procedures or an excellent service. So, what exactly do we mean by these terms? Does quality mean conformance to specifications? Does it mean a product or service without flaws? Does it mean excellence?"
+              }
+            ]
+          },
+          "modules2": [
+            "The Level 6 Business Administration course includes written assignments that test practical understanding. Each assignment is approximately 2,000–3,000 words. Students are provided support on the modules and assignments via the ‘Tutor’ section of the learning platform.",
+            "The assignment unit titles for the level 6 course are:"
+          ],
+          "modules2sublists": {
+            "sublists": [
+              "Management control",
+              "Management of sales force",
+              "Strategic marketing management",
+              "Business law",
+              "Research project including research methods"
+            ]
+          },
+          "modules3": [
+            "For more details, visit the official course page:"
+          ],
+          "modules3link": "https://qualifi.net/qualifi-level-6-diploma-in-business-administration/"
+        },
+        
+        {
+            "title": "Entry Requirements",
+            "content": [
+              "Must be 21+ years old with at least 3 years of relevant experience.",
+              "Expected to hold a Level 4/5 qualification or equivalent (first 2 years of a degree).",
+              "Candidates with significant experience but no formal qualifications may be considered.",
+              "Contact: 0333 772 1158 for more info."
+            ]
+        },
+        {
+          "title":"Career Progression",
+          "content":"Studying business administration can lead to roles such as business analyst, management trainee, or marketing coordinator. With experience, individuals can advance to mid-level positions like project manager, marketing manager, or operations manager. Further progression can lead to senior roles such as director, vice president, or CEO."
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 6: £2,900",
+            "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:" 
+          ],
+          "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+            
+        },
+        {
+          "title":"University Progression",
+          "content":"On completion of this course students will have the opportunity to apply for admission onto a full MBA programme from a range of UK universities. Alternatively students can opt to study our Level 7 Diploma in Strategic Management and Leadership and then go on to complete a MBA top up at a range of UK universities."
+        }
       ]
     },
     {
       "title": "Level 6 Professional Sales Management",
       "imgSrc":"https://www.onlinebusinessschool.com/wp-content/uploads/2024/09/120-Business-Banner-4.webp",
+      "subtitle":"Enrol today for £20 and spread the cost over 24 months interest free.",
+      "subtitle2":"£2,900 or £120 per month",
       "school":"Online Business School",
-       "level": "Level 6",
+      "level": "Level 6",
       "description":"Are you interested in finding out what makes a successful salesperson in terms of knowledge, skills and attitude? Sales is the foundation stone upon which organisations are built. The Level 6 Professional Sales Management course seeks to develop the knowledge and skills of salespeople whilst also providing them with a professional qualification platform to match their career aspirations.",
-      "enrolment_fee": "£20",
-      "total_cost": "£2,900",
-      "monthly_cost": "£120 per month",
-      "payment_duration": "24 months interest-free",
       "start_date": "Anytime",
       "location": "Online",
       "study_pace": "Flexible (no deadlines or timeframes)",
       "qualification": "Level 6 Diploma",
       "assessment": "Online written assignments",
-      "includes": [
-        "1-2-1 tutor support",
-        "FREE laptop*",
-        "All course materials and more"
-      ],
-      "modules": [
-        "Selling as a profession",
-        "Planning and preparation for sales",
-        "Sales process implementation"
+      "includes": "1-2-1 tutor support FREE laptop* All course materials and more",
+      "section":[
+        {
+            "title": "How It Works",
+            "content": [
+              "Students on our Professional Sales Management course can complete Level 6 diploma, designed to provide students with the skills needed to succeed in the business industry.",
+              "The course is completed online and you can start at any time, it’s completely flexible. Each module consists of 40 hours of guided online learning, with an additional 30-50 hours worth of optional materials that include recommended exercises, readings, digital resources and self-test tasks.",
+              "To complete the course you’ll submit 3 online assignments at Level 6. Assignments are approximately 2,000-3,000 words each. Once you’ve passed your course, you’ll be awarded with a Level 6 diploma and you’ll be able to top up your qualification to a bachelor’s degree at a range of UK universities.",
+              "During this course you’ll have access to 1-2-1 tutor support and webinars, social learning forums and additional materials to complete your diploma with ease. You can find out more about the support you’ll have available on our Student Resources page. You can also read about the academic credentials we meet and associations we’re part of to make sure you have the best learning experience."
+            ]
+        },
+        {
+          "title":"Course Modules",
+          "heading":"Course Modules",
+          "module1sublist":
+            {
+              "sublists": [
+                "Selling as a profession",
+                "Planning and preparation for sales",
+                "Sales process implementation"
+              ]
+            }
+          ,
+          "modules1":[
+            "This Professional Sales Management course contains 3 online modules. These are designed by Online Business School’s expert academic team to provide students with a solid theoretical basis for developing their teaching skills, and therefore cover the following topics:"
+          ],
+           "modules2":[
+            "The Level 6 Professional Sales Management course has 3 written assignments. The assignments are approximately 5,000 words each. Students are provided support on the modules and assignments via the ‘Tutor’ section of the learning platform.",
+            "The assignment unit titles for the level 6 course are:"
+          ],
+          "modules2sublists":{
+              "sublists": [
+                "Selling as a profession",
+                "Planning and preparation for sales",
+                "Sales process implementation"
+              ]
+            }
+        },
+        {
+          "title":"Entry Requirements",
+          "heading":"Am I eligible for this programme?",
+          "content":[
+            "To enrol on this Level 6 programme, you must be 18+ years old and have at least 1 year of relevant sales experience.",
+            "In certain circumstances, students with considerable experience but no formal qualifications may be considered.",
+            "To find out more, talk to one of our helpful team members at: 0333 772 1158"
+          ]
+        },
+        {
+          "title":"Cost and payments",
+          "content":[
+            "Level 6: £2,900",
+            "Enrol with a £20 deposit and then £120 a month for 24 months, interest-free.",
+            "Students can make payment using one of the following methods:" 
+          ],
+          "contentsublist":[
+              
+                "Credit or debit card",
+                "Bank transfer",
+                "Interest-free monthly instalments",
+                "PayPal",
+                "Western Union",
+                "ELCAS funding"
+              ]
+            
+        },
+        {
+          "title" :"Career Progression",
+          "heading":"Progression",
+          "content":[
+            "Successful completion of the undergraduate Level 6 Professional Sales Management programme will improve your sales skillset. This course is aimed at senior sales managers, directors or those aspiring to progress to senior level."
+          ]
+        }
       ]
     }
   ]
