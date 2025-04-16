@@ -15,9 +15,9 @@ const AboutUs = () => {
       >
         <h1 className="text-2xl cursor-pointer group lg:text-5xl leading-tight font-medium text-black tracking-[-1px] mb-4  text-center lg:text-left">
           Your Partner in Expanding 
-          <span className="bg-primary cursor-pointer text-white skew-3 ml-2 py-3 px-6 rounded-3xl group-hover:rounded-full transition ease-fluid">Education</span>
+          <span className="bg-primary cursor-pointer text-white skew-3 ml-2 py-3 px-6 rounded-3xl  transition ">Education</span>
         </h1>
-        <p className="lg:text-xl max-w-5xl text-gray-600  lg:leading-8  text-center mb-16">We're a dynamic team of education enthusiasts dedicated to providing accessible, affordable, and high-quality educational pathways to individuals around the world.</p>
+        <p className="lg:text-xl max-w-5xl text-gray-800  lg:leading-8  text-center mb-16">We're a dynamic team of education enthusiasts dedicated to providing accessible, affordable, and high-quality educational pathways to individuals around the world.</p>
         <img src={aboutUsImg}
         alt="aboutUs" className="object-cover w-[90dvw] h-[90dvh] mx-auto rounded-2xl"/>
       </div>

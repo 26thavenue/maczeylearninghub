@@ -35,7 +35,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="py-2 px-6 lg:px-12 max-h-20 flex items-center justify-between bg-black text-white font-primary">
+    <nav className="py-2 px-6 lg:px-12 max-h-20 flex items-center justify-between bg-[#211f20] text-white font-primary">
       {/* Empty div for balance */}
       <div className="w-10"></div>
 
@@ -86,7 +86,7 @@ const Navbar = () => {
                 className="self-end p-2"
                 aria-label="Close menu"
               >
-                <IoMdClose className="w-7 h-7" />
+                <IoMdClose className="w-7 h-7 cursor-pointer" />
               </button>
               
               {/* Menu items with larger, bolder text */}

@@ -4,6 +4,7 @@ import HighschoolImg from "/rga/highSchool.avif"
 import collegeImg from "/rga/College.avif"
 import Banner from '../../../components/Banner';
 import Img from "/rga/ega.avif"
+import { Link } from 'react-router-dom';
 
 const Index = () => {
   
@@ -86,7 +87,10 @@ const Index = () => {
                   <strong>Electives:</strong> 9 credits
                 </li>
               </ul>
-              <Button variant="tertiary" buttonName="Get in Touch" className="w-fit rounded-md" />
+              <Link to="/partners/rga/highschool">
+                <Button variant="tertiary" buttonName="Get in Touch" className="w-fit rounded-md" />
+              </Link>
+              
             </div>
           </div>
 
@@ -114,7 +118,10 @@ const Index = () => {
                 <li>Maintain a weighted GPA of 3.0 or above</li>
                 <li>Complete any prerequisite courses</li>
               </ul>
-              <Button variant="tertiary" buttonName="Get in Touch" className="w-fit rounded-md" />
+               <Link to="/partners/rga/college">
+                <Button variant="tertiary" buttonName="Get in Touch" className="w-fit rounded-md" />
+              </Link>
+              
             </div>
           </div>
         </div>

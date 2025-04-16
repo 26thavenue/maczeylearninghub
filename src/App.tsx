@@ -16,6 +16,8 @@ import  EGradCoursesPage from "./pages/partners/egraduate/course"
 
 import OBSCoursePage from "./pages/partners/obs/CoursePage"
 import SRHCoursePage from './pages/partners/srh/CoursePage'
+import HighSchoolRGAPage from "./pages/partners/rga/highSchool"
+import CollgeRGAPage from "./pages/partners/rga/college"
 
 
 
@@ -41,6 +43,10 @@ function App() {
           <Route path="partners/online-business-school/:courseTitle" element={<OBSCoursePage />} />
           <Route path="partners/e-graduate-academy/:courseTitle" element={<EGradCoursePage />} />
           <Route path="partners/srh-university/:courseTitle" element={<SRHCoursePage />} />
+
+           <Route path="partners/rga/highschool" element={<HighSchoolRGAPage />} />
+           <Route path="partners/rga/college" element={<CollgeRGAPage />} />
+
           
         </Route>
       </Routes>

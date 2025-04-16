@@ -35,15 +35,20 @@ const SectionOne = () => {
   ];
 
   return (
-    <div className=" w-full lg:w-[90dvw] rounded-2xl mt-24 items-start lg:items-center justify-center mx-auto  p-8 lg:p-24 bg-primary/10 py-24">
-      <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium w-full ">
+    <div className=" w-full lg:w-[90dvw] rounded-2xl my-24 items-start lg:items-center justify-center mx-auto  p-8 lg:p-24 bg-primary/10 ">
+
+      <div className="flex flex-col items-center justify-center w-full ">
+        <h1 className="text-2xl mb-2 lg:text-5xl leading-tight tracking-[-1px] font-medium  ">
         Unlock Your Future with World Class
         <span className="inline ">Online Learning!</span>
       </h1>
-      <p className="text-sm lg:text-lg mb-12 leading-[1.7] ">
+      <p className="text-sm lg:text-xl mb-12 leading-[1.7] w-full  flex flex-col items-center ">
         Flexible, affordable, and high-quality education from top institutions
         worldwide. <span className="block">Start your journey today!</span>
       </p>
+      </div>
+
+      
 
       {/* Cards Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 w-full">
@@ -54,7 +59,7 @@ const SectionOne = () => {
               backgroundColor:card.bg,
               color:card.text
             }}
-            className="flex flex-col-reverse hover:opacity-80 cursor-pointer transition-opacity  text-black lg:flex-row  min-h-[250px] p-8 lg:items-center items-start gap-4 justify-center lg:justify-between   ease-in-out w-full"
+            className="flex rounded-md   flex-col-reverse hover:opacity-80 cursor-pointer transition-opacity  text-black lg:flex-row  min-h-[250px] p-8 lg:items-center items-start gap-4 justify-center lg:justify-between   ease-in-out w-full"
           >
             {/* Text Section */}
             <div className="flex flex-col w-full lg:w-1/2 break-words">
